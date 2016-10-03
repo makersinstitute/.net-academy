@@ -64,7 +64,7 @@
   
 ## <a name="week1"></a>Week 1
 
-#### <a name="day11"></a>Day 1 - 
+#### <a name="day11"></a>Day 1 - Orientation & Version Control
 - Pre-Reading:
   - [Git - The Simple Guide](http://rogerdudler.github.io/git-guide/)
   - [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
