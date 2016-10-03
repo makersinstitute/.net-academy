@@ -1,8 +1,10 @@
-# Syllabus .NET
+![Makers Institute](https://makersinstitute.id/img/logo-makersinstitute.png)
 
-* [Week 1](#week-1)
-  * [Day 1](#day-1-1)
-  * [Day 2](#day-1-2)
+# .NET Syllabus
+
+* [Week 1](#week1)
+  * [Day 1](#day11)
+  * [Day 2](#day12)
   * Day 3
   
 * Week 2
@@ -60,9 +62,9 @@
   * Day 2
   * Day 3
   
-## <a name="week-1"></a>Week 1
+## <a name="week1"></a>Week 1
 
-#### <a name="day-1-1"></a>Day 1 - 
+#### <a name="day11"></a>Day 1 - 
 * Pre-reading:
   * reading 1
   * reading 2
@@ -82,7 +84,7 @@
 * Assesment
   * assesment 1
   
-#### <a name="day-1-2"></a>Day 2 - 
+#### <a name="day12"></a>Day 2 - 
 * Pre-reading:
   * reading 1
   * reading 2
