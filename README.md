@@ -85,7 +85,7 @@
       - Students will be able to minimally manage vim to escape merge conflict messages
       - Students will know how to make a Pull Request
 - Project:
-  - [Learn Git](https://github.com/DevMountain/learn-git)
+  - [Learn Git](https://github.com/makersinstitute/learn-git)
 - Additional Practice:
   - [Learn Git Branching] (http://pcottle.github.io/learnGitBranching/)
 - Additional Reading:
