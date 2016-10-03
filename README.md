@@ -1,8 +1,8 @@
 # Syllabus .NET
 
-* Week 1
-  * Day 1
-  * Day 2
+* [Week 1](week-1)
+  * [Day 1](day-1-1)
+  * [Day 2](day-1-2)
   * Day 3
   
 * Week 2
@@ -60,44 +60,44 @@
   * Day 2
   * Day 3
   
-## Week 1
+## Week 1<a name="week-1"></a>
 
-**Day 1 - **
+__Day 1 - __<a name="day-1-1"></a>
 * Pre-reading:
-  *
-  *
-  *
+  * reading 1
+  * reading 2
+  * reading 3
 * Learning Objectives
-  *
-    *
-    *
-  *
-  *
+  * objective 1
+    * subobjective 1
+    * subobjective 2
+  * objective 2
+  * objective 3
 * Project
-  *
+  * project 1
 * Additional Practice:
-  * 
+  * additional practice 1
 * Additional Reading:
-  * 
+  * additional reading 1
 * Assesment
-  * 
+  * assesment 1
   
-**Day 2 - **
+__Day 2 - __<a name="day-1-2"></a>
 * Pre-reading:
-  *
-  *
-  *
+  * reading 1
+  * reading 2
+  * reading 3
 * Learning Objectives
-  *
-    *
-    *
-  *
-  *
+  * objective 1
+    * subobjective 1
+    * subobjective 2
+  * objective 2
+  * objective 3
 * Project
-  *
+  * project 1
 * Additional Practice:
-  * 
+  * additional practice 1
 * Additional Reading:
-  * 
+  * additional reading 1
 * Assesment
-  * 
+  * assesment 1
