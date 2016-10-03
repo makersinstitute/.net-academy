@@ -1,4 +1,4 @@
-<a href="https://makersinstitute.id" target="_blank">![Makers Institute](https://makersinstitute.id/img/logo-makersinstitute.png)</a>
+![Makers Institute](https://makersinstitute.id/img/logo-makersinstitute.png)
 
 # .NET Syllabus
 
