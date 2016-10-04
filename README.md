@@ -65,10 +65,6 @@
 ## <a name="week1"></a>Week 1
 
 #### <a name="day11"></a>Day 1 - Orientation & Version Control
-- Pre-Reading:
-  - [Git - The Simple Guide](http://rogerdudler.github.io/git-guide/)
-  - [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
-  - **Make sure you [Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)**
 - Learning Objectives
     - Students will understand and be able to use the command line for
       - creating a folder
@@ -84,8 +80,14 @@
       - Students will be able to handle merge conflicts
       - Students will be able to minimally manage vim to escape merge conflict messages
       - Students will know how to make a Pull Request
-- Project:
-  - [Learn Git](https://github.com/makersinstitute/learn-git)
+- Pre-Reading:
+  - [Git - The Simple Guide](http://rogerdudler.github.io/git-guide/)
+  - [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
+  - **Make sure you [Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)**
+- Presentation:
+  -
+- Practice:
+  -
 - Additional Practice:
   - [Learn Git Branching] (http://pcottle.github.io/learnGitBranching/)
 - Additional Reading:
@@ -95,6 +97,8 @@
   - [Getting Started with Git](http://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
 - Assessment
   - [Command Line & git](https://codecard.io/a/cardio-preview/N4XGkKbju)
+- Project:
+  - [Learn Git](https://github.com/makersinstitute/learn-git)
   
 #### <a name="day12"></a>Day 2 - 
 - Pre-reading:
