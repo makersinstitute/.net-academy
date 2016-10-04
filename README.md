@@ -86,9 +86,9 @@
   - **Make sure you [Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)**
 - Presentation:
   - Presentation 1
-- Practice:
-  - Practice 1
-- Additional Practice:
+- Hands on Lab:
+  - [Lab 1] (https://try.github.io/levels/1/challenges/1)
+- Additional Hands on Lab:
   - [Learn Git Branching] (http://pcottle.github.io/learnGitBranching/)
 - Additional Reading:
   - [The Command Line Crash Course] (http://cli.learncodethehardway.org/book/)
