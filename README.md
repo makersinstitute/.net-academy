@@ -65,7 +65,7 @@
 ## <a name="week1"></a>Week 1
 
 #### <a name="day11"></a>Day 1 - Orientation & Version Control
-- Learning Objectives
+- Learning Objectives:
     - Students will understand and be able to use the command line for
       - creating a folder
       - creating a file
@@ -85,9 +85,9 @@
   - [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
   - **Make sure you [Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)**
 - Presentation:
-  -
+  - Presentation 1
 - Practice:
-  -
+  - Practice 1
 - Additional Practice:
   - [Learn Git Branching] (http://pcottle.github.io/learnGitBranching/)
 - Additional Reading:
@@ -95,23 +95,27 @@
   - [Lecture archive] (https://vimeo.com/groups/331341/videos/142188795)
   - [Visual Git guide] (http://marklodato.github.io/visual-git-guide/index-en.html)
   - [Getting Started with Git](http://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
-- Assessment
+- Assessment:
   - [Command Line & git](https://codecard.io/a/cardio-preview/N4XGkKbju)
 - Project:
   - [Learn Git](https://github.com/makersinstitute/learn-git)
   
 #### <a name="day12"></a>Day 2 - 
-- Pre-reading:
-  - reading 1
-  - reading 2
-  - reading 3
-- Learning Objectives
+- Learning Objectives:
   - objective 1
     - subobjective 1
     - subobjective 2
   - objective 2
   - objective 3
-- Project
+- Pre-reading:
+  - reading 1
+  - reading 2
+  - reading 3
+- Presentation:
+  - presentation 1
+- Practice:
+  - practice 1
+- Project:
   - project 1
 - Additional Practice:
   - additional practice 1
@@ -119,3 +123,5 @@
   - additional reading 1
 - Assesment
   - assesment 1
+- Project:
+  - project 1
