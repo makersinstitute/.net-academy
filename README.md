@@ -8,14 +8,14 @@
   * [Day 3](#day13)
   
 * [Week 2](#week2)
-  * [Day 1](#day21)
-  * [Day 2](#day22)
-  * [Day 3](#day23)
+  * [Day 1 - Intro to C#, Hello world, Variable, Operators, Array, String, List](#day21)
+  * [Day 2 - Interactive Program, Decisions, Loop](#day22)
+  * [Day 3 - Object Oriented Programming Part 1](#day23)
   
 * [Week 3](#week3)
-  * [Day 1](#day31)
-  * [Day 2](#day32)
-  * [Day 3](#day33)
+  * [Day 1 - Object Oriented Programming Part 2](#day31)
+  * [Day 2 - Enum, Struc, LINQ, I/O](#day32)
+  * [Day 3 - Project Assignment : Simple Payroll Software](#day33)
   
 * [Week 4](#week4)
   * [Day 1](#day41)
@@ -154,7 +154,7 @@
 
 ## <a name="week2"></a>Week 2
 
-#### <a name="day21"></a>Day 1 - 
+#### <a name="day21"></a>Day 1 - Intro to C#, Hello world, Variable, Operators, Array, String, List
 - Learning Objectives:
   - objective 1
     - subobjective 1
@@ -163,6 +163,58 @@
   - objective 3
 - Pre-reading:
   - [intro to HTML & CSS](http://learn.shayhowe.com/html-css/building-your-first-web-page/)
+  - reading 2
+  - reading 3
+- Presentation:
+  - presentation 1
+- Practice:
+  - practice 1
+- Project:
+  - project 1
+- Additional Practice:
+  - additional practice 1
+- Additional Reading:
+  - additional reading 1
+- Assesment
+  - assesment 1
+- Project:
+  - project 1
+  
+  #### <a name="day21"></a>Day 2 - Interactive Program, Decisions, Loop
+- Learning Objectives:
+  - objective 1
+    - subobjective 1
+    - subobjective 2
+  - objective 2
+  - objective 3
+- Pre-reading:
+  - reading 1
+  - reading 2
+  - reading 3
+- Presentation:
+  - presentation 1
+- Practice:
+  - practice 1
+- Project:
+  - project 1
+- Additional Practice:
+  - additional practice 1
+- Additional Reading:
+  - additional reading 1
+- Assesment
+  - assesment 1
+- Project:
+  - project 1
+
+#### <a name="day21"></a>Day 3 - Object Oriented Programming Part 1
+- Learning Objectives:
+  - objective 1
+    - subobjective 1
+    - subobjective 2
+  - objective 2
+  - objective 3
+- Pre-reading:
+  - reading 1
   - reading 2
   - reading 3
 - Presentation:
