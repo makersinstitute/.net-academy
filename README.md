@@ -14,8 +14,8 @@
   
 * [Week 3 - C# Part 2](#week3)
   * [Day 1 - Object Oriented Programming Part 2](#day31)
-  * [Day 2 - Enum, Struc, LINQ, I/O](#day32)
-  * [Day 3 - Project Assignment : Simple Payroll Software](#day33)
+  * [Day 2 - Enum, Struct, LINQ, I/O](#day32)
+  * [Day 3 - Project Assignment: Simple Payroll Software](#day33)
   
 * [Week 4 - Learn to Code HTML & CSS](#week4)
   * [Day 1 - Build Web Pages, HTML, CSS, Box Model](#day41)
@@ -180,7 +180,7 @@
 - Project:
   - project 1
   
-  #### <a name="day22"></a>Day 2 - Interactive Program, Decisions, Loop
+#### <a name="day22"></a>Day 2 - Interactive Program, Decisions, Loop
 - Learning Objectives:
   - objective 1
     - subobjective 1
@@ -260,7 +260,7 @@
 - Project:
   - project 1
   
-  #### <a name="day32"></a>Day 2 - Enum, Struc, LINQ, I/O
+#### <a name="day32"></a>Day 2 - Enum, Struct, LINQ, I/O
 - Learning Objectives:
   - objective 1
     - subobjective 1
@@ -286,7 +286,7 @@
 - Project:
   - project 1
 
-#### <a name="day33"></a>Day 3 - Project Assignment : Simple Payroll Software
+#### <a name="day33"></a>Day 3 - Project Assignment: Simple Payroll Software
 - Project Objective
 - Project Overview
 - Documentation
