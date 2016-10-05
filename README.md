@@ -126,7 +126,7 @@
 - Project:
   - project 1
   
-  #### <a name="day12"></a>Day 3 - 
+#### <a name="day13"></a>Day 3 - 
 - Learning Objectives:
   - objective 1
     - subobjective 1
@@ -152,9 +152,9 @@
 - Project:
   - project 1
 
-## <a name="week1"></a>Week 2
+## <a name="week2"></a>Week 2
 
-#### <a name="day12"></a>Day 1 - 
+#### <a name="day21"></a>Day 1 - 
 - Learning Objectives:
   - objective 1
     - subobjective 1
