@@ -231,3 +231,64 @@
   - assesment 1
 - Project:
   - project 1
+
+## <a name="week2"></a>Week 3
+
+#### <a name="day21"></a>Day 1 - Object Oriented Programming Part 2
+- Learning Objectives:
+  - objective 1
+    - subobjective 1
+    - subobjective 2
+  - objective 2
+  - objective 3
+- Pre-reading:
+  - reading 1
+  - reading 2
+  - reading 3
+- Presentation:
+  - presentation 1
+- Practice:
+  - practice 1
+- Project:
+  - project 1
+- Additional Practice:
+  - additional practice 1
+- Additional Reading:
+  - additional reading 1
+- Assesment
+  - assesment 1
+- Project:
+  - project 1
+  
+  #### <a name="day21"></a>Day 2 - Enum, Struc, LINQ, I/O
+- Learning Objectives:
+  - objective 1
+    - subobjective 1
+    - subobjective 2
+  - objective 2
+  - objective 3
+- Pre-reading:
+  - reading 1
+  - reading 2
+  - reading 3
+- Presentation:
+  - presentation 1
+- Practice:
+  - practice 1
+- Project:
+  - project 1
+- Additional Practice:
+  - additional practice 1
+- Additional Reading:
+  - additional reading 1
+- Assesment
+  - assesment 1
+- Project:
+  - project 1
+
+#### <a name="day21"></a>Day 3 - Project Assignment : Simple Payroll Software
+- Project Objective
+- Project Overview
+- Documentation
+- Code Standard
+- etc
