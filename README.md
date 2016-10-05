@@ -3,9 +3,9 @@
 # .NET Syllabus
 
 * [Week 1](#week1)
-  * [Day 1](#day11)
-  * [Day 2](#day12)
-  * [Day 3](#day13)
+  * [Day 1 - Intro to Git](#day11)
+  * [Day 2 - Github Pages](#day12)
+  * [Day 3 - Project Assignment - Branching, Merge Conflict](#day13)
   
 * [Week 2](#week2)
   * [Day 1 - Intro to C#, Hello world, Variable, Operators, Array, String, List](#day21)
