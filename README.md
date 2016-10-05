@@ -125,3 +125,57 @@
   - assesment 1
 - Project:
   - project 1
+  
+  #### <a name="day12"></a>Day 3 - 
+- Learning Objectives:
+  - objective 1
+    - subobjective 1
+    - subobjective 2
+  - objective 2
+  - objective 3
+- Pre-reading:
+  - reading 1
+  - reading 2
+  - reading 3
+- Presentation:
+  - presentation 1
+- Practice:
+  - practice 1
+- Project:
+  - project 1
+- Additional Practice:
+  - additional practice 1
+- Additional Reading:
+  - additional reading 1
+- Assesment
+  - assesment 1
+- Project:
+  - project 1
+
+## <a name="week1"></a>Week 2
+
+#### <a name="day12"></a>Day 1 - 
+- Learning Objectives:
+  - objective 1
+    - subobjective 1
+    - subobjective 2
+  - objective 2
+  - objective 3
+- Pre-reading:
+  - [intro to HTML & CSS](http://learn.shayhowe.com/html-css/building-your-first-web-page/)
+  - reading 2
+  - reading 3
+- Presentation:
+  - presentation 1
+- Practice:
+  - practice 1
+- Project:
+  - project 1
+- Additional Practice:
+  - additional practice 1
+- Additional Reading:
+  - additional reading 1
+- Assesment
+  - assesment 1
+- Project:
+  - project 1
