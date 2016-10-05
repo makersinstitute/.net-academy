@@ -100,7 +100,7 @@
 - Project:
   - [Learn Git](https://github.com/makersinstitute/learn-git)
   
-#### <a name="day12"></a>Day 2 - 
+#### <a name="day12"></a>Day 2 - Github Pages
 - Learning Objectives:
   - objective 1
     - subobjective 1
@@ -126,7 +126,7 @@
 - Project:
   - project 1
   
-#### <a name="day13"></a>Day 3 - 
+#### <a name="day13"></a>Day 3 - Project Assignment - Branching, Merge Conflict
 - Learning Objectives:
   - objective 1
     - subobjective 1
