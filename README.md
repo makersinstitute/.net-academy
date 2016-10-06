@@ -86,7 +86,7 @@
   - **Make sure you [Install Git] (https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)**
 - Presentation:
   - [Introduction to Git] (./week1/day1/introduction-to-git.pdf)
-  - [Introduction to Markdown] (https://docs.google.com/presentation/d/17HOQzJMyDREZ2URkF-r56B7aUEgQXohUPmhJ77AP-TE/edit?usp=sharing)
+  - [Introduction to Markdown] (.week1/day1/introduction-to-markdown.pdf)
 - Hands on Lab:
   - [Lab 1] (https://try.github.io/levels/1/challenges/1)
 - Additional Hands on Lab:
