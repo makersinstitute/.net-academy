@@ -81,11 +81,12 @@
       - Students will be able to minimally manage vim to escape merge conflict messages
       - Students will know how to make a Pull Request
 - Pre-Reading:
-  - [Git - The Simple Guide](http://rogerdudler.github.io/git-guide/)
-  - [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
-  - **Make sure you [Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)**
+  - [Git - The Simple Guide] (http://rogerdudler.github.io/git-guide/)
+  - [Atlassian Git Tutorial] (https://www.atlassian.com/git/tutorials/setting-up-a-repository)
+  - **Make sure you [Install Git] (https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)**
 - Presentation:
-  - Presentation 1
+  - [Introduction to Git] (./week1/day1/introduction-to-git.pdf)
+  - [Introduction to Markdown] (./week1/day1/introduction-to-markdown.pdf)
 - Hands on Lab:
   - [Lab 1] (https://try.github.io/levels/1/challenges/1)
 - Additional Hands on Lab:
@@ -94,11 +95,11 @@
   - [The Command Line Crash Course] (http://cli.learncodethehardway.org/book/)
   - [Lecture archive] (https://vimeo.com/groups/331341/videos/142188795)
   - [Visual Git guide] (http://marklodato.github.io/visual-git-guide/index-en.html)
-  - [Getting Started with Git](http://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
+  - [Getting Started with Git] (http://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
 - Assessment:
-  - [Command Line & git](https://codecard.io/a/cardio-preview/N4XGkKbju)
+  - [Command Line & Git] (https://codecard.io/a/cardio-preview/N4XGkKbju)
 - Project:
-  - [Learn Git](https://github.com/makersinstitute/learn-git)
+  - [Learn Git] (./week1/day1/project.md)
   
 #### <a name="day12"></a>Day 2 - Github Pages
 - Learning Objectives:
