@@ -85,7 +85,8 @@
   - [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
   - **Make sure you [Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)**
 - Presentation:
-  - Presentation 1
+  - [Introduction to Git] (./week1/day1/introduction-to-git.pdf)
+  - [Introduction to Markdown] (./week1/day1/introduction-to-markdown.pdf)
 - Hands on Lab:
   - [Lab 1] (https://try.github.io/levels/1/challenges/1)
 - Additional Hands on Lab:
@@ -98,7 +99,7 @@
 - Assessment:
   - [Command Line & git](https://codecard.io/a/cardio-preview/N4XGkKbju)
 - Project:
-  - [Learn Git](https://github.com/makersinstitute/learn-git)
+  - [Learn Git](./week1/day1/project.md)
   
 #### <a name="day12"></a>Day 2 - Github Pages
 - Learning Objectives:
