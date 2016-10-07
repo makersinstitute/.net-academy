@@ -89,6 +89,7 @@
   - [Introduction to Markdown] (.week1/day1/introduction-to-markdown.pdf)
 - Hands on Lab:
   - [Lab 1] (https://try.github.io/levels/1/challenges/1)
+  - [Lab 2] (https://guides.github.com/introduction/flow/)
 - Additional Hands on Lab:
   - [Learn Git Branching] (http://pcottle.github.io/learnGitBranching/)
 - Additional Reading:
