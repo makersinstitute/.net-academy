@@ -40,7 +40,7 @@
 * [Week 8](#week8)
   * [Day 1 - Applying Styles, Build Responsive Pages in ASP.NET Web App](#day81)
   * [Day 2 - Using Javascript & JQuery for Responsive Web Apps](#day82)
-  * [Day 3 - , Controlling Access and Building Resilient ASP.NET MVC 5 Web Apps](#day83)
+  * [Day 3 - Controlling Access and Building Resilient ASP.NET MVC 5 Web Apps](#day83)
   
 * [Week 9](#week9)
   * [Day 1 - Implementing Web APIs, Handling Request in ASP.NET MVC 5 Web Apps ](#day91)
