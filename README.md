@@ -114,7 +114,7 @@
   - reading 2
   - reading 3
 - Presentation:
-  - presentation 1
+  - [GitHub Pages] (./week1/day2/introduction-to-github-pages.pdf)
 - Practice:
   - practice 1
 - Additional Practice:
