@@ -104,21 +104,19 @@
   
 #### <a name="day12"></a>Day 2 - Github Pages
 - Learning Objectives:
-  - objective 1
+  - Students will understand how to create static web on GitHub Pages
     - subobjective 1
     - subobjective 2
   - objective 2
   - objective 3
 - Pre-reading:
-  - reading 1
+  - [GitHub Pages] (https://pages.github.com/)
   - reading 2
   - reading 3
 - Presentation:
   - presentation 1
 - Practice:
   - practice 1
-- Project:
-  - project 1
 - Additional Practice:
   - additional practice 1
 - Additional Reading:
@@ -143,8 +141,6 @@
   - presentation 1
 - Practice:
   - practice 1
-- Project:
-  - project 1
 - Additional Practice:
   - additional practice 1
 - Additional Reading:
@@ -164,15 +160,13 @@
   - objective 2
   - objective 3
 - Pre-reading:
-  - [intro to HTML & CSS](http://learn.shayhowe.com/html-css/building-your-first-web-page/)
+  - [intro to HTML & CSS] (http://learn.shayhowe.com/html-css/building-your-first-web-page/)
   - reading 2
   - reading 3
 - Presentation:
   - presentation 1
 - Practice:
   - practice 1
-- Project:
-  - project 1
 - Additional Practice:
   - additional practice 1
 - Additional Reading:
@@ -197,8 +191,6 @@
   - presentation 1
 - Practice:
   - practice 1
-- Project:
-  - project 1
 - Additional Practice:
   - additional practice 1
 - Additional Reading:
@@ -223,8 +215,6 @@
   - presentation 1
 - Practice:
   - practice 1
-- Project:
-  - project 1
 - Additional Practice:
   - additional practice 1
 - Additional Reading:
@@ -251,8 +241,6 @@
   - presentation 1
 - Practice:
   - practice 1
-- Project:
-  - project 1
 - Additional Practice:
   - additional practice 1
 - Additional Reading:
@@ -277,8 +265,6 @@
   - presentation 1
 - Practice:
   - practice 1
-- Project:
-  - project 1
 - Additional Practice:
   - additional practice 1
 - Additional Reading:
