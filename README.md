@@ -48,19 +48,19 @@
   * [Day 3 - Introduction to Cloud Computing with microsoft Azure](#day93)
   
 * [Week 10](#week10)
-  * [Day 1](#day101)
-  * [Day 2](#day102)
-  * [Day 3](#day103)
+  * [Day 1 - Introduction to RDBMS and SQL](#day101)
+  * [Day 2 - SQL Query](#day102)
+  * [Day 3 - Microsoft SQL Server 2014](#day103)
   
 * [Week 11](#week11)
-  * [Day 1](#day111)
-  * [Day 2](#day112)
-  * [Day 3](#day113)
+  * [Day 1 - Project Assignment](#day111)
+  * [Day 2 - Project Assignment](#day112)
+  * [Day 3 - Project Assignment](#day113)
   
 * [Week 12](#week12)
-  * [Day 1](#day121)
-  * [Day 2](#day122)
-  * [Day 3](#day123)
+  * [Day 1 - Project Assignment](#day121)
+  * [Day 2 - Project Assignment](#day122)
+  * [Day 3 - Project Assignment](#day123)
   
 ## <a name="week1"></a>Week 1
 
