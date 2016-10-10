@@ -28,8 +28,8 @@
   * [Day 3 - Transition & Animations, Polyfills, Semantics](#day53)
   
 * [Week 6 - Javascript](#week6)
-  * [Day 1](#day61)
-  * [Day 2](#day62)
+  * [Day 1 - Javascript Basics](#day61)
+  * [Day 2 - ](#day62)
   * [Day 3](#day63)
   
 * [Week 7](#week7)
