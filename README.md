@@ -104,10 +104,10 @@
   
 #### <a name="day12"></a>Day 2 - Github Pages
 - Learning Objectives:
-  - Students will understand how to create static web on GitHub Pages
+  - Students will understand what GitHub Pages is
     - subobjective 1
     - subobjective 2
-  - objective 2
+  - Students will be able to create static web on GitHub Pages
   - objective 3
 - Pre-reading:
   - [GitHub Pages] (https://pages.github.com/)
@@ -120,7 +120,8 @@
 - Additional Practice:
   - additional practice 1
 - Additional Reading:
-  - additional reading 1
+  - [Custom Domain] (https://help.github.com/articles/using-a-custom-domain-with-github-pages/)
+  - [jekyll] (https://jekyllrb.com/)
 - Assesment
   - assesment 1
 - Project:
