@@ -105,14 +105,9 @@
 #### <a name="day12"></a>Day 2 - Github Pages
 - Learning Objectives:
   - Students will understand what GitHub Pages is
-    - subobjective 1
-    - subobjective 2
   - Students will be able to create static web on GitHub Pages
-  - objective 3
 - Pre-reading:
   - [GitHub Pages] (https://pages.github.com/)
-  - reading 2
-  - reading 3
 - Presentation:
   - [Introduction to GitHub Pages] (./week1/day2/introduction-to-github-pages.pdf)
 - Hands on Lab:
