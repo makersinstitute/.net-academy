@@ -114,7 +114,9 @@
   - reading 2
   - reading 3
 - Presentation:
-  - [GitHub Pages] (./week1/day2/introduction-to-github-pages.pdf)
+  - [Introduction to GitHub Pages] (./week1/day2/introduction-to-github-pages.pdf)
+- Hands on Lab:
+  - [Lab 1] ()
 - Practice:
   - practice 1
 - Additional Practice:
