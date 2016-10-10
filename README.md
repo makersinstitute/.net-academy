@@ -116,7 +116,7 @@
 - Presentation:
   - [Introduction to GitHub Pages] (./week1/day2/introduction-to-github-pages.pdf)
 - Hands on Lab:
-  - [Lab 1] ()
+  - lab 1
 - Practice:
   - practice 1
 - Additional Practice:
