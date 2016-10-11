@@ -90,6 +90,7 @@
 - Hands on Lab:
   - [Lab 1] (https://try.github.io/levels/1/challenges/1)
   - [Lab 2] (https://guides.github.com/introduction/flow/)
+    - [Lab 2 Instructions] ()
 - Additional Hands on Lab:
   - [Learn Git Branching] (http://pcottle.github.io/learnGitBranching/)
 - Additional Reading:
