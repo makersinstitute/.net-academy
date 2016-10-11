@@ -100,7 +100,7 @@
 - Assessment:
   - [Command Line & Git] (https://codecard.io/a/cardio-preview/N4XGkKbju)
 - Project:
-  - [Learn Git] (./week1/day1/project.md)
+  - [Learn Git] (https://github.com/makersinstitute/learn-git)
   
 #### <a name="day12"></a>Day 2 - Github Pages
 - Learning Objectives:
