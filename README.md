@@ -89,9 +89,8 @@
   - [Introduction to Markdown] (./week1/day1/introduction-to-markdown.pdf)
 - Hands on Lab:
   - [Lab 1] (https://www.codecademy.com/learn/learn-git)
-  - [Lab 2] (https://guides.github.com/introduction/flow/)
-    - [Lab 2 Instructions] ()
 - Additional Hands on Lab:
+  - [Try GitHub] (https://try.github.io/levels/1/challenges/1)
   - [Learn Git Branching] (http://pcottle.github.io/learnGitBranching/)
 - Additional Reading:
   - [The Command Line Crash Course] (http://cli.learncodethehardway.org/book/)
@@ -134,8 +133,9 @@
   - reading 3
 - Presentation:
   - presentation 1
-- Practice:
-  - practice 1
+- Hands on Lab:
+  - [Lab] (https://guides.github.com/introduction/flow/)
+    - [Lab Instructions] ()
 - Additional Practice:
   - additional practice 1
 - Additional Reading:
