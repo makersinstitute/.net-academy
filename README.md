@@ -113,15 +113,11 @@
   - [Introduction to GitHub Pages] (./week1/day2/introduction-to-github-pages.pdf)
 - Hands on Lab:
   - lab 1
-- Practice:
-  - practice 1
-- Additional Practice:
-  - additional practice 1
+- Additional Hands on Lab:
+  - additional Hands on Lab 1
 - Additional Reading:
   - [Custom Domain] (https://help.github.com/articles/using-a-custom-domain-with-github-pages/)
   - [jekyll] (https://jekyllrb.com/)
-- Assesment
-  - assesment 1
 - Project:
   - project 1
   
