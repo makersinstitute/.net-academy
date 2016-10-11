@@ -85,8 +85,8 @@
   - [Atlassian Git Tutorial] (https://www.atlassian.com/git/tutorials/setting-up-a-repository)
   - **Make sure you [Install Git] (https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)**
 - Presentation:
-  - [Introduction to Git] (./week1/day1/introduction-to-git.pdf)
-  - [Introduction to Markdown] (./week1/day1/introduction-to-markdown.pdf)
+  - [Introduction to Git] (https://docs.google.com/presentation/d/1AJyY__X5aXeim-yEhvJEil-OdB_REaDWLpuIyS2SnpY/edit?usp=sharing)
+  - [Introduction to Markdown] (https://docs.google.com/presentation/d/17HOQzJMyDREZ2URkF-r56B7aUEgQXohUPmhJ77AP-TE/edit?usp=sharing)
 - Hands on Lab:
   - [Lab 1] (https://www.codecademy.com/learn/learn-git)
 - Additional Hands on Lab:
@@ -109,7 +109,7 @@
 - Pre-reading:
   - [GitHub Pages] (https://pages.github.com/)
 - Presentation:
-  - [Introduction to GitHub Pages] (./week1/day2/introduction-to-github-pages.pdf)
+  - [Introduction to GitHub Pages] (https://docs.google.com/presentation/d/1P92L7tAypC-33i0HAXfZFWdU-MnBOOrAz-RDsKDzn24/edit?usp=sharing)
 - Hands on Lab:
   - lab 1
 - Additional Hands on Lab:
