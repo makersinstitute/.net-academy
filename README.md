@@ -1,6 +1,6 @@
 ![Makers Institute](https://makersinstitute.id/img/logo-makersinstitute.png)
 
-# .NET Syllabus
+# .NET Academy Syllabus
 
 * [Week 1](#week1)
   * [Day 1 - Intro to Git](#day11)
