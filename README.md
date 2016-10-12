@@ -118,7 +118,7 @@
   - [Custom Domain] (https://help.github.com/articles/using-a-custom-domain-with-github-pages/)
   - [jekyll] (https://jekyllrb.com/)
 - Project:
-  - project 1
+  - [GitHub Pages Project Site] (https://github.com/makersinstitute/w1d2-github-pages)
   
 #### <a name="day13"></a>Day 3 - Project Assignment - Branching, Merge Conflict
 - Learning Objectives:
