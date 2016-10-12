@@ -135,7 +135,7 @@
   - presentation 1
 - Hands on Lab:
   - [Lab] (https://guides.github.com/introduction/flow/)
-    - [Lab Instructions] (https://github.com/makersinstitute/w1d3-lab-instructions)
+    - [Lab Instructions] (https://github.com/makersinstitute/w1d3-branch-merge)
 - Additional Practice:
   - additional practice 1
 - Additional Reading:
