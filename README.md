@@ -82,9 +82,10 @@
   - [Introduction to Git](https://docs.google.com/presentation/d/1AJyY__X5aXeim-yEhvJEil-OdB_REaDWLpuIyS2SnpY/edit?usp=sharing)
   - [Introduction to Markdown](https://docs.google.com/presentation/d/17HOQzJMyDREZ2URkF-r56B7aUEgQXohUPmhJ77AP-TE/edit?usp=sharing)
 - Hands on Lab:
-  - [Lab 1](https://www.codecademy.com/learn/learn-git)
+  - [Lab Git](https://www.codecademy.com/learn/learn-git)
 - Additional Hands on Lab:
   - [Try GitHub](https://try.github.io/levels/1/challenges/1)
+  - [Lab Markdown](http://commonmark.org/help/tutorial/)
 - Additional Reading:
   - [The Command LineCrash Course](http://cli.learncodethehardway.org/book/)
   - [Lecture archive](https://vimeo.com/groups/331341/videos/142188795)
