@@ -81,44 +81,44 @@
       - Students will be able to minimally manage vim to escape merge conflict messages
       - Students will know how to make a Pull Request
 - Pre-Reading:
-  - [Git - The Simple Guide] (http://rogerdudler.github.io/git-guide/)
-  - [Atlassian Git Tutorial] (https://www.atlassian.com/git/tutorials/setting-up-a-repository)
-  - **Make sure you [Install Git] (https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)**
+  - [Git - The Simple Guide](http://rogerdudler.github.io/git-guide/)
+  - [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
+  - **Make sure you [Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)**
 - Presentation:
-  - [Introduction to Git] (https://docs.google.com/presentation/d/1AJyY__X5aXeim-yEhvJEil-OdB_REaDWLpuIyS2SnpY/edit?usp=sharing)
-  - [Introduction to Markdown] (https://docs.google.com/presentation/d/17HOQzJMyDREZ2URkF-r56B7aUEgQXohUPmhJ77AP-TE/edit?usp=sharing)
+  - [Introduction to Git](https://docs.google.com/presentation/d/1AJyY__X5aXeim-yEhvJEil-OdB_REaDWLpuIyS2SnpY/edit?usp=sharing)
+  - [Introduction to Markdown](https://docs.google.com/presentation/d/17HOQzJMyDREZ2URkF-r56B7aUEgQXohUPmhJ77AP-TE/edit?usp=sharing)
 - Hands on Lab:
-  - [Lab 1] (https://www.codecademy.com/learn/learn-git)
+  - [Lab 1](https://www.codecademy.com/learn/learn-git)
 - Additional Hands on Lab:
-  - [Try GitHub] (https://try.github.io/levels/1/challenges/1)
-  - [Learn Git Branching] (http://pcottle.github.io/learnGitBranching/)
+  - [Try GitHub](https://try.github.io/levels/1/challenges/1)
+  - [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
 - Additional Reading:
-  - [The Command Line Crash Course] (http://cli.learncodethehardway.org/book/)
-  - [Lecture archive] (https://vimeo.com/groups/331341/videos/142188795)
-  - [Visual Git guide] (http://marklodato.github.io/visual-git-guide/index-en.html)
-  - [Getting Started with Git] (http://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
+  - [The Command LineCrash Course](http://cli.learncodethehardway.org/book/)
+  - [Lecture archive](https://vimeo.com/groups/331341/videos/142188795)
+  - [Visual Git guide](http://marklodato.github.io/visual-git-guide/index-en.html)
+  - [Getting Started with Git](http://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
 - Assessment:
-  - [Command Line & Git] (https://codecard.io/a/cardio-preview/N4XGkKbju)
+  - [Command Line & Git](https://codecard.io/a/cardio-preview/N4XGkKbju)
 - Project:
-  - [Learn Git] (https://github.com/makersinstitute/learn-git)
+  - [Learn Git](https://github.com/makersinstitute/learn-git)
   
 #### <a name="day12"></a>Day 2 - Github Pages
 - Learning Objectives:
   - Students will understand what GitHub Pages is
   - Students will be able to create static web on GitHub Pages
 - Pre-reading:
-  - [GitHub Pages] (https://pages.github.com/)
+  - [GitHub Pages](https://pages.github.com/)
 - Presentation:
-  - [Introduction to GitHub Pages] (https://docs.google.com/presentation/d/1P92L7tAypC-33i0HAXfZFWdU-MnBOOrAz-RDsKDzn24/edit?usp=sharing)
+  - [Introduction to GitHub Pages](https://docs.google.com/presentation/d/1P92L7tAypC-33i0HAXfZFWdU-MnBOOrAz-RDsKDzn24/edit?usp=sharing)
 - Hands on Lab:
   - lab 1
 - Additional Hands on Lab:
   - additional Hands on Lab 1
 - Additional Reading:
-  - [Custom Domain] (https://help.github.com/articles/using-a-custom-domain-with-github-pages/)
-  - [jekyll] (https://jekyllrb.com/)
+  - [Custom Domain](https://help.github.com/articles/using-a-custom-domain-with-github-pages/)
+  - [jekyll](https://jekyllrb.com/)
 - Project:
-  - [GitHub Pages Project Site] (https://github.com/makersinstitute/w1d2-github-pages)
+  - [GitHub Pages Project Site](https://github.com/makersinstitute/w1d2-github-pages)
   
 #### <a name="day13"></a>Day 3 - Project Assignment - Branching, Merge Conflict
 - Learning Objectives:
@@ -128,14 +128,14 @@
   - objective 2
   - objective 3
 - Pre-reading:
-  - reading 1
+  - [Merge Conlict](https://help.github.com/articles/resolving-a-merge-conflict-from-the-command-line/)
   - reading 2
   - reading 3
 - Presentation:
   - presentation 1
 - Hands on Lab:
-  - [Lab] (https://guides.github.com/introduction/flow/)
-    - [Lab Instructions] (https://github.com/makersinstitute/w1d3-branch-merge)
+  - [Lab](https://guides.github.com/introduction/flow/)
+    - [Lab Instructions](https://github.com/makersinstitute/w1d3-branch-merge)
 - Additional Practice:
   - additional practice 1
 - Additional Reading:
@@ -155,7 +155,7 @@
   - objective 2
   - objective 3
 - Pre-reading:
-  - [intro to HTML & CSS] (http://learn.shayhowe.com/html-css/building-your-first-web-page/)
+  - [intro to HTML & CSS](http://learn.shayhowe.com/html-css/building-your-first-web-page/)
   - reading 2
   - reading 3
 - Presentation:
