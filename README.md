@@ -78,6 +78,7 @@
   - [Git - The Simple Guide](http://rogerdudler.github.io/git-guide/)
   - [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
   - **Make sure you [Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)**
+  - [The Ultimate Guide to Markdown](https://blog.ghost.org/markdown/)
 - Presentation:
   - [Introduction to Git](https://docs.google.com/presentation/d/1AJyY__X5aXeim-yEhvJEil-OdB_REaDWLpuIyS2SnpY/edit?usp=sharing)
   - [Introduction to Markdown](https://docs.google.com/presentation/d/17HOQzJMyDREZ2URkF-r56B7aUEgQXohUPmhJ77AP-TE/edit?usp=sharing)
