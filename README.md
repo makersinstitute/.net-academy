@@ -74,12 +74,6 @@
     - Students will understand what Git and Github are and how they fit into the web app landscape
     - Students will be able to clone a repo and know its purpose
     - Students will be able to add, commit, and push files to github
-    - Students will understand basic branching
-    - Students will understand how to use github in a group setting
-      - Students be able to understand what a "Fork" is and be able to Fork a repo
-      - Students will be able to handle merge conflicts
-      - Students will be able to minimally manage vim to escape merge conflict messages
-      - Students will know how to make a Pull Request
 - Pre-Reading:
   - [Git - The Simple Guide](http://rogerdudler.github.io/git-guide/)
   - [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
@@ -91,7 +85,6 @@
   - [Lab 1](https://www.codecademy.com/learn/learn-git)
 - Additional Hands on Lab:
   - [Try GitHub](https://try.github.io/levels/1/challenges/1)
-  - [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
 - Additional Reading:
   - [The Command LineCrash Course](http://cli.learncodethehardway.org/book/)
   - [Lecture archive](https://vimeo.com/groups/331341/videos/142188795)
@@ -122,28 +115,27 @@
   
 #### <a name="day13"></a>Day 3 - Project Assignment - Branching, Merge Conflict
 - Learning Objectives:
-  - objective 1
-    - subobjective 1
-    - subobjective 2
-  - objective 2
-  - objective 3
+   - Students will understand basic branching
+   - Students will understand how to use github in a group setting
+      - Students be able to understand what a "Fork" is and be able to Fork a repo
+      - Students will be able to handle merge conflicts
+      - Students will be able to minimally manage vim to escape merge conflict messages
+      - Students will know how to make a Pull Request
 - Pre-reading:
+  - [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
   - [Merge Conlict](https://help.github.com/articles/resolving-a-merge-conflict-from-the-command-line/)
-  - reading 2
-  - reading 3
 - Presentation:
   - presentation 1
 - Hands on Lab:
-  - [Lab](https://guides.github.com/introduction/flow/)
-    - [Lab Instructions](https://github.com/makersinstitute/w1d3-branch-merge)
-- Additional Practice:
-  - additional practice 1
+  - [Lab](http://www.bogotobogo.com/cplusplus/Git/Git_GitHub_Merge_Conflicts_with_Simple_Example.php)
+- Additional Hands on Lab:
+  - [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
 - Additional Reading:
   - additional reading 1
-- Assesment
+- Assesment:
   - assesment 1
 - Project:
-  - project 1
+  - [Project](https://github.com/makersinstitute/w1d3-branch-merge)
 
 ## <a name="week2"></a>Week 2
 
@@ -160,10 +152,10 @@
   - reading 3
 - Presentation:
   - presentation 1
-- Practice:
-  - practice 1
-- Additional Practice:
-  - additional practice 1
+- Hands on Lab:
+  - lab 1
+- Additional Hands on Lab:
+  - additional lab 1
 - Additional Reading:
   - additional reading 1
 - Assesment
@@ -184,13 +176,13 @@
   - reading 3
 - Presentation:
   - presentation 1
-- Practice:
-  - practice 1
-- Additional Practice:
-  - additional practice 1
+- Hands on Lab:
+  - lab 1
+- Additional Hands on Lab:
+  - additional lab 1
 - Additional Reading:
   - additional reading 1
-- Assesment
+- Assesment:
   - assesment 1
 - Project:
   - project 1
@@ -208,13 +200,13 @@
   - reading 3
 - Presentation:
   - presentation 1
-- Practice:
-  - practice 1
-- Additional Practice:
-  - additional practice 1
+- Hands on Lab:
+  - lab 1
+- Additional Hands on Lab:
+  - additional lab 1
 - Additional Reading:
   - additional reading 1
-- Assesment
+- Assesment:
   - assesment 1
 - Project:
   - project 1
@@ -234,13 +226,13 @@
   - reading 3
 - Presentation:
   - presentation 1
-- Practice:
-  - practice 1
-- Additional Practice:
-  - additional practice 1
+- Hands on Lab:
+  - lab 1
+- Additional Hands on Lab:
+  - additional lab 1
 - Additional Reading:
   - additional reading 1
-- Assesment
+- Assesment:
   - assesment 1
 - Project:
   - project 1
@@ -258,13 +250,13 @@
   - reading 3
 - Presentation:
   - presentation 1
-- Practice:
-  - practice 1
-- Additional Practice:
-  - additional practice 1
+- Hands on Lab:
+  - lab 1
+- Additional Hands on Lab:
+  - additional lab 1
 - Additional Reading:
   - additional reading 1
-- Assesment
+- Assesment:
   - assesment 1
 - Project:
   - project 1
