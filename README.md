@@ -146,7 +146,7 @@
   - objective 2
   - objective 3
 - Pre-reading:
-  - [Intro to HTML & CSS](http://learn.shayhowe.com/html-css/building-your-first-web-page/)
+  - reading 1
   - reading 2
   - reading 3
 - Presentation:
@@ -266,3 +266,77 @@
 - Documentation
 - Code Standard
 - etc
+
+## <a name="week2"></a>Week 4 - Learn to Code HTML & CSS
+
+#### <a name="day21"></a>Day 1 - Build Web Pages, HTML, CSS, Box Model
+- Learning Objectives:
+  - objective 1
+    - subobjective 1
+    - subobjective 2
+  - objective 2
+  - objective 3
+- Pre-reading:
+  - [Intro to HTML & CSS](http://learn.shayhowe.com/html-css/building-your-first-web-page/)
+  - reading 2
+  - reading 3
+- Presentation:
+  - presentation 1
+- Hands on Lab:
+  - lab 1
+- Additional Hands on Lab:
+  - additional lab 1
+- Additional Reading:
+  - additional reading 1
+- Assesment
+  - assesment 1
+- Project:
+  - project 1
+  
+#### <a name="day22"></a>Day 2 - Interactive Program, Decisions, Loop
+- Learning Objectives:
+  - objective 1
+    - subobjective 1
+    - subobjective 2
+  - objective 2
+  - objective 3
+- Pre-reading:
+  - reading 1
+  - reading 2
+  - reading 3
+- Presentation:
+  - presentation 1
+- Hands on Lab:
+  - lab 1
+- Additional Hands on Lab:
+  - additional lab 1
+- Additional Reading:
+  - additional reading 1
+- Assesment:
+  - assesment 1
+- Project:
+  - project 1
+
+#### <a name="day23"></a>Day 3 - Object Oriented Programming Part 1
+- Learning Objectives:
+  - objective 1
+    - subobjective 1
+    - subobjective 2
+  - objective 2
+  - objective 3
+- Pre-reading:
+  - reading 1
+  - reading 2
+  - reading 3
+- Presentation:
+  - presentation 1
+- Hands on Lab:
+  - lab 1
+- Additional Hands on Lab:
+  - additional lab 1
+- Additional Reading:
+  - additional reading 1
+- Assesment:
+  - assesment 1
+- Project:
+  - project 1
