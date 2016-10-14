@@ -2,7 +2,7 @@
 
 # .NET Academy Syllabus
 
-* [Week 1](#week1)
+* [Week 1 - Git](#week1)
   * [Day 1 - Intro to Git](#day11)
   * [Day 2 - Github Pages](#day12)
   * [Day 3 - Project Assignment - Branching, Merge Conflict](#day13)
@@ -53,9 +53,9 @@
   * [Day 3 - Microsoft SQL Server 2014](#day103)
   
 * [Week 11](#week11)
-  * [Day 1 - Project Assignment](#day111)
-  * [Day 2 - Project Assignment](#day112)
-  * [Day 3 - Project Assignment](#day113)
+  * [Day 1 - Test Driven Development](#day111)
+  * [Day 2 - Continuous Integration](#day112)
+  * [Day 3 - Introduction to Scrum](#day113)
   
 * [Week 12](#week12)
   * [Day 1 - Project Assignment](#day121)
