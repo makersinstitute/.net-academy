@@ -102,13 +102,12 @@
   - Students will understand what GitHub Pages is
   - Students will understand how to create static web on GitHub Pages
 - Pre-reading:
-  - [GitHub Pages](https://pages.github.com/)
+  - [What is GitHub Pages](https://help.github.com/articles/what-is-github-pages/)
 - Presentation:
   - [Introduction to GitHub Pages](https://docs.google.com/presentation/d/1P92L7tAypC-33i0HAXfZFWdU-MnBOOrAz-RDsKDzn24/edit?usp=sharing)
 - Hands on Lab:
-  - lab 1
-- Additional Hands on Lab:
-  - additional Hands on Lab 1
+  - [Lab 1 - Create GitHub Pages](https://pages.github.com/)
+  - [Lab 2 - GitHub Pages with Jekyll](http://jmcglone.com/guides/github-pages/)
 - Additional Reading:
   - [Custom Domain](https://help.github.com/articles/using-a-custom-domain-with-github-pages/)
   - [Jekyll](https://jekyllrb.com/)
@@ -129,8 +128,6 @@
 - Presentation:
   - [Branch & Merge Conflict](https://docs.google.com/presentation/d/1oAQl2ALw0Q0Fi8NyRVQTt6oE5RghDhx-ZaRO3DUleQQ/edit?usp=sharing)
 - Hands on Lab:
-  - [Lab](http://www.bogotobogo.com/cplusplus/Git/Git_GitHub_Merge_Conflicts_with_Simple_Example.php)
-- Additional Hands on Lab:
   - [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
 - Additional Reading:
   - [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
