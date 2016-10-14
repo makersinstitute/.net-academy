@@ -111,7 +111,7 @@
   - additional Hands on Lab 1
 - Additional Reading:
   - [Custom Domain](https://help.github.com/articles/using-a-custom-domain-with-github-pages/)
-  - [jekyll](https://jekyllrb.com/)
+  - [Jekyll](https://jekyllrb.com/)
 - Project:
   - [GitHub Pages Project Site](https://github.com/makersinstitute/w1d2-github-pages)
   
@@ -149,7 +149,7 @@
   - objective 2
   - objective 3
 - Pre-reading:
-  - [intro to HTML & CSS](http://learn.shayhowe.com/html-css/building-your-first-web-page/)
+  - [Intro to HTML & CSS](http://learn.shayhowe.com/html-css/building-your-first-web-page/)
   - reading 2
   - reading 3
 - Presentation:
