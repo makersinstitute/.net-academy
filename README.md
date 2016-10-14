@@ -127,7 +127,7 @@
   - [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
   - [Merge Conlict](https://help.github.com/articles/resolving-a-merge-conflict-from-the-command-line/)
 - Presentation:
-  - presentation 1
+  - [Branch & Merge Conflict](https://docs.google.com/presentation/d/1oAQl2ALw0Q0Fi8NyRVQTt6oE5RghDhx-ZaRO3DUleQQ/edit?usp=sharing)
 - Hands on Lab:
   - [Lab](http://www.bogotobogo.com/cplusplus/Git/Git_GitHub_Merge_Conflicts_with_Simple_Example.php)
 - Additional Hands on Lab:
