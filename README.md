@@ -120,7 +120,6 @@
    - Students will understand how to use github in a group setting
       - Students be able to understand what a "Fork" is and be able to Fork a repo
       - Students will be able to handle merge conflicts
-      - Students will be able to minimally manage vim to escape merge conflict messages
       - Students will know how to make a Pull Request
 - Pre-reading:
   - [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
