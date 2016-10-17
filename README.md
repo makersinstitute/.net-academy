@@ -89,7 +89,6 @@
   - [Lab Markdown](http://commonmark.org/help/tutorial/)
 - Additional Reading:
   - [The Command LineCrash Course](http://cli.learncodethehardway.org/book/)
-  - [Lecture archive](https://vimeo.com/groups/331341/videos/142188795)
   - [Visual Git guide](http://marklodato.github.io/visual-git-guide/index-en.html)
   - [Getting Started with Git](http://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
 - Assessment:
