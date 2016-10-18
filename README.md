@@ -132,7 +132,7 @@
 - Assesment:
   - assesment 1
 - Project:
-  - [Project](https://github.com/makersinstitute/w1d3-branch-merge)
+  - [Project]()
 
 ## <a name="week2"></a>Week 2
 
