@@ -15,14 +15,13 @@
     <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
     <script>
-    $( function() {
-      $( "#accordion" ).accordion({
-        heightStyle: "content",
+$(function () {
+    $(".accordion").accordion({
         collapsible: true,
         active: false,
-        autoHeight: false
-      });
-      var icons = $(".accordion").accordion("option", "icons");
+        autoHeight:false
+    });
+    var icons = $(".accordion").accordion("option", "icons");
     $('.open').click(function () {
         $('.ui-accordion-header').removeClass('ui-corner-all').addClass('ui-accordion-header-active ui-state-active ui-corner-top').attr({
             'aria-selected': 'true',
@@ -54,7 +53,7 @@
         $('.close').removeAttr("disabled");
 
     });
-    } );
+});
     </script>
 
     <!--[if lt IE 9]>
