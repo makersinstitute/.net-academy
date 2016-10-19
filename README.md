@@ -130,7 +130,7 @@
 - Additional Reading:
   - [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
 - Project:
-  - [Project](https://github.com/makersinstitute/w1d3-branch-merge)
+  - [Project](https://github.com/makersinstitute/w1d3-branch-and-merge)
 
 ## <a name="week2"></a>Week 2
 
