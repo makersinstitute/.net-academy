@@ -129,8 +129,6 @@
   - [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
 - Additional Reading:
   - [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
-- Assesment:
-  - assesment 1
 - Project:
   - [Project](https://github.com/makersinstitute/w1d3-branch-merge)
 
