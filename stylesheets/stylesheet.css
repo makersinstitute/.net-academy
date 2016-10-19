@@ -889,3 +889,7 @@ footer a:hover {
 .inner img {
   filter: brightness(100%);
 }
+
+.inner h2 {
+  color: red;
+}
