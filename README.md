@@ -139,7 +139,7 @@
   - Students will be able to working with Visual Studio Community Edition Environment
   - Students will understand variables in C# (`int`, `byte`, `float`, `double`, `decimal`, `char`, `bool`)
   - Students will understand operators in C# (`+`, `-`, `*`, `/`, `%`)
-  - Studnets will understand about basic data structures (array, string, list)
+  - Studnets will understand about basic data structures in C# (array, string, list)
 - Pre-reading:
   - [Getting Started with C#](http://csharp-station.com/Tutorial/CSharp/Lesson01)
   - [C# For Beginners - Learn about C#](http://cplus.about.com/od/introductiontoprogramming/a/cshbeginners.htm)
