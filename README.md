@@ -136,26 +136,28 @@
 
 #### <a name="day21"></a>Day 1 - Intro to C#, Hello world, Variable, Operators, Array, String, List
 - Learning Objectives:
-  - objective 1
-    - subobjective 1
-    - subobjective 2
-  - objective 2
-  - objective 3
+  - Students will be able to working with Visual Studio Community Edition Environment
+  - Students will understand variables in C# (`int`, `byte`, `float`, `double`, `decimal`, `char`, `bool`)
+  - Students will understand operators in C# (`+`, `-`, `*`, `/`, `%`)
+  - Studnets will understand about basic data structures (array, string, list)
 - Pre-reading:
-  - reading 1
-  - reading 2
-  - reading 3
+  - [Getting Started with C#](http://csharp-station.com/Tutorial/CSharp/Lesson01)
+  - [C# For Beginners - Learn about C#](http://cplus.about.com/od/introductiontoprogramming/a/cshbeginners.htm)
+  - [GETTING A HANDLE ON COMPUTER LANGUAGES, C#, AND .NET](http://www.dummies.com/programming/c-sharp/getting-a-handle-on-computer-languages-c-and-net/)
+  - [Getting Started with C# .NET](http://www.homeandlearn.co.uk/csharp/csharp_s1p1.html)
 - Presentation:
   - [Introduction to C#](https://docs.google.com/presentation/d/19Y7Y8V03o5ZNy4J0IGcoSnbTSynqiyVoROONEhzCUpE/edit?usp=sharing)
 - Hands on Lab:
   - lab 1
 - Additional Hands on Lab:
   - [Learn C#](https://www.learncs.org/)
-  - [C# Tutorial](https://www.sololearn.com/Course/CSharp/)
+  - [C# Beginner Tutorials](https://dotnetcademy.net/CSharp/Beginner)
 - Additional Reading:
-  - additional reading 1
+  - [Basic C# Tutorial](http://www.completecsharptutorial.com/basic/)
+  - [Hello world explained](http://csharp.net-tutorials.com/basics/hello-world-explained/)
+  - [Primitive Types and Variables](http://ivanpop.azurewebsites.net/en/Projects/CSharpForDummies/2)
 - Assesment
-  - assesment 1
+  - [C# Tutorial](https://www.sololearn.com/Course/CSharp/)
 - Project:
   - project 1
   
