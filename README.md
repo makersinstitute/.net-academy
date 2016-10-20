@@ -146,11 +146,12 @@
   - reading 2
   - reading 3
 - Presentation:
-  - presentation 1
+  - [Introduction to C#](https://docs.google.com/presentation/d/19Y7Y8V03o5ZNy4J0IGcoSnbTSynqiyVoROONEhzCUpE/edit?usp=sharing)
 - Hands on Lab:
   - lab 1
 - Additional Hands on Lab:
-  - additional lab 1
+  - [Learn C#](https://www.learncs.org/)
+  - [C# Tutorial](https://www.sololearn.com/Course/CSharp/)
 - Additional Reading:
   - additional reading 1
 - Assesment
