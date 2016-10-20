@@ -159,7 +159,7 @@
 - Assesment
   - [C# Tutorial](https://www.sololearn.com/Course/CSharp/)
 - Project:
-  - project 1
+  - [Simple Calculator](https://github.com/makersinstitute/w2d1-calculator)
   
 #### <a name="day22"></a>Day 2 - Interactive Program, Decisions, Loop
 - Learning Objectives:
