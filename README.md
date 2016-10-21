@@ -134,7 +134,7 @@
 
 ## <a name="week2"></a>Week 2
 
-#### <a name="day21"></a>Day 1 - Intro to C#, Hello world, Variable, Operators, Array, String, List
+#### <a name="day21"></a>Day 1 - Intro to C#, Hello world, Variable, Operators, Interactive Program, Conditionals, String
 - Learning Objectives:
   - Students will be able to working with Visual Studio Community Edition Environment
   - Students will understand variables in C# (`int`, `byte`, `float`, `double`, `decimal`, `char`, `bool`)
@@ -148,7 +148,11 @@
 - Presentation:
   - [Introduction to C#](https://docs.google.com/presentation/d/19Y7Y8V03o5ZNy4J0IGcoSnbTSynqiyVoROONEhzCUpE/edit?usp=sharing)
 - Hands on Lab:
-  - lab 1
+  - lab 1 : [Data Types & Basic Operator]()
+  - Lab 2 : [Array]()
+  - Lab 3 : [String]()
+  - Lab 4 : [List]()
+
 - Additional Hands on Lab:
   - [Learn C#](https://www.learncs.org/)
   - [C# Beginner Tutorials](https://dotnetcademy.net/CSharp/Beginner)
@@ -161,7 +165,7 @@
 - Project:
   - [Simple Calculator](https://github.com/makersinstitute/w2d1-simple-calculator)
   
-#### <a name="day22"></a>Day 2 - Interactive Program, Decisions, Loop
+#### <a name="day22"></a>Day 2 - Loop, Array, List
 - Learning Objectives:
   - Students will be able to use Input-Output flow in C#
     - Students will be able to displaying messages to users
