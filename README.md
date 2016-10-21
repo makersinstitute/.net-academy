@@ -134,7 +134,7 @@
 
 ## <a name="week2"></a>Week 2
 
-#### <a name="day21"></a>Day 1 - Intro to C#, Hello world, Variable, Operators, Interactive Program, Conditionals, String
+#### <a name="day21"></a>Day 1 - Intro to C#, Hello world, Variable, Operators, Interactive Program, Conditionals
 - Learning Objectives:
   - Students will be able to working with Visual Studio Community Edition Environment
   - Students will understand variables in C# (`int`, `byte`, `float`, `double`, `decimal`, `char`, `bool`)
@@ -165,7 +165,7 @@
 - Project:
   - [Simple Calculator](https://github.com/makersinstitute/w2d1-simple-calculator)
   
-#### <a name="day22"></a>Day 2 - Loop, Array, List
+#### <a name="day22"></a>Day 2 - Loop, String, Array, List
 - Learning Objectives:
   - Students will be able to use Input-Output flow in C#
     - Students will be able to displaying messages to users
