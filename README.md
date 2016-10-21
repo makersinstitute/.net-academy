@@ -152,9 +152,9 @@
 - Presentation:
   - [Introduction to C#](https://docs.google.com/presentation/d/19Y7Y8V03o5ZNy4J0IGcoSnbTSynqiyVoROONEhzCUpE/edit?usp=sharing)
 - Hands on Lab:
-  - Lab 1: [Basic]()
-  - Lab 2: [Data Types]()
-  - Lab 3: [Conditional Statement]()
+  - Lab 1: [Basic](https://github.com/makersinstitute/w2d1-lab#lab1)
+  - Lab 2: [Data Types](https://github.com/makersinstitute/w2d1-lab#lab2)
+  - Lab 3: [Conditional Statement](https://github.com/makersinstitute/w2d1-lab#lab3)
 - Additional Hands on Lab:
   - [Learn C#](https://www.learncs.org/)
   - [C# Beginner Tutorials](https://dotnetcademy.net/CSharp/Beginner)
