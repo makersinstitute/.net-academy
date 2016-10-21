@@ -8,8 +8,8 @@
   * [Day 3 - Project Assignment - Branching, Merge Conflict](#day13)
   
 * [Week 2 - C# Part 1](#week2)
-  * [Day 1 - Intro to C#, Hello world, Variable, Operators, Array, String, List](#day21)
-  * [Day 2 - Interactive Program, Decisions, Loop](#day22)
+  * [Day 1 - Intro to C#, Hello world, Variable, Operators, Interactive Program, Conditionals](#day21)
+  * [Day 2 - Loop, String, Array, List](#day22)
   * [Day 3 - Object Oriented Programming Part 1](#day23)
   
 * [Week 3 - C# Part 2](#week3)
