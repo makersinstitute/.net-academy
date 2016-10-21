@@ -149,9 +149,6 @@
   - [Introduction to C#](https://docs.google.com/presentation/d/19Y7Y8V03o5ZNy4J0IGcoSnbTSynqiyVoROONEhzCUpE/edit?usp=sharing)
 - Hands on Lab:
   - Lab 1: [Data Types & Basic Operator]()
-  - Lab 2: [Array]()
-  - Lab 3: [String]()
-  - Lab 4: [List]()
 - Additional Hands on Lab:
   - [Learn C#](https://www.learncs.org/)
   - [C# Beginner Tutorials](https://dotnetcademy.net/CSharp/Beginner)
@@ -180,7 +177,9 @@
 - Presentation:
   - [Interactive Program, Decisions, Loop](https://docs.google.com/presentation/d/1bB2PMawqUyD13LarFZz8DQZfZg3HoflRPMOccvxAHD0/edit?usp=sharing)
 - Hands on Lab:
-  - lab 1
+  - Lab 1: [Array]()
+  - Lab 2: [String]()
+  - Lab 3: [List]()
 - Additional Hands on Lab:
   - additional lab 1
 - Additional Reading:
