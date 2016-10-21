@@ -173,7 +173,7 @@
   - reading 2
   - reading 3
 - Presentation:
-  - presentation 1
+  - [Interactive Program, Decisions, Loop](https://docs.google.com/presentation/d/1bB2PMawqUyD13LarFZz8DQZfZg3HoflRPMOccvxAHD0/edit?usp=sharing)
 - Hands on Lab:
   - lab 1
 - Additional Hands on Lab:
