@@ -148,11 +148,10 @@
 - Presentation:
   - [Introduction to C#](https://docs.google.com/presentation/d/19Y7Y8V03o5ZNy4J0IGcoSnbTSynqiyVoROONEhzCUpE/edit?usp=sharing)
 - Hands on Lab:
-  - lab 1 : [Data Types & Basic Operator]()
-  - Lab 2 : [Array]()
-  - Lab 3 : [String]()
-  - Lab 4 : [List]()
-
+  - Lab 1: [Data Types & Basic Operator]()
+  - Lab 2: [Array]()
+  - Lab 3: [String]()
+  - Lab 4: [List]()
 - Additional Hands on Lab:
   - [Learn C#](https://www.learncs.org/)
   - [C# Beginner Tutorials](https://dotnetcademy.net/CSharp/Beginner)
