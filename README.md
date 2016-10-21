@@ -154,6 +154,7 @@
 - Hands on Lab:
   - Lab 1: [Basic]()
   - Lab 2: [Data Types]()
+  - Lab 3: [Conditional Statement]()
 - Additional Hands on Lab:
   - [Learn C#](https://www.learncs.org/)
   - [C# Beginner Tutorials](https://dotnetcademy.net/CSharp/Beginner)
