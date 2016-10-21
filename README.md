@@ -139,7 +139,11 @@
   - Students will be able to working with Visual Studio Community Edition Environment
   - Students will understand variables in C# (`int`, `byte`, `float`, `double`, `decimal`, `char`, `bool`)
   - Students will understand operators in C# (`+`, `-`, `*`, `/`, `%`)
-  - Studnets will understand basic data structures in C# (array, string, list)
+  - Students will be able to use Input-Output flow in C#
+    - Students will be able to displaying messages to users
+    - Students will be able to getting input from users
+    - Students will be able to converting a string to a number
+  - Students will understand conditional statements (`==`, `!=`, `>`, `<`, `>=`, `<=`, `&&`, `||`)
 - Pre-reading:
   - [Getting Started with C#](http://csharp-station.com/Tutorial/CSharp/Lesson01)
   - [C# For Beginners - Learn about C#](http://cplus.about.com/od/introductiontoprogramming/a/cshbeginners.htm)
@@ -149,7 +153,7 @@
   - [Introduction to C#](https://docs.google.com/presentation/d/19Y7Y8V03o5ZNy4J0IGcoSnbTSynqiyVoROONEhzCUpE/edit?usp=sharing)
 - Hands on Lab:
   - Lab 1: [Basic]()
-  - Lab 2: [Data Types & Basic Operator]()
+  - Lab 2: [Data Types]()
 - Additional Hands on Lab:
   - [Learn C#](https://www.learncs.org/)
   - [C# Beginner Tutorials](https://dotnetcademy.net/CSharp/Beginner)
@@ -164,13 +168,9 @@
   
 #### <a name="day22"></a>Day 2 - Loop, String, Array, List
 - Learning Objectives:
-  - Students will be able to use Input-Output flow in C#
-    - Students will be able to displaying messages to users
-    - Students will be able to getting input from users
-    - Students will be able to converting a string to a number
-  - Students will understand condition statements (`==`, `!=`, `>`, `<`, `>=`, `<=`, `&&`, `||`)
   - Students will understand control flow statements (`if`, `inline if`, `for` loop, `foreach` loop, `while` loop, `do while`)
   - Students will understand jump statements (`break`, `continue`)
+  - Studnets will understand basic data structures in C# (array, string, list)
 - Pre-reading:
   - reading 1
   - reading 2
