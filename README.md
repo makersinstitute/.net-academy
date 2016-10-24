@@ -193,7 +193,7 @@
 - Assesment:
   - [C# Tutorial](https://www.sololearn.com/Course/CSharp/)
 - Project:
-  - project 1
+  - [Exam Score Table](https://github.com/makersinstitute/w2d2-exam-score-table)
 
 #### <a name="day23"></a>Day 3 - Object Oriented Programming Part 1
 - Learning Objectives:
