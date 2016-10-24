@@ -143,7 +143,7 @@
     - Students will be able to displaying messages to users
     - Students will be able to getting input from users
     - Students will be able to converting a string to a number
-  - Students will understand conditional statements (`==`, `!=`, `>`, `<`, `>=`, `<=`, `&&`, `||`)
+  - Students will understand conditional statements (`==`, `!=`, `>`, `<`, `>=`, `<=`, `&&`, `||`, `if`, `inline if`, `for`)
 - Pre-reading:
   - [Getting Started with C#](http://csharp-station.com/Tutorial/CSharp/Lesson01)
   - [C# For Beginners - Learn about C#](http://cplus.about.com/od/introductiontoprogramming/a/cshbeginners.htm)
@@ -169,7 +169,7 @@
   
 #### <a name="day22"></a>Day 2 - Loop, String, Array, List
 - Learning Objectives:
-  - Students will understand control flow statements (`if`, `inline if`, `for` loop, `foreach` loop, `while` loop, `do while`)
+  - Students will understand control flow statements (`for` loop, `foreach` loop, `while` loop, `do while`)
   - Students will understand jump statements (`break`, `continue`)
   - Studnets will understand basic data structures in C# (array, string, list)
 - Pre-reading:
