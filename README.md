@@ -173,21 +173,25 @@
   - Students will understand jump statements (`break`, `continue`)
   - Studnets will understand basic data structures in C# (array, string, list)
 - Pre-reading:
-  - reading 1
-  - reading 2
-  - reading 3
+  - [How to use C# for loop](http://csharp.net-informations.com/statements/csharp-for-loop.htm)
+  - [C# Array Examples](http://csharp.net-informations.com/collection/csharp-array.htm)
+  - [C# List](http://www.csharp-examples.net/list/)
 - Presentation:
-  - [Interactive Program, Decisions, Loop](https://docs.google.com/presentation/d/1bB2PMawqUyD13LarFZz8DQZfZg3HoflRPMOccvxAHD0/edit?usp=sharing)
+  - [Loop, String, Array, List](https://docs.google.com/presentation/d/1bB2PMawqUyD13LarFZz8DQZfZg3HoflRPMOccvxAHD0/edit?usp=sharing)
 - Hands on Lab:
   - Lab 1: [Array]()
   - Lab 2: [String]()
   - Lab 3: [List]()
 - Additional Hands on Lab:
-  - additional lab 1
+  - [Learn C#](https://www.learncs.org/)
+  - [C# Beginner Tutorials](https://dotnetcademy.net/CSharp/Beginner)
 - Additional Reading:
-  - additional reading 1
+  - [Control Statements – Loops](http://csharp-station.com/Tutorial/CSharp/Lesson04)
+  - [Strings in C# and .NET](http://csharpindepth.com/Articles/General/Strings.aspx)
+  - [Array](https://www.dotnetperls.com/array)
+  - [Programming Arrays in C#](http://www.c-sharpcorner.com/article/working-with-arrays-in-C-Sharp/)
 - Assesment:
-  - assesment 1
+  - [C# Tutorial](https://www.sololearn.com/Course/CSharp/)
 - Project:
   - project 1
 
@@ -199,9 +203,7 @@
   - objective 2
   - objective 3
 - Pre-reading:
-  - reading 1
-  - reading 2
-  - reading 3
+
 - Presentation:
   - presentation 1
 - Hands on Lab:
@@ -209,7 +211,7 @@
 - Additional Hands on Lab:
   - additional lab 1
 - Additional Reading:
-  - additional reading 1
+
 - Assesment:
   - assesment 1
 - Project:
