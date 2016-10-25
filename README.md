@@ -191,7 +191,7 @@
   - [Array](https://www.dotnetperls.com/array)
   - [Programming Arrays in C#](http://www.c-sharpcorner.com/article/working-with-arrays-in-C-Sharp/)
 - Assesment:
-  - [30 Days of Code Challenges](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
+  - [C# Tutorial](https://www.sololearn.com/Course/CSharp/)
 - Project:
   - [Exam Score Table](https://github.com/makersinstitute/w2d2-exam-score-table)
 
