@@ -200,7 +200,7 @@
   - Students will understand basic consept of object-oriented programming
     - Students will understand classes, fields, properties, methods, constructors, statics
   - Students will understand how to instantiate an object
-  - Students will understand advanced method concepts
+  - Students will understand advanced method concepts
 - Pre-reading:
   - [Object-Oriented Programming](https://www.dotnetperls.com/oop)
   - [Object-Oriented Programming Concepts](http://www.blackwasp.co.uk/ObjectOrientedConcepts.aspx)
