@@ -191,27 +191,30 @@
   - [Array](https://www.dotnetperls.com/array)
   - [Programming Arrays in C#](http://www.c-sharpcorner.com/article/working-with-arrays-in-C-Sharp/)
 - Assesment:
-  - [C# Tutorial](https://www.sololearn.com/Course/CSharp/)
+  - [30 Days of Code Challenges](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
 - Project:
   - [Exam Score Table](https://github.com/makersinstitute/w2d2-exam-score-table)
 
 #### <a name="day23"></a>Day 3 - Object Oriented Programming Part 1
 - Learning Objectives:
-  - objective 1
-    - subobjective 1
-    - subobjective 2
-  - objective 2
-  - objective 3
+  - Students will understand basic consept of object-oriented programming
+    - Students will understand classes, fields, properties, methods, constructors, statics
+  - Students will understand how to instantiate an object
+  - Students will understand advanced method concepts
 - Pre-reading:
-
+  - [Object-Oriented Programming](https://www.dotnetperls.com/oop)
+  - [Object-Oriented Programming Concepts](http://www.blackwasp.co.uk/ObjectOrientedConcepts.aspx)
+  - [Introduction to Object Oriented Programming Concepts in C#](http://www.c-sharpcorner.com/UploadFile/mkagrahari/introduction-to-object-oriented-programming-concepts-in-C-Sharp/)
 - Presentation:
-  - presentation 1
+  - [Object-Oriented Programming part 1](https://docs.google.com/presentation/d/1gd-ZdWOp3mYOqqkEAerXsMa-kzJmQGi1V_GVJDj7MXg/edit?usp=sharing)
 - Hands on Lab:
   - lab 1
 - Additional Hands on Lab:
   - additional lab 1
 - Additional Reading:
-
+  - [Object-oriented programming](http://zetcode.com/lang/csharp/oopi/)
+  - [Top 10 OOPS Concepts In C# .NET With Examples](http://www.aspneto.com/oop-concepts-object-oriented-programming-concepts-with-examples.html)
+  - [Classes](http://people.cs.aau.dk/~normark/oop-csharp/html/notes/classes_themes-class-sect.html)
 - Assesment:
   - assesment 1
 - Project:
