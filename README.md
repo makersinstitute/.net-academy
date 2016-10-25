@@ -179,9 +179,9 @@
 - Presentation:
   - [Loop, String, Array, List](https://docs.google.com/presentation/d/1bB2PMawqUyD13LarFZz8DQZfZg3HoflRPMOccvxAHD0/edit?usp=sharing)
 - Hands on Lab:
-  - Lab 1: [Array]()
-  - Lab 2: [String]()
-  - Lab 3: [List]()
+  - Lab 1: [Array](https://github.com/makersinstitute/.net-academy/blob/master/labs/w2d2.md#lab1)
+  - Lab 2: [String](https://github.com/makersinstitute/.net-academy/blob/master/labs/w2d2.md#lab2)
+  - Lab 3: [List](https://github.com/makersinstitute/.net-academy/blob/master/labs/w2d2.md#lab3)
 - Additional Hands on Lab:
   - [Learn C#](https://www.learncs.org/)
   - [C# Beginner Tutorials](https://dotnetcademy.net/CSharp/Beginner)
