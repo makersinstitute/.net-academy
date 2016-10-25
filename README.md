@@ -210,7 +210,8 @@
 - Hands on Lab:
   - lab 1
 - Additional Hands on Lab:
-  - additional lab 1
+  - [Learn C#](https://www.learncs.org/)
+  - [C# Beginner Tutorials](https://dotnetcademy.net/CSharp/Beginner)
 - Additional Reading:
   - [Object-oriented programming](http://zetcode.com/lang/csharp/oopi/)
   - [Top 10 OOPS Concepts In C# .NET With Examples](http://www.aspneto.com/oop-concepts-object-oriented-programming-concepts-with-examples.html)
