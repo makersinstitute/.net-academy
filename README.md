@@ -203,6 +203,7 @@
   - Students will understand advanced method concepts
 - Pre-reading:
   - [Object-Oriented Programming](https://www.dotnetperls.com/oop)
+  - [Object-Oriented Programming](https://msdn.microsoft.com/en-us/library/mt656686.aspx)
   - [Object-Oriented Programming Concepts](http://www.blackwasp.co.uk/ObjectOrientedConcepts.aspx)
   - [Introduction to Object Oriented Programming Concepts in C#](http://www.c-sharpcorner.com/UploadFile/mkagrahari/introduction-to-object-oriented-programming-concepts-in-C-Sharp/)
 - Presentation:
