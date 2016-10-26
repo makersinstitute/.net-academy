@@ -211,6 +211,7 @@
 - Hands on Lab:
   - Lab 1: [The Circle Class](https://github.com/makersinstitute/.net-academy/blob/master/labs/w2d3.md#lab1)
   - Lab 2: [The Rectangle Class](https://github.com/makersinstitute/.net-academy/blob/master/labs/w2d3.md#lab2)
+  - Lab 3: [The Random Class](https://github.com/makersinstitute/.net-academy/blob/master/labs/w2d3.md#lab3)
 - Additional Hands on Lab:
   - [Learn C#](https://www.learncs.org/)
   - [C# Beginner Tutorials](https://dotnetcademy.net/CSharp/Beginner)
