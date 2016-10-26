@@ -220,8 +220,6 @@
   - [Classes](http://people.cs.aau.dk/~normark/oop-csharp/html/notes/classes_themes-class-sect.html)
 - Assesment:
   - [Assessment](https://github.com/makersinstitute/.net-academy/blob/master/assessment/w2d3.md)
-- Project:
-  - project 1
 
 ## <a name="week3"></a>Week 3
 
