@@ -219,7 +219,7 @@
   - [Top 10 OOPS Concepts In C# .NET With Examples](http://www.aspneto.com/oop-concepts-object-oriented-programming-concepts-with-examples.html)
   - [Classes](http://people.cs.aau.dk/~normark/oop-csharp/html/notes/classes_themes-class-sect.html)
 - Assesment:
-  - [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
+  - [Assessment](https://github.com/makersinstitute/.net-academy/blob/master/assessment/w2d3.md)
 - Project:
   - project 1
 
