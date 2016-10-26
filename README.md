@@ -209,7 +209,8 @@
 - Presentation:
   - [Object-Oriented Programming part 1](https://docs.google.com/presentation/d/1gd-ZdWOp3mYOqqkEAerXsMa-kzJmQGi1V_GVJDj7MXg/edit?usp=sharing)
 - Hands on Lab:
-  - lab 1
+  - Lab 1: [The Circle Class](https://github.com/makersinstitute/.net-academy/blob/master/labs/w2d3.md#lab1)
+  - Lab 2: [The Rectangle Class](https://github.com/makersinstitute/.net-academy/blob/master/labs/w2d3.md#lab2)
 - Additional Hands on Lab:
   - [Learn C#](https://www.learncs.org/)
   - [C# Beginner Tutorials](https://dotnetcademy.net/CSharp/Beginner)
