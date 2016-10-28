@@ -236,7 +236,8 @@
   - reading 2
   - reading 3
 - Presentation:
-  - presentation 1
+  - [Object-Oriented Programming part 2](https://docs.google.com/presentation/d/1XY6LOjytzI5WW2R67ZFgKIVOUcSqZxFNZh0wlR8hZh4/edit?usp=sharing)
+  - [Source Codes](https://github.com/makersinstitute/.net-academy/blob/master/codes/w3d1.md)
 - Hands on Lab:
   - lab 1
 - Additional Hands on Lab:
