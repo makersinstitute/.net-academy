@@ -226,11 +226,11 @@
 
 #### <a name="day31"></a>Day 1 - Object Oriented Programming Part 2
 - Learning Objectives:
-  - objective 1
-    - subobjective 1
-    - subobjective 2
-  - objective 2
-  - objective 3
+  - Students will understand inheritance
+    - Students will understand `public`, `protected`, `private` keyword
+  - Students will understand polymorphism
+    - Students will understand abstract class
+    - Studnets will understand interface
 - Pre-reading:
   - reading 1
   - reading 2
