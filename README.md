@@ -235,11 +235,11 @@
   - [Object-Oriented Programming part 2](https://docs.google.com/presentation/d/1XY6LOjytzI5WW2R67ZFgKIVOUcSqZxFNZh0wlR8hZh4/edit?usp=sharing)
   - [Source Codes](https://github.com/makersinstitute/.net-academy/blob/master/codes/w3d1.md)
 - Hands on Lab:
-  - lab 1
+  - [Lab](https://github.com/makersinstitute/w3d1-lab)
 - Additional Hands on Lab:
   - additional lab 1
 - Additional Learning:
-  - additional reading 1
+  - [Object Oriented Programming Key Concept]()
 - Assesment:
   - assesment 1
 - Project:
