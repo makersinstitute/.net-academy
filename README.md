@@ -231,10 +231,6 @@
   - Students will understand polymorphism
     - Students will understand abstract class
     - Studnets will understand interface
-- Pre-reading:
-  - reading 1
-  - reading 2
-  - reading 3
 - Presentation:
   - [Object-Oriented Programming part 2](https://docs.google.com/presentation/d/1XY6LOjytzI5WW2R67ZFgKIVOUcSqZxFNZh0wlR8hZh4/edit?usp=sharing)
   - [Source Codes](https://github.com/makersinstitute/.net-academy/blob/master/codes/w3d1.md)
@@ -242,7 +238,7 @@
   - lab 1
 - Additional Hands on Lab:
   - additional lab 1
-- Additional Reading:
+- Additional Learning:
   - additional reading 1
 - Assesment:
   - assesment 1
