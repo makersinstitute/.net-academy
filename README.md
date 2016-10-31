@@ -236,14 +236,8 @@
   - [Source Codes](https://github.com/makersinstitute/.net-academy/blob/master/codes/w3d1.md)
 - Hands on Lab:
   - [Lab](https://github.com/makersinstitute/w3d1-lab)
-- Additional Hands on Lab:
-  - additional lab 1
 - Additional Learning:
   - [Object Oriented Programming Key Concept](https://github.com/makersinstitute/.net-academy/blob/master/additional-learning/w3d1.md)
-- Assesment:
-  - assesment 1
-- Project:
-  - project 1
   
 #### <a name="day32"></a>Day 2 - Enum, Struct, LINQ, I/O
 - Learning Objectives:
