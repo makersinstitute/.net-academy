@@ -239,7 +239,7 @@
 - Additional Hands on Lab:
   - additional lab 1
 - Additional Learning:
-  - [Object Oriented Programming Key Concept]()
+  - [Object Oriented Programming Key Concept](https://github.com/makersinstitute/.net-academy/blob/master/additional-learning/w3d1.md)
 - Assesment:
   - assesment 1
 - Project:
