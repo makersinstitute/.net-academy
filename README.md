@@ -257,7 +257,7 @@
 - Additional Hands on Lab:
   - additional lab 1
 - Additional Reading:
-  - additional reading 1
+  - [Enums](http://csharp-station.com/Tutorial/CSharp/Lesson17)
 - Assesment:
   - assesment 1
 - Project:
