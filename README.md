@@ -251,7 +251,7 @@
   - reading 2
   - reading 3
 - Presentation:
-  - presentation 1
+  - [Enum, Struct, LINQ, I/O](https://docs.google.com/presentation/d/1PzG0-7526dQUV3uLeid68ZHrvxn6sZNjqQBW27V1JRs/edit?usp=sharing)
 - Hands on Lab:
   - lab 1
 - Additional Hands on Lab:
