@@ -250,7 +250,6 @@
   - [Struct](https://www.tutorialspoint.com/csharp/csharp_struct.htm)
   - [LINQ](http://www.tutorialspoint.com/linq/)
   - [File input output in c#](https://www.tutorialspoint.com/csharp/csharp_file_io.htm) 
-  - 
   - reading 3
 - Presentation:
   - [Enum, Struct, LINQ, I/O](https://docs.google.com/presentation/d/1PzG0-7526dQUV3uLeid68ZHrvxn6sZNjqQBW27V1JRs/edit?usp=sharing)
