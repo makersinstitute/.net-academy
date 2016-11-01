@@ -249,12 +249,11 @@
   - [Enumeration](https://www.tutorialspoint.com/csharp/csharp_enums.htm)
   - [Struct](https://www.tutorialspoint.com/csharp/csharp_struct.htm)
   - [LINQ](http://www.tutorialspoint.com/linq/)
-  - [File input output in c#](https://www.tutorialspoint.com/csharp/csharp_file_io.htm) 
-  
+  - [File input output in c#](https://www.tutorialspoint.com/csharp/csharp_file_io.htm)  
 - Presentation:
   - [Enum, Struct, LINQ, I/O](https://docs.google.com/presentation/d/1PzG0-7526dQUV3uLeid68ZHrvxn6sZNjqQBW27V1JRs/edit?usp=sharing)
 - Hands on Lab:
-  - lab 1
+  - [Lab](https://github.com/makersinstitute/.net-academy/blob/master/labs/w3d2.md)
 - Additional Reading:
   - [Enums](http://csharp-station.com/Tutorial/CSharp/Lesson17)
 - Assesment:
