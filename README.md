@@ -241,11 +241,10 @@
   
 #### <a name="day32"></a>Day 2 - Enum, Struct, LINQ, I/O
 - Learning Objectives:
-  - objective 1
-    - subobjective 1
-    - subobjective 2
-  - objective 2
-  - objective 3
+  - Student understand about enumeration, struct, LINQ and File Input/Output
+  - Student able to recognize advantage of using LINQ comparing to conventional method
+  - Student able to implement LINQ in C#
+  - Student able to implement File I/O in C#
 - Pre-reading:
   - reading 1
   - reading 2
