@@ -253,7 +253,9 @@
 - Presentation:
   - [Enum, Struct, LINQ, I/O](https://docs.google.com/presentation/d/1PzG0-7526dQUV3uLeid68ZHrvxn6sZNjqQBW27V1JRs/edit?usp=sharing)
 - Hands on Lab:
-  - [Lab](https://github.com/makersinstitute/.net-academy/blob/master/labs/w3d2.md)
+  - [Lab1 - Struct](https://github.com/makersinstitute/.net-academy/blob/master/labs/w3d2.md#lab1)
+  - [Lab2 - LINQ](https://github.com/makersinstitute/.net-academy/blob/master/labs/w3d2.md#lab2)
+  - [Lab3 - I/O](https://github.com/makersinstitute/.net-academy/blob/master/labs/w3d2.md#lab3)
 - Additional Reading:
   - [Enums](http://csharp-station.com/Tutorial/CSharp/Lesson17)
 - Assesment:
