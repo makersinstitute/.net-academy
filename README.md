@@ -246,7 +246,7 @@
   - Student able to implement LINQ in C#
   - Student able to implement File I/O in C#
 - Pre-reading:
-  - reading 1
+  - [File input output in c#](https://www.tutorialspoint.com/csharp/csharp_file_io.htm) 
   - reading 2
   - reading 3
 - Presentation:
