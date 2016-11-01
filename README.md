@@ -258,6 +258,8 @@
   - [Lab3 - I/O](https://github.com/makersinstitute/.net-academy/blob/master/labs/w3d2.md#lab3)
 - Additional Reading:
   - [Enums](http://csharp-station.com/Tutorial/CSharp/Lesson17)
+  - [The Differences Between Struct and Class](http://geekswithblogs.net/BlackRabbitCoder/archive/2010/07/29/c-fundamentals-the-differences-between-struct-and-class.aspx)
+  - [7 Tricks to Simplify your Programs with LINQ](http://igoro.com/archive/7-tricks-to-simplify-your-programs-with-linq/)
 - Assesment:
   - assesment 1
 
