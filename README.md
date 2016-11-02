@@ -266,9 +266,6 @@
 #### <a name="day33"></a>Day 3 - Project Assignment: Simple Payroll Software
 - [Project Objectives](https://github.com/makersinstitute/simple-payroll-software)
 - [Project Overview]()
-- Documentation
-- Code Standard
-- etc
 
 ## <a name="week2"></a>Week 4 - Learn to Code HTML & CSS
 
