@@ -264,8 +264,8 @@
   - assesment 1
 
 #### <a name="day33"></a>Day 3 - Project Assignment: Simple Payroll Software
-- [Project Objectives](https://github.com/makersinstitute/simple-payroll-software)
-- [Project Overview]()
+- [Project Objectives](https://github.com/makersinstitute/simple-payroll-software#1)
+- [Project Overview](https://github.com/makersinstitute/simple-payroll-software#2)
 
 ## <a name="week2"></a>Week 4 - Learn to Code HTML & CSS
 
