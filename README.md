@@ -267,9 +267,9 @@
 - [Project Objectives](https://github.com/makersinstitute/simple-payroll-software#1)
 - [Project Overview](https://github.com/makersinstitute/simple-payroll-software#2)
 
-## <a name="week2"></a>Week 4 - Learn to Code HTML & CSS
+## <a name="week4"></a>Week 4 - Learn to Code HTML & CSS
 
-#### <a name="day21"></a>Day 1 - Build Web Pages, HTML, CSS, Box Model
+#### <a name="day41"></a>Day 1 - Build Web Pages, HTML, CSS, Box Model
 - Learning Objectives:
   - Students will understand the common terms of HTML (elements, tags, attributes) and CSS (selectors, properties, values)
   - Students will understand semantic
@@ -293,7 +293,7 @@
 - Project:
   - project 1
   
-#### <a name="day22"></a>Day 2 - Interactive Program, Decisions, Loop
+#### <a name="day42"></a>Day 2 - Positioning Content, Typography, Background & Gradient, List
 - Learning Objectives:
   - objective 1
     - subobjective 1
@@ -317,7 +317,7 @@
 - Project:
   - project 1
 
-#### <a name="day23"></a>Day 3 - Object Oriented Programming Part 1
+#### <a name="day43"></a>Day 3 - Media, Form, Data Table, Best Practice
 - Learning Objectives:
   - objective 1
     - subobjective 1
