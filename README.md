@@ -288,14 +288,13 @@
 - Presentation:
   - presentation 1
 - Hands on Lab:
-  - lab 1
-- Additional Hands on Lab:
   - [HTML & CSS](https://www.codecademy.com/learn/web)
+- Additional Hands on Lab:
   - [HTML](https://www.sololearn.com/Course/HTML/)
   - [CSS](https://www.sololearn.com/Course/CSS/)
 - Additional Reading:
   - [Let’s Talk about Semantics](http://html5doctor.com/lets-talk-about-semantics/)
-  - []()
+  - [The Box Model: visualizing HTML & CSS](http://www.turnwall.com/articles/the-box-model-visualizing-html-css/)
 - Assesment
   - assesment 1
 - Project:
