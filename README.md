@@ -271,21 +271,21 @@
 
 #### <a name="day21"></a>Day 1 - Build Web Pages, HTML, CSS, Box Model
 - Learning Objectives:
-  - objective 1
-    - subobjective 1
-    - subobjective 2
-  - objective 2
-  - objective 3
+  - Students will understand the common terms of HTML (elements, tags, attributes) and CSS (selectors, properties, values)
+  - Students will understand semantic
+  - Students will understand HTML5 structure
+  - Studnets will understand cascade
+  - Students will understand how to use selector
 - Pre-reading:
   - [Intro to HTML & CSS](http://learn.shayhowe.com/html-css/building-your-first-web-page/)
-  - reading 2
+  - [The Basics](http://www.htmlgoodies.com/primers/html/article.php/3478131)
   - reading 3
 - Presentation:
   - presentation 1
 - Hands on Lab:
   - lab 1
 - Additional Hands on Lab:
-  - additional lab 1
+  - [HTML & CSS](https://www.codecademy.com/learn/web)
 - Additional Reading:
   - additional reading 1
 - Assesment
