@@ -288,6 +288,8 @@
   - lab 1
 - Additional Hands on Lab:
   - [HTML & CSS](https://www.codecademy.com/learn/web)
+  - [HTML](https://www.sololearn.com/Course/HTML/)
+  - [CSS](https://www.sololearn.com/Course/CSS/)
 - Additional Reading:
   - additional reading 1
 - Assesment
