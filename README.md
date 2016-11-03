@@ -278,10 +278,13 @@
   - Students will understand HTML5 structure
   - Studnets will understand cascade
   - Students will understand how to use selector
+  - Students will understand box model
 - Pre-reading:
   - [Intro to HTML & CSS](http://learn.shayhowe.com/html-css/building-your-first-web-page/)
-  - [The Basics](http://www.htmlgoodies.com/primers/html/article.php/3478131)
-  - reading 3
+  - [A BEGINNER'S GUIDE TO WEB DESIGN: UNDERSTANDING HTML AND CSS](http://www.collaborative.elleandcompanydesign.com/blog/html-and-css)
+  - [Basic HTML: Introduction](http://www.htmlgoodies.com/primers/html/article.php/3478141/Basic-HTML-Introduction.htm)
+  - [Introduction to CSS](http://www.yourhtmlsource.com/stylesheets/introduction.html)
+  - [HTML and CSS Reading List](chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/http://6.470.scripts.mit.edu/2013/assets/resources/HTMLandCSSReadingList.pdf)
 - Presentation:
   - presentation 1
 - Hands on Lab:
@@ -291,7 +294,8 @@
   - [HTML](https://www.sololearn.com/Course/HTML/)
   - [CSS](https://www.sololearn.com/Course/CSS/)
 - Additional Reading:
-  - additional reading 1
+  - [Let’s Talk about Semantics](http://html5doctor.com/lets-talk-about-semantics/)
+  - []()
 - Assesment
   - assesment 1
 - Project:
