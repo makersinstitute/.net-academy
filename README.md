@@ -272,8 +272,8 @@
 #### <a name="day41"></a>Day 1 - Build Web Pages, HTML, CSS, Box Model
 - Learning Objectives:
   - Students will understand the common terms of HTML and CSS
-   - HTML: elements, tags, attributes
-   - CSS: selectors, properties, values
+    - HTML: elements, tags, attributes
+    - CSS: selectors, properties, values
   - Students will understand semantic
   - Students will understand HTML5 structure
   - Studnets will understand cascade
