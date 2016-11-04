@@ -298,7 +298,7 @@
 - Assesment
   - assesment 1
 - Project:
-  - [Project](https://github.com/makersinstitute/.net-academy/blob/master/projects/w4d1.md)
+  - [Project](https://github.com/makersinstitute/.net-academy/blob/master/projects/w4d1.md)
   
 #### <a name="day42"></a>Day 2 - Positioning Content, Typography, Background & Gradient, List
 - Learning Objectives:
