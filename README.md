@@ -284,7 +284,7 @@
   - [A BEGINNER'S GUIDE TO WEB DESIGN: UNDERSTANDING HTML AND CSS](http://www.collaborative.elleandcompanydesign.com/blog/html-and-css)
   - [Basic HTML: Introduction](http://www.htmlgoodies.com/primers/html/article.php/3478141/Basic-HTML-Introduction.htm)
   - [Introduction to CSS](http://www.yourhtmlsource.com/stylesheets/introduction.html)
-  - [HTML and CSS Reading List](chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/http://6.470.scripts.mit.edu/2013/assets/resources/HTMLandCSSReadingList.pdf)
+  - [HTML and CSS Reading List](http://6.470.scripts.mit.edu/2013/assets/resources/HTMLandCSSReadingList.pdf)
 - Presentation:
   - presentation 1
 - Hands on Lab:
