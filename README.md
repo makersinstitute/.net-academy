@@ -286,7 +286,7 @@
   - [Introduction to CSS](http://www.yourhtmlsource.com/stylesheets/introduction.html)
   - [HTML and CSS Reading List](http://6.470.scripts.mit.edu/2013/assets/resources/HTMLandCSSReadingList.pdf)
 - Presentation:
-  - presentation 1
+  - [Build Web Pages, HTML, CSS & Box Model](https://docs.google.com/presentation/d/1U019WxixRwbe8FZK-SNpGZRL0-0uWfqoeTKEEbS0wtk/edit?usp=sharing)
 - Hands on Lab:
   - [HTML & CSS](https://www.codecademy.com/learn/web)
 - Additional Hands on Lab:
