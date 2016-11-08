@@ -312,7 +312,7 @@
   - reading 2
   - reading 3
 - Presentation:
-  - presentation 1
+  - [Positioning Content, Typography, Background & Gradient, List](https://docs.google.com/presentation/d/1xOzcXrsF0n8n953W-vW0Qcp8RcRogdDudm_TuplCnUU/edit?usp=sharing)
 - Hands on Lab:
   - lab 1
 - Additional Hands on Lab:
