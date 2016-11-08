@@ -314,7 +314,7 @@
 - Presentation:
   - [Positioning Content, Typography, Background & Gradient, List](https://docs.google.com/presentation/d/1xOzcXrsF0n8n953W-vW0Qcp8RcRogdDudm_TuplCnUU/edit?usp=sharing)
 - Hands on Lab:
-  - [HTML & CSS](https://www.codecademy.com/learn/web)
+  - [Learn HTML & CSS: Part I](https://www.codecademy.com/learn/learn-html-css)
 - Additional Hands on Lab:
   - [HTML](https://www.sololearn.com/Course/HTML/)
   - [CSS](https://www.sololearn.com/Course/CSS/)
