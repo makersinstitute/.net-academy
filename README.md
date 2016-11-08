@@ -302,23 +302,28 @@
   
 #### <a name="day42"></a>Day 2 - Positioning Content, Typography, Background & Gradient, List
 - Learning Objectives:
-  - objective 1
-    - subobjective 1
-    - subobjective 2
-  - objective 2
-  - objective 3
+  - Students will understand positioning content
+  - Students will understand typography
+  - Students will understand background & gradient
+  - Students will understand list
 - Pre-reading:
-  - reading 1
-  - reading 2
-  - reading 3
+  - [CSS Float Theory: Things You Should Know](https://www.smashingmagazine.com/2007/05/css-float-theory-things-you-should-know/)
+  - [CSS Font Shorthand Property Cheat Sheet](CSS Font Shorthand Property Cheat Sheet)
+  - [background](http://css3files.com/background/)
+  - [CSS Design: Taming Lists](http://alistapart.com/article/taminglists)
 - Presentation:
   - [Positioning Content, Typography, Background & Gradient, List](https://docs.google.com/presentation/d/1xOzcXrsF0n8n953W-vW0Qcp8RcRogdDudm_TuplCnUU/edit?usp=sharing)
 - Hands on Lab:
-  - lab 1
+  - [HTML & CSS](https://www.codecademy.com/learn/web)
 - Additional Hands on Lab:
-  - additional lab 1
+  - [HTML](https://www.sololearn.com/Course/HTML/)
+  - [CSS](https://www.sololearn.com/Course/CSS/)
 - Additional Reading:
-  - additional reading 1
+  - [Font or Typeface?](http://fontfeed.com/archives/font-or-typeface/)
+  - [CSS Positioning 101](http://alistapart.com/article/css-positioning-101)
+  - [The Elements of Typographic Style Applied to the Web](http://webtypography.net/)
+  - [CSS3 Radial Gradients](https://dev.opera.com/articles/css3-radial-gradients/)
+  - [Styling HTML Lists with CSS: Techniques and Resources](https://www.smashingmagazine.com/2009/12/styling-html-lists-with-css-techniques-and-resources/)
 - Assesment:
   - assesment 1
 - Project:
