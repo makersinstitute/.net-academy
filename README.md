@@ -298,7 +298,7 @@
 - Assesment
   - assesment 1
 - Project:
-  - [Project](https://github.com/makersinstitute/.net-academy/blob/master/projects/w4d1.md)
+  - [Styles Conference](https://github.com/makersinstitute/.net-academy/blob/master/projects/w4d1.md)
   
 #### <a name="day42"></a>Day 2 - Positioning Content, Typography, Background & Gradient, List
 - Learning Objectives:
@@ -327,7 +327,7 @@
 - Assesment:
   - assesment 1
 - Project:
-  - project 1
+  - [Styles Conference](https://github.com/makersinstitute/w4d2-styles-conference)
 
 #### <a name="day43"></a>Day 3 - Media, Form, Data Table, Best Practice
 - Learning Objectives:
