@@ -349,4 +349,5 @@
   - [A FORM OF MADNESS](http://diveinto.html5doctor.com/forms.html)
 - Assesment:
 - Project:
-  - project 1
+  - [Red Eye Photography](https://github.com/makersinstitute/w4d3-Red-Eye-Photography)
+  - [Pocketbook](https://github.com/makersinstitute/w4d3-Pocketbook)
