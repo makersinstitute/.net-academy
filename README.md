@@ -296,7 +296,6 @@
   - [Let’s Talk about Semantics](http://html5doctor.com/lets-talk-about-semantics/)
   - [The Box Model: visualizing HTML & CSS](http://www.turnwall.com/articles/the-box-model-visualizing-html-css/)
 - Assesment
-  - assesment 1
 - Project:
   - [Styles Conference](https://github.com/makersinstitute/w4d1-styles-conference)
   
@@ -325,30 +324,29 @@
   - [CSS3 Radial Gradients](https://dev.opera.com/articles/css3-radial-gradients/)
   - [Styling HTML Lists with CSS: Techniques and Resources](https://www.smashingmagazine.com/2009/12/styling-html-lists-with-css-techniques-and-resources/)
 - Assesment:
-  - assesment 1
 - Project:
   - [Styles Conference](https://github.com/makersinstitute/w4d2-styles-conference)
 
 #### <a name="day43"></a>Day 3 - Media, Form, Data Table, Best Practice
 - Learning Objectives:
-  - objective 1
-    - subobjective 1
-    - subobjective 2
-  - objective 2
-  - objective 3
+  - Students will understand adding media
+  - Students will understand building forms
+  - Students will understand organizing data with tables
+  - Students will understand writing the best code
 - Pre-reading:
-  - reading 1
-  - reading 2
-  - reading 3
+  - [Using HTML5 audio and video](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML5_audio_and_video)
+  - [Forms](http://htmldog.com/guides/html/beginner/forms/)
+  - [Bring on the tables](http://www.456bereastreet.com/archive/200410/bring_on_the_tables/)
 - Presentation:
-  - presentation 1
+  - [Media, Form, Data Table, Best Practice](https://docs.google.com/presentation/d/1PAjtTKoHm2gDCswKCCzIRR3E3a-pOMawL9vypH5by04/edit?usp=sharing)
 - Hands on Lab:
-  - lab 1
+  - [Learn HTML & CSS: Part I](https://www.codecademy.com/learn/learn-html-css)
 - Additional Hands on Lab:
-  - additional lab 1
+  - [HTML](https://www.sololearn.com/Course/HTML/)
+  - [CSS](https://www.sololearn.com/Course/CSS/)
 - Additional Reading:
-  - additional reading 1
+  - [The figure & figcaption elements](http://html5doctor.com/the-figure-figcaption-elements/)
+  - [A FORM OF MADNESS](http://diveinto.html5doctor.com/forms.html)
 - Assesment:
-  - assesment 1
 - Project:
   - project 1
