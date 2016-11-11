@@ -351,3 +351,88 @@
 - Project:
   - [Red Eye Photography](https://github.com/makersinstitute/w4d3-Red-Eye-Photography)
   - [Pocketbook](https://github.com/makersinstitute/w4d3-Pocketbook)
+
+## <a name="week5"></a>Week 5 - Learn to Code Advanced HTML, CSS & Javascript
+
+#### <a name="day51"></a>Day 1 - HTML Performance & Organization, Detailed Positioning & Complex Selector
+- Learning Objectives:
+  - Students will understand the common terms of HTML and CSS
+    - HTML: elements, tags, attributes
+    - CSS: selectors, properties, values
+  - Students will understand semantic
+  - Students will understand HTML5 structure
+  - Studnets will understand cascade
+  - Students will understand how to use selector
+  - Students will understand box model
+- Pre-reading:
+  - [Intro to HTML & CSS](http://learn.shayhowe.com/html-css/building-your-first-web-page/)
+  - [A BEGINNER'S GUIDE TO WEB DESIGN: UNDERSTANDING HTML AND CSS](http://www.collaborative.elleandcompanydesign.com/blog/html-and-css)
+  - [Basic HTML: Introduction](http://www.htmlgoodies.com/primers/html/article.php/3478141/Basic-HTML-Introduction.htm)
+  - [Introduction to CSS](http://www.yourhtmlsource.com/stylesheets/introduction.html)
+  - [HTML and CSS Reading List](http://6.470.scripts.mit.edu/2013/assets/resources/HTMLandCSSReadingList.pdf)
+- Presentation:
+  - [Build Web Pages, HTML, CSS & Box Model](https://docs.google.com/presentation/d/1U019WxixRwbe8FZK-SNpGZRL0-0uWfqoeTKEEbS0wtk/edit?usp=sharing)
+- Hands on Lab:
+  - [HTML & CSS](https://www.codecademy.com/learn/web)
+- Additional Hands on Lab:
+  - [HTML](https://www.sololearn.com/Course/HTML/)
+  - [CSS](https://www.sololearn.com/Course/CSS/)
+- Additional Reading:
+  - [Let’s Talk about Semantics](http://html5doctor.com/lets-talk-about-semantics/)
+  - [The Box Model: visualizing HTML & CSS](http://www.turnwall.com/articles/the-box-model-visualizing-html-css/)
+- Assesment
+- Project:
+  - [Styles Conference](https://github.com/makersinstitute/w4d1-styles-conference)
+  
+#### <a name="day52"></a>Day 2 - Responsive Pages, Preprocessor, JQuery
+- Learning Objectives:
+  - Students will understand positioning content
+  - Students will understand typography
+  - Students will understand background & gradient
+  - Students will understand list
+- Pre-reading:
+  - [CSS Float Theory: Things You Should Know](https://www.smashingmagazine.com/2007/05/css-float-theory-things-you-should-know/)
+  - [CSS Font Shorthand Property Cheat Sheet](CSS Font Shorthand Property Cheat Sheet)
+  - [background](http://css3files.com/background/)
+  - [CSS Design: Taming Lists](http://alistapart.com/article/taminglists)
+- Presentation:
+  - [Positioning Content, Typography, Background & Gradient, List](https://docs.google.com/presentation/d/1xOzcXrsF0n8n953W-vW0Qcp8RcRogdDudm_TuplCnUU/edit?usp=sharing)
+- Hands on Lab:
+  - [Learn HTML & CSS: Part I](https://www.codecademy.com/learn/learn-html-css)
+- Additional Hands on Lab:
+  - [HTML](https://www.sololearn.com/Course/HTML/)
+  - [CSS](https://www.sololearn.com/Course/CSS/)
+- Additional Reading:
+  - [Font or Typeface?](http://fontfeed.com/archives/font-or-typeface/)
+  - [CSS Positioning 101](http://alistapart.com/article/css-positioning-101)
+  - [The Elements of Typographic Style Applied to the Web](http://webtypography.net/)
+  - [CSS3 Radial Gradients](https://dev.opera.com/articles/css3-radial-gradients/)
+  - [Styling HTML Lists with CSS: Techniques and Resources](https://www.smashingmagazine.com/2009/12/styling-html-lists-with-css-techniques-and-resources/)
+- Assesment:
+- Project:
+  - [Styles Conference](https://github.com/makersinstitute/w4d2-styles-conference)
+
+#### <a name="day53"></a>Day 3 - Transition & Animations, Polyfills, Semantics
+- Learning Objectives:
+  - Students will understand adding media
+  - Students will understand building forms
+  - Students will understand organizing data with tables
+  - Students will understand writing the best code
+- Pre-reading:
+  - [Using HTML5 audio and video](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML5_audio_and_video)
+  - [Forms](http://htmldog.com/guides/html/beginner/forms/)
+  - [Bring on the tables](http://www.456bereastreet.com/archive/200410/bring_on_the_tables/)
+- Presentation:
+  - [Media, Form, Data Table, Best Practice](https://docs.google.com/presentation/d/1PAjtTKoHm2gDCswKCCzIRR3E3a-pOMawL9vypH5by04/edit?usp=sharing)
+- Hands on Lab:
+  - [Learn HTML & CSS: Part I](https://www.codecademy.com/learn/learn-html-css)
+- Additional Hands on Lab:
+  - [HTML](https://www.sololearn.com/Course/HTML/)
+  - [CSS](https://www.sololearn.com/Course/CSS/)
+- Additional Reading:
+  - [The figure & figcaption elements](http://html5doctor.com/the-figure-figcaption-elements/)
+  - [A FORM OF MADNESS](http://diveinto.html5doctor.com/forms.html)
+- Assesment:
+- Project:
+  - [Red Eye Photography](https://github.com/makersinstitute/w4d3-Red-Eye-Photography)
+  - [Pocketbook](https://github.com/makersinstitute/w4d3-Pocketbook)
