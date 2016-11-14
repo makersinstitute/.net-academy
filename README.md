@@ -360,19 +360,24 @@
   - Students will be able to organize website's file
   - Students will be able to positioning spesifically
   - Students will understand complex selectors
-- Pre-reading:
+- Reading:
   - [Best Practices for Speeding Up Your Web Site](https://developer.yahoo.com/performance/rules.html)
   - [CSS Strategy Square-off](https://www.viget.com/articles/css-squareoff)
   - [Writing efficient CSS selectors](http://csswizardry.com/2011/09/writing-efficient-css-selectors/)
   - [The Importance (and Ease) of Minifying your CSS and JavaScript and Optimizing PNGs for your Blog or Website](http://www.hanselman.com/blog/TheImportanceAndEaseOfMinifyingYourCSSAndJavaScriptAndOptimizingPNGsForYourBlogOrWebsite.aspx)
   - [Data URIs](https://css-tricks.com/data-uris/)
+  - [All About Floats](https://css-tricks.com/all-about-floats/)
+  - [Methods for Containing Floats](http://www.ejeliot.com/blog/59)
+  - [A Detailed Look at the z-index CSS Property](https://www.impressivewebs.com/a-detailed-look-at-the-z-index-css-property/)
+  - [The 30 CSS Selectors You Must Memorize](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
+  - [Child and Sibling Selectors](https://css-tricks.com/child-and-sibling-selectors/)
+  - [CSS3 Substring Matching Attribute Selectors](http://www.css3.info/preview/attribute-selectors/)
+  - [How To Use CSS3 Pseudo-Classes](https://www.smashingmagazine.com/2011/03/how-to-use-css3-pseudo-classes/)
+  - [Taming Advanced CSS Selectors](https://www.smashingmagazine.com/2009/08/taming-advanced-css-selectors/)
 - Presentation:
   - [HTML Performance & Organization, Detailed Positioning & Complex Selector](https://docs.google.com/presentation/d/1KuZDNDOMcigInjnkwQaToitEYcYMwIuT5Jb9tm1emJQ/edit?usp=sharing)
 - Hands on Lab:
-  - [HTML & CSS](https://www.codecademy.com/learn/web)
 - Additional Hands on Lab:
-  - [HTML](https://www.sololearn.com/Course/HTML/)
-  - [CSS](https://www.sololearn.com/Course/CSS/)
 - Tools:
   - [HTML5 ★ BOILERPLATE](https://html5boilerplate.com/)
   - [ImageOptim](https://imageoptim.com/mac)
@@ -381,7 +386,6 @@
   - [CSS Pattern Generator](http://www.patternify.com/)
 - Assesment:
 - Project:
-  - [Styles Conference](https://github.com/makersinstitute/w4d1-styles-conference)
   
 #### <a name="day52"></a>Day 2 - Responsive Pages, Preprocessor, JQuery
 - Learning Objectives:
