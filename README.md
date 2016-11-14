@@ -373,9 +373,12 @@
 - Additional Hands on Lab:
   - [HTML](https://www.sololearn.com/Course/HTML/)
   - [CSS](https://www.sololearn.com/Course/CSS/)
-- Additional Reading:
-  - [Let’s Talk about Semantics](http://html5doctor.com/lets-talk-about-semantics/)
-  - [The Box Model: visualizing HTML & CSS](http://www.turnwall.com/articles/the-box-model-visualizing-html-css/)
+- Tools:
+  - [HTML5 ★ BOILERPLATE](https://html5boilerplate.com/)
+  - [ImageOptim](https://imageoptim.com/mac)
+  - [PNGGauntlet](https://pnggauntlet.com/)
+  - [Data URI conversion](http://websemantics.co.uk/online_tools/image_to_data_uri_convertor/)
+  - [CSS Pattern Generator](http://www.patternify.com/)
 - Assesment
 - Project:
   - [Styles Conference](https://github.com/makersinstitute/w4d1-styles-conference)
