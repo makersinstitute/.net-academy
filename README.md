@@ -383,7 +383,7 @@
   - [Data URI conversion](http://websemantics.co.uk/online_tools/image_to_data_uri_convertor/)
   - [CSS Pattern Generator](http://www.patternify.com/)
 - Hands on Lab:
-  - [Liquid three column layout](http://css.maxdesign.com.au/floatutorial/tutorial0901.htm)
+  - [Liquid three column layout](https://github.com/makersinstitute/.net-academy/blob/master/labs/w5d1.md)
   - [CSS Selectors](https://flukeout.github.io/#)
 - Additional Hands on Lab:
   - [FLEXBOX FROGGY](http://flexboxfroggy.com/)
