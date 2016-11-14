@@ -383,7 +383,10 @@
   - [Data URI conversion](http://websemantics.co.uk/online_tools/image_to_data_uri_convertor/)
   - [CSS Pattern Generator](http://www.patternify.com/)
 - Hands on Lab:
+  - []()
+  - [CSS Selectors](https://flukeout.github.io/#)
 - Additional Hands on Lab:
+  - [FLEXBOX FROGGY](http://flexboxfroggy.com/)
 - Assesment:
 - Project:
   
