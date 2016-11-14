@@ -379,7 +379,7 @@
   - [PNGGauntlet](https://pnggauntlet.com/)
   - [Data URI conversion](http://websemantics.co.uk/online_tools/image_to_data_uri_convertor/)
   - [CSS Pattern Generator](http://www.patternify.com/)
-- Assesment
+- Assesment:
 - Project:
   - [Styles Conference](https://github.com/makersinstitute/w4d1-styles-conference)
   
