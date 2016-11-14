@@ -360,6 +360,8 @@
   - Students will be able to organize website's file
   - Students will be able to positioning spesifically
   - Students will understand complex selectors
+- Presentation:
+  - [HTML Performance & Organization, Detailed Positioning & Complex Selector](https://docs.google.com/presentation/d/1KuZDNDOMcigInjnkwQaToitEYcYMwIuT5Jb9tm1emJQ/edit?usp=sharing)
 - Reading:
   - [Best Practices for Speeding Up Your Web Site](https://developer.yahoo.com/performance/rules.html)
   - [CSS Strategy Square-off](https://www.viget.com/articles/css-squareoff)
@@ -374,16 +376,14 @@
   - [CSS3 Substring Matching Attribute Selectors](http://www.css3.info/preview/attribute-selectors/)
   - [How To Use CSS3 Pseudo-Classes](https://www.smashingmagazine.com/2011/03/how-to-use-css3-pseudo-classes/)
   - [Taming Advanced CSS Selectors](https://www.smashingmagazine.com/2009/08/taming-advanced-css-selectors/)
-- Presentation:
-  - [HTML Performance & Organization, Detailed Positioning & Complex Selector](https://docs.google.com/presentation/d/1KuZDNDOMcigInjnkwQaToitEYcYMwIuT5Jb9tm1emJQ/edit?usp=sharing)
-- Hands on Lab:
-- Additional Hands on Lab:
 - Tools:
   - [HTML5 ★ BOILERPLATE](https://html5boilerplate.com/)
   - [ImageOptim](https://imageoptim.com/mac)
   - [PNGGauntlet](https://pnggauntlet.com/)
   - [Data URI conversion](http://websemantics.co.uk/online_tools/image_to_data_uri_convertor/)
   - [CSS Pattern Generator](http://www.patternify.com/)
+- Hands on Lab:
+- Additional Hands on Lab:
 - Assesment:
 - Project:
   
