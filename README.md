@@ -414,6 +414,8 @@
   - [jQuery UI](http://jqueryui.com/)
   - [Google Hosted Libraries](https://developers.google.com/speed/libraries/)
 - Hands on Lab:
+  - [JavaScript](https://www.codecademy.com/learn/javascript)
+  - [jQuery](https://www.codecademy.com/learn/jquery)
 - Additional Hands on Lab:
 - Assesment:
 - Project:
