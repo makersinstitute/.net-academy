@@ -390,12 +390,13 @@
 - Assesment:
 - Project:
   
-#### <a name="day52"></a>Day 2 - Responsive Pages, JQuery
+#### <a name="day52"></a>Day 2 - Responsive Pages &amp; JQuery
 - Learning Objectives:
   - Students will understand responsive pages
   - Students will understand fundamental of JavaScript
   - Students will be able to use jQuery
 - Presentation:
+  - [Responsive Pages &amp; JQuery](https://docs.google.com/presentation/d/1hTfvNsw-j7DhpiO7DnusUBJnpejfwNOffOnCjD-zcM4/edit?usp=sharing)
 - Reading:
   - [Responsive Web Design](http://alistapart.com/article/responsive-web-design)
   - [CSS Media Queries & Using Available Space](https://css-tricks.com/css-media-queries/)
