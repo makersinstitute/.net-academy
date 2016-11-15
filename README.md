@@ -435,6 +435,9 @@
   - [How To Create an IE-Only Stylesheet](https://css-tricks.com/how-to-create-an-ie-only-stylesheet/)
   - [Loading Scripts with jQuery](https://davidwalsh.name/loading-scripts-jquery)
   - [Review Of Cross-Browser Testing Tools](https://www.smashingmagazine.com/2011/08/a-dozen-cross-browser-testing-tools/)
+  - [Text-level semantics](https://developers.whatwg.org/text-level-semantics.html#text-level-semantics)
+  - [“DISTRIBUTED,” “EXTENSIBILITY,” & OTHER FANCY WORDS](http://diveintohtml5.info/extensibility.html)
+  - [The Roles Model](https://www.w3.org/TR/wai-aria/roles)
 - Tools:
   - [CSS cubic-bezier Builder](http://www.roblaplaca.com/examples/bezierBuilder/)
   - [The HTML5 Shiv](https://github.com/afarkas/html5shiv)
