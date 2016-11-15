@@ -28,7 +28,7 @@
   * [Day 3 - Transition & Animations, Polyfills, Semantics](#day53)
   
 * [Week 6 - Javascript](#week6)
-  * [Day 1 - Javascript Basics, JQuery, Support & Polyfills](#day61)
+  * [Day 1 - Javascript Basics, Support & Polyfills](#day61)
   * [Day 2 - Javascript Building Blocks](#day62)
   * [Day 3 - Object Oriented Javascript](#day63)
   
@@ -414,15 +414,47 @@
   - [jQuery UI](http://jqueryui.com/)
   - [Google Hosted Libraries](https://developers.google.com/speed/libraries/)
 - Hands on Lab:
-  - [JavaScript](https://www.sololearn.com/Course/JavaScript/)
   - [jQuery](https://www.codecademy.com/learn/jquery)
 - Additional Hands on Lab:
-  - [JavaScript](https://www.codecademy.com/learn/javascript)
 - Assesment:
 - Project:
   - [Listo with jQuery](https://github.com/makersinstitute/jQuery)
 
 #### <a name="day53"></a>Day 3 - Transition & Animations, Polyfills, Semantics
+- Learning Objectives:
+- Pre-reading:
+- Presentation:
+- Hands on Lab:
+- Additional Hands on Lab:
+- Additional Reading:
+- Assesment:
+- Project:
+
+## <a name="week6"></a>Week 6 - Javascript
+
+#### <a name="day61"></a>Day 1 - Javascript Basics, Support & Polyfills
+- Learning Objectives:
+- Pre-reading:
+- Presentation:
+- Hands on Lab:
+  - [JavaScript](https://www.sololearn.com/Course/JavaScript/)
+- Additional Hands on Lab:
+  - [JavaScript](https://www.codecademy.com/learn/javascript)
+- Additional Reading:
+- Assesment:
+- Project:
+  
+#### <a name="day62"></a>Day 2 - Javascript Building Blocks
+- Learning Objectives:
+- Pre-reading:
+- Presentation:
+- Hands on Lab:
+- Additional Hands on Lab:
+- Additional Reading:
+- Assesment:
+- Project:
+
+#### <a name="day63"></a>Day 3 - Object Oriented Javascript
 - Learning Objectives:
 - Pre-reading:
 - Presentation:
