@@ -295,7 +295,7 @@
 - Additional Reading:
   - [Let’s Talk about Semantics](http://html5doctor.com/lets-talk-about-semantics/)
   - [The Box Model: visualizing HTML & CSS](http://www.turnwall.com/articles/the-box-model-visualizing-html-css/)
-- Assesment
+- Assesment:
 - Project:
   - [Styles Conference](https://github.com/makersinstitute/w4d1-styles-conference)
   
@@ -422,11 +422,25 @@
 
 #### <a name="day53"></a>Day 3 - Transition & Animations, Polyfills, Semantics
 - Learning Objectives:
-- Pre-reading:
+  - Students will understand transition and animation
+  - Students will understand HTML5 shiv and polyfills
+  - Students will understand semantics and accessibility
 - Presentation:
+  - [Transition & Animations, Polyfills, Semantics](https://docs.google.com/presentation/d/1bV8coagdRfpClTH-ie3rutaAr8sJf0m3A2KCJofa70Y/edit?usp=sharing)
+- Reading:
+  - [Understanding CSS3 Transitions](http://alistapart.com/article/understanding-css3-transitions)
+  - [The Guide To CSS Animation: Principles and Examples](https://www.smashingmagazine.com/2011/09/the-guide-to-css-animation-principles-and-examples/)
+  - [Using CSS animations](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
+  - [The Story of the HTML5 Shiv](https://www.paulirish.com/2011/the-history-of-the-html5-shiv/)
+  - [How To Create an IE-Only Stylesheet](https://css-tricks.com/how-to-create-an-ie-only-stylesheet/)
+  - [Loading Scripts with jQuery](https://davidwalsh.name/loading-scripts-jquery)
+  - [Review Of Cross-Browser Testing Tools](https://www.smashingmagazine.com/2011/08/a-dozen-cross-browser-testing-tools/)
+- Tools:
+  - [CSS cubic-bezier Builder](http://www.roblaplaca.com/examples/bezierBuilder/)
+  - [The HTML5 Shiv](https://github.com/afarkas/html5shiv)
+  - [deCSS3](http://davatron5000.github.io/deCSS3/)
 - Hands on Lab:
 - Additional Hands on Lab:
-- Additional Reading:
 - Assesment:
 - Project:
 
