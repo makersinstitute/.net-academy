@@ -24,7 +24,7 @@
   
 * [Week 5 - Learn to Code Advanced HTML, CSS & Javascript](#week5)
   * [Day 1 - HTML Performance & Organization, Detailed Positioning & Complex Selector](#day51)
-  * [Day 2 - Responsive Pages, JQuery](#day52)
+  * [Day 2 - Responsive Pages &amp; JQuery](#day52)
   * [Day 3 - Transition & Animations, Polyfills, Semantics](#day53)
   
 * [Week 6 - Javascript](#week6)
