@@ -24,7 +24,7 @@
   
 * [Week 5 - Learn to Code Advanced HTML, CSS & Javascript](#week5)
   * [Day 1 - HTML Performance & Organization, Detailed Positioning & Complex Selector](#day51)
-  * [Day 2 - Responsive Pages, Preprocessor, JQuery](#day52)
+  * [Day 2 - Responsive Pages, JQuery](#day52)
   * [Day 3 - Transition & Animations, Polyfills, Semantics](#day53)
   
 * [Week 6 - Javascript](#week6)
@@ -390,13 +390,30 @@
 - Assesment:
 - Project:
   
-#### <a name="day52"></a>Day 2 - Responsive Pages, Preprocessor, JQuery
+#### <a name="day52"></a>Day 2 - Responsive Pages, JQuery
 - Learning Objectives:
-- Pre-reading:
+  - Students will understand responsive pages
+  - Students will understand fundamental of JavaScript
+  - Students will be able to use jQuery
 - Presentation:
+- Reading:
+  - [Responsive Web Design](http://alistapart.com/article/responsive-web-design)
+  - [CSS Media Queries & Using Available Space](https://css-tricks.com/css-media-queries/)
+  - [An Introduction to Meta Viewport and @viewport](https://dev.opera.com/articles/an-introduction-to-meta-viewport-and-viewport/)
+  - [Creating Intrinsic Ratios for Video](http://alistapart.com/article/creating-intrinsic-ratios-for-video)
+  - [JavaScript For Cats](http://jsforcats.com/)
+  - [A re-introduction to JavaScript (JS tutorial)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+  - [30 Days to Learn jQuery](https://code.tutsplus.com/courses/30-days-to-learn-jquery)
+  - [Traversing](http://api.jquery.com/category/traversing/)
+  - [Manipulation](http://api.jquery.com/category/manipulation/)
+  - [Events and Event Delegation](http://jqfundamentals.com/chapter/events)
+  - [Effects](http://api.jquery.com/category/effects/)
+- Tools:
+  - [jQuery](http://jquery.com/)
+  - [jQuery UI](http://jqueryui.com/)
+  - [Google Hosted Libraries](https://developers.google.com/speed/libraries/)
 - Hands on Lab:
 - Additional Hands on Lab:
-- Additional Reading:
 - Assesment:
 - Project:
 
