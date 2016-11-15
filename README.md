@@ -419,6 +419,7 @@
 - Additional Hands on Lab:
 - Assesment:
 - Project:
+  - [Listo with jQuery](https://github.com/makersinstitute/jQuery)
 
 #### <a name="day53"></a>Day 3 - Transition & Animations, Polyfills, Semantics
 - Learning Objectives:
