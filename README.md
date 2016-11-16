@@ -421,32 +421,7 @@
   - [Listo with jQuery](https://github.com/makersinstitute/jQuery)
 
 #### <a name="day53"></a>Day 3 - Transition & Animations, Polyfills, Semantics
-- Learning Objectives:
-  - Students will understand transition and animation
-  - Students will understand HTML5 shiv and polyfills
-  - Students will understand semantics and accessibility
-- Presentation:
-  - [Transition & Animations, Polyfills, Semantics](https://docs.google.com/presentation/d/1bV8coagdRfpClTH-ie3rutaAr8sJf0m3A2KCJofa70Y/edit?usp=sharing)
-- Reading:
-  - [Understanding CSS3 Transitions](http://alistapart.com/article/understanding-css3-transitions)
-  - [The Guide To CSS Animation: Principles and Examples](https://www.smashingmagazine.com/2011/09/the-guide-to-css-animation-principles-and-examples/)
-  - [Using CSS animations](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
-  - [The Story of the HTML5 Shiv](https://www.paulirish.com/2011/the-history-of-the-html5-shiv/)
-  - [How To Create an IE-Only Stylesheet](https://css-tricks.com/how-to-create-an-ie-only-stylesheet/)
-  - [Loading Scripts with jQuery](https://davidwalsh.name/loading-scripts-jquery)
-  - [Review Of Cross-Browser Testing Tools](https://www.smashingmagazine.com/2011/08/a-dozen-cross-browser-testing-tools/)
-  - [Text-level semantics](https://developers.whatwg.org/text-level-semantics.html#text-level-semantics)
-  - [“DISTRIBUTED,” “EXTENSIBILITY,” & OTHER FANCY WORDS](http://diveintohtml5.info/extensibility.html)
-  - [The Roles Model](https://www.w3.org/TR/wai-aria/roles)
-- Tools:
-  - [CSS cubic-bezier Builder](http://www.roblaplaca.com/examples/bezierBuilder/)
-  - [The HTML5 Shiv](https://github.com/afarkas/html5shiv)
-  - [deCSS3](http://davatron5000.github.io/deCSS3/)
-- Hands on Lab:
-- Additional Hands on Lab:
-- Assesment:
-- Project:
-  - [WideopenTech](wideopentech.com) - Clone the homepage for this website
+- [Project Portfolio](https://github.com/makersinstitute/porfolio)
 
 ## <a name="week6"></a>Week 6 - Javascript
 
