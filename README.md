@@ -25,7 +25,7 @@
 * [Week 5 - Learn to Code Advanced HTML, CSS & Javascript](#week5)
   * [Day 1 - HTML Performance & Organization, Detailed Positioning & Complex Selector](#day51)
   * [Day 2 - Responsive Pages &amp; JQuery](#day52)
-  * [Day 3 - Transition & Animations, Polyfills, Semantics](#day53)
+  * [Day 3 - Project Assignment: Portfolio](#day53)
   
 * [Week 6 - Javascript](#week6)
   * [Day 1 - Javascript Basics, Support & Polyfills](#day61)
@@ -420,8 +420,8 @@
 - Project:
   - [Listo with jQuery](https://github.com/makersinstitute/jQuery)
 
-#### <a name="day53"></a>Day 3 - Transition & Animations, Polyfills, Semantics
-- [Project Portfolio](https://github.com/makersinstitute/porfolio)
+#### <a name="day53"></a>Day 3 - Project Assignment: Portfolio
+- [Project Overview](https://github.com/makersinstitute/porfolio)
 
 ## <a name="week6"></a>Week 6 - Javascript
 
