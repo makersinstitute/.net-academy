@@ -446,6 +446,7 @@
 - Additional Hands on Lab:
 - Assesment:
 - Project:
+  - [WideopenTech](wideopentech.com) - Clone the homepage for this website
 
 ## <a name="week6"></a>Week 6 - Javascript
 
