@@ -448,6 +448,7 @@
 - Assesment:
 - Project:
   - [JS-Basics](https://github.com/makersinstitute/w6d1-JS-Basics)
+  - [JS-Array](https://github.com/makersinstitute/w6d1-array)
   
 #### <a name="day62"></a>Day 2 - Javascript Building Blocks
 - Learning Objectives:
