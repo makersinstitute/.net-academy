@@ -425,17 +425,27 @@
 
 ## <a name="week6"></a>Week 6 - Javascript
 
-#### <a name="day61"></a>Day 1 - Javascript Basics, Support & Polyfills
+#### <a name="day61"></a>Day 1 - Javascript Basics
 - Learning Objectives:
+  - Students will understand javaScript in Web Pages
+  - Students will understand basic javaScript
+  - Students will understand javaScript's basic function
 - Pre-reading:
+  - [Basic JavaScript for the impatient programmer](http://www.2ality.com/2013/06/basic-javascript.html)
+  - [Basic JavaScript](http://www.yourhtmlsource.com/javascript/basicjavascript.html)
 - Presentation:
+  - [JavaScript Basics](https://docs.google.com/presentation/d/1CeVFR-jU0gc9IGLAStFci5vCenMr5ELH6S5ynf3kxGU/edit?usp=sharing)
 - Hands on Lab:
   - [JavaScript](https://www.sololearn.com/Course/JavaScript/)
 - Additional Hands on Lab:
+  - [What's a Closure?](http://nathansjslessons.appspot.com/lesson?id=1000)
   - [JavaScript](https://www.codecademy.com/learn/javascript)
 - Additional Reading:
+  - [Functions](http://eloquentjavascript.net/03_functions.html)
+  - [Six ways to declare JavaScript functions](https://rainsoft.io/6-ways-to-declare-javascript-functions/)
 - Assesment:
 - Project:
+  - [JS-Basics](https://github.com/makersinstitute/w6d1-JS-Basics)
   
 #### <a name="day62"></a>Day 2 - Javascript Building Blocks
 - Learning Objectives:
