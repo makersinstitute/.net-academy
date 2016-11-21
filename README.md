@@ -28,7 +28,7 @@
   * [Day 3 - Project Assignment: Portfolio](#day53)
   
 * [Week 6 - Javascript](#week6)
-  * [Day 1 - Javascript Basics, Support & Polyfills](#day61)
+  * [Day 1 - Javascript Overview, Variables, Operators, Arrays](#day61)
   * [Day 2 - Javascript Building Blocks](#day62)
   * [Day 3 - Object Oriented Javascript](#day63)
   
@@ -436,7 +436,7 @@
   - [Basic JavaScript for the impatient programmer](http://www.2ality.com/2013/06/basic-javascript.html)
   - [Basic JavaScript](http://www.yourhtmlsource.com/javascript/basicjavascript.html)
 - Presentation:
-  - [JavaScript Basics](https://docs.google.com/presentation/d/1CeVFR-jU0gc9IGLAStFci5vCenMr5ELH6S5ynf3kxGU/edit?usp=sharing)
+  - [Javascript Overview, Variables, Operators, Arrays](https://docs.google.com/presentation/d/1gxgUx3YxM4QdKk3bQ7FLFURpXsWFcklqljrH8Ay19is/edit?usp=sharing)
 - Hands on Lab:
   - [JavaScript](https://www.codecademy.com/learn/javascript)
 - Additional Hands on Lab:
