@@ -436,10 +436,10 @@
 - Presentation:
   - [JavaScript Basics](https://docs.google.com/presentation/d/1CeVFR-jU0gc9IGLAStFci5vCenMr5ELH6S5ynf3kxGU/edit?usp=sharing)
 - Hands on Lab:
-  - [JavaScript](https://www.sololearn.com/Course/JavaScript/)
+  - [JavaScript](https://www.codecademy.com/learn/javascript)
 - Additional Hands on Lab:
   - [What's a Closure?](http://nathansjslessons.appspot.com/lesson?id=1000)
-  - [JavaScript](https://www.codecademy.com/learn/javascript)
+  - [JavaScript](https://www.sololearn.com/Course/JavaScript/)
 - Additional Reading:
   - [Functions](http://eloquentjavascript.net/03_functions.html)
   - [Six ways to declare JavaScript functions](https://rainsoft.io/6-ways-to-declare-javascript-functions/)
