@@ -425,11 +425,13 @@
 
 ## <a name="week6"></a>Week 6 - Javascript
 
-#### <a name="day61"></a>Day 1 - Javascript Basics
+#### <a name="day61"></a>Day 1 - Javascript Overview, Variables, Operators, Arrays
 - Learning Objectives:
   - Students will understand javaScript in Web Pages
-  - Students will understand basic javaScript
+  - Students will understand javaScript's variables
+  - Students will understand javascript's operators
   - Students will understand javaScript's basic function
+  - Students will understand javascript's arrays
 - Pre-reading:
   - [Basic JavaScript for the impatient programmer](http://www.2ality.com/2013/06/basic-javascript.html)
   - [Basic JavaScript](http://www.yourhtmlsource.com/javascript/basicjavascript.html)
