@@ -438,7 +438,7 @@
 - Presentation:
   - [Javascript Overview, Variables, Operators, Arrays](https://docs.google.com/presentation/d/1gxgUx3YxM4QdKk3bQ7FLFURpXsWFcklqljrH8Ay19is/edit?usp=sharing)
 - Hands on Lab:
-  - [JavaScript](https://www.codecademy.com/learn/javascript)
+  - [JavaScript](https://www.codecademy.com/learn/javascript) (1, 2, 6)
 - Additional Hands on Lab:
   - [What's a Closure?](http://nathansjslessons.appspot.com/lesson?id=1000)
   - [JavaScript](https://www.sololearn.com/Course/JavaScript/)
