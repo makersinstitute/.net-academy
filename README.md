@@ -440,7 +440,6 @@
 - Hands on Lab:
   - [JavaScript](https://www.codecademy.com/learn/javascript) (1, 2, 6)
 - Additional Hands on Lab:
-  - [What's a Closure?](http://nathansjslessons.appspot.com/lesson?id=1000)
   - [JavaScript](https://www.sololearn.com/Course/JavaScript/)
 - Additional Reading:
   - [Functions](http://eloquentjavascript.net/03_functions.html)
@@ -457,8 +456,10 @@
   - Students will understand programming in BOM and DOM
 - Pre-reading:
 - Presentation:
+  - [JavaScript Object, Function, BOM and DOM](https://docs.google.com/presentation/d/1j-Pw5QzZAjSae2n68Z0rPjzd5xVPxnTwdSe0yQ9CWcM/edit?usp=sharing)
 - Hands on Lab:
 - Additional Hands on Lab:
+  - [What's a Closure?](http://nathansjslessons.appspot.com/lesson?id=1000)
 - Additional Reading:
 - Assesment:
 - Project:
