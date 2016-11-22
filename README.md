@@ -450,8 +450,11 @@
   - [JS-Basics](https://github.com/makersinstitute/w6d1-JS-Basics)
   - [JS-Array](https://github.com/makersinstitute/w6d1-array)
   
-#### <a name="day62"></a>Day 2 - Javascript Building Blocks
+#### <a name="day62"></a>Day 2 - Javascript's Object, Function, BOM and DOM
 - Learning Objectives:
+  - Students will understand javaScript's Object, JSON, and Prototype
+  - Students will understand javaScript's Functions
+  - Students will understand programming in BOM and DOM
 - Pre-reading:
 - Presentation:
 - Hands on Lab:
