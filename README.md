@@ -461,6 +461,7 @@
 - Presentation:
   - [JavaScript Object, Function, BOM and DOM](https://docs.google.com/presentation/d/1j-Pw5QzZAjSae2n68Z0rPjzd5xVPxnTwdSe0yQ9CWcM/edit?usp=sharing)
 - Hands on Lab:
+  - [JavaScript](https://www.codecademy.com/learn/javascript) (7, 8)
 - Additional Hands on Lab:
   - [What's a Closure?](http://nathansjslessons.appspot.com/lesson?id=1000)
 - Additional Reading:
