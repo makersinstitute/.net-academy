@@ -30,7 +30,7 @@
 * [Week 6 - Javascript](#week6)
   * [Day 1 - Javascript Overview, Variables, Operators, Arrays](#day61)
   * [Day 2 - Javascript Object, Function, BOM and DOM](#day62)
-  * [Day 3 - Object Oriented Javascript](#day63)
+  * [Day 3 - JavaScript Event Handlers, Built-in, and Miscellaneous](#day63)
   
 * [Week 7](#week7)
   * [Day 1 - Exploring & Designing ASP.NET MVC 5](#day71)
@@ -458,6 +458,7 @@
   - [3 ways to define a JavaScript class](http://www.phpied.com/3-ways-to-define-a-javascript-class/)
   - [7 Essential JavaScript Functions](https://davidwalsh.name/essential-javascript-functions)
   - [JavaScript Prototype in Plain Language](http://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/)
+  - [Understand JavaScript’s “this” With Clarity, and Master It](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/)
 - Presentation:
   - [JavaScript Object, Function, BOM and DOM](https://docs.google.com/presentation/d/1j-Pw5QzZAjSae2n68Z0rPjzd5xVPxnTwdSe0yQ9CWcM/edit?usp=sharing)
 - Hands on Lab:
@@ -473,10 +474,16 @@
   - [Constructor](https://github.com/makersinstitute/Constructor)
   - [Utilities](https://github.com/makersinstitute/JS-Utilities)
 
-#### <a name="day63"></a>Day 3 - Object Oriented Javascript
+#### <a name="day63"></a>Day 3 - JavaScript Event Handlers, Built-in, and Miscellaneous
 - Learning Objectives:
+  - Students will able to handling event
+  - Students will able to use built-in objects and functions
+  - Students will understand miscellaneous javaScript topics
 - Pre-reading:
+  - [Handling Events](http://eloquentjavascript.net/14_event.html)
+  - [Using JavaScript's built-in objects](http://www.javaworld.com/article/2077150/scripting-jvm-languages/using-javascript-s-built-in-objects.html)
 - Presentation:
+  - [JavaScript Event Handlers, Built-in, and Miscellaneous](https://docs.google.com/presentation/d/1ALVuGpDL6uujjeBSASj2ytCwZ99rz6ayij-gpCeTFP8/edit?usp=sharing)
 - Hands on Lab:
 - Additional Hands on Lab:
 - Additional Reading:
