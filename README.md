@@ -455,14 +455,21 @@
   - Students will understand javaScript's Functions
   - Students will understand programming in BOM and DOM
 - Pre-reading:
+  - [3 ways to define a JavaScript class](http://www.phpied.com/3-ways-to-define-a-javascript-class/)
+  - [7 Essential JavaScript Functions](https://davidwalsh.name/essential-javascript-functions)
+  - [JavaScript Prototype in Plain Language](http://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/)
 - Presentation:
   - [JavaScript Object, Function, BOM and DOM](https://docs.google.com/presentation/d/1j-Pw5QzZAjSae2n68Z0rPjzd5xVPxnTwdSe0yQ9CWcM/edit?usp=sharing)
 - Hands on Lab:
 - Additional Hands on Lab:
   - [What's a Closure?](http://nathansjslessons.appspot.com/lesson?id=1000)
 - Additional Reading:
+  - [Understand JavaScript Callback Functions and Use Them](http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/)
 - Assesment:
 - Project:
+  - [Object](https://github.com/makersinstitute/JS-Object)
+  - [Constructor](https://github.com/makersinstitute/Constructor)
+  - [Utilities](https://github.com/makersinstitute/JS-Utilities)
 
 #### <a name="day63"></a>Day 3 - Object Oriented Javascript
 - Learning Objectives:
