@@ -464,6 +464,7 @@
   - [JavaScript](https://www.codecademy.com/learn/javascript) (7, 8)
 - Additional Hands on Lab:
   - [What's a Closure?](http://nathansjslessons.appspot.com/lesson?id=1000)
+  - [JavaScript](https://www.sololearn.com/Course/JavaScript/)
 - Additional Reading:
   - [Understand JavaScript Callback Functions and Use Them](http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/)
 - Assesment:
