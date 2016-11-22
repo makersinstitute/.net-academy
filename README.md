@@ -29,7 +29,7 @@
   
 * [Week 6 - Javascript](#week6)
   * [Day 1 - Javascript Overview, Variables, Operators, Arrays](#day61)
-  * [Day 2 - Javascript Building Blocks](#day62)
+  * [Day 2 - Javascript Object, Function, BOM and DOM](#day62)
   * [Day 3 - Object Oriented Javascript](#day63)
   
 * [Week 7](#week7)
@@ -449,7 +449,7 @@
   - [JS-Basics](https://github.com/makersinstitute/w6d1-JS-Basics)
   - [JS-Array](https://github.com/makersinstitute/w6d1-array)
   
-#### <a name="day62"></a>Day 2 - Javascript's Object, Function, BOM and DOM
+#### <a name="day62"></a>Day 2 - Javascript Object, Function, BOM and DOM
 - Learning Objectives:
   - Students will understand javaScript's Object, JSON, and Prototype
   - Students will understand javaScript's Functions
