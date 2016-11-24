@@ -496,7 +496,8 @@
 - Learning Objectives:
 - Pre-reading:
 - Presentation:
-  - [Exploring & Designing ASP.NET MVC 5](https://docs.google.com/presentation/d/1ZwEsZGXKx5_EXVlCL3B2_L4WyX0xyVr0u-bJTVNUCJs/edit?usp=sharing)
+  - Module 1: [Exploring & Designing ASP.NET MVC 5](https://docs.google.com/presentation/d/1ZwEsZGXKx5_EXVlCL3B2_L4WyX0xyVr0u-bJTVNUCJs/edit?usp=sharing)
+  - Module 2: [Designing ASP.NET MVC 5 Web Applications](https://docs.google.com/presentation/d/1wdkRjU7vPAbG_Xjk-vQow6U6T7DkCq8HeREvT14Ukqs/edit?usp=sharing)
 - Hands on Lab:
 - Additional Hands on Lab:
 - Additional Reading:
