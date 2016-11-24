@@ -489,3 +489,29 @@
 - Additional Reading:
 - Assesment:
 - Project:
+
+## <a name="week6"></a>Week 7 - Javascript
+
+#### <a name="day61"></a>Day 1 - Javascript Overview, Variables, Operators, Arrays
+- Learning Objectives:
+  - Students will understand javaScript in Web Pages
+  - Students will understand javaScript's variables
+  - Students will understand javascript's operators
+  - Students will understand javaScript's basic function
+  - Students will understand javascript's arrays
+- Pre-reading:
+  - [Basic JavaScript for the impatient programmer](http://www.2ality.com/2013/06/basic-javascript.html)
+  - [Basic JavaScript](http://www.yourhtmlsource.com/javascript/basicjavascript.html)
+- Presentation:
+  - [Javascript Overview, Variables, Operators, Arrays](https://docs.google.com/presentation/d/1gxgUx3YxM4QdKk3bQ7FLFURpXsWFcklqljrH8Ay19is/edit?usp=sharing)
+- Hands on Lab:
+  - [JavaScript](https://www.codecademy.com/learn/javascript) (1, 2, 6)
+- Additional Hands on Lab:
+  - [JavaScript](https://www.sololearn.com/Course/JavaScript/)
+- Additional Reading:
+  - [Functions](http://eloquentjavascript.net/03_functions.html)
+  - [Six ways to declare JavaScript functions](https://rainsoft.io/6-ways-to-declare-javascript-functions/)
+- Assesment:
+- Project:
+  - [JS-Basics](https://github.com/makersinstitute/w6d1-JS-Basics)
+  - [JS-Array](https://github.com/makersinstitute/w6d1-array)
