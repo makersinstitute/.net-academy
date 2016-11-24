@@ -508,6 +508,9 @@
 - Learning Objectives:
 - Pre-reading:
 - Presentation:
+  - Module 3: [Developing ASP.NET MVC 5 Models](https://docs.google.com/presentation/d/13bZJ2ntlI45wlrGmcdgWXHxAXRpC_pzRXYPt4l-n6qw/edit?usp=sharing)
+  - Module 4: [Developing ASP.NET MVC 5 Controllers]()
+  - Module 5: [Developing ASP.NET MVC 5 Views]()
 - Hands on Lab:
 - Additional Hands on Lab:
 - Additional Reading:
