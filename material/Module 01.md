@@ -46,7 +46,7 @@ Microsoft provides a broad range of technologies that you can use to create rich
 
 Besides publishing web applications, you can use these technologies to develop and host websites, which run code both on the web server and on the user’s web browser.
 
-![](image\module1\1.png)
+![](image/module1/1.png)
 
 #### Developer Tools
 
@@ -98,7 +98,7 @@ ASP.NET applications can also use the Asynchronous JavaScript and XML (AJAX) tec
 
 You can use ASP.NET 4.5 to develop database- driven, highly-functional, and scalable dynamic websites that use client-side and server-side code. You can create many kinds of website with ASP.NET 4.5, for example, web portals, online shopping sites, blogs, and wikis.
 
-![](E:\root\asp.net\image\module1\2.png)
+![](image/module1/2.png)
 
 #### Programming  Models
 
