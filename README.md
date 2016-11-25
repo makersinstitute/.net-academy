@@ -546,16 +546,21 @@
 #### <a name="day71"></a>Day 3 - Testing & Debugging, Structuring ASP.NET MVC 5 Web App
 - Learning Objectives:
   - Module 06 Testing and Debugging ASP.NET MVC 5 Web Applications
+    - Run unit tests against the Model–View–Controller (MVC) components, such as model classes, and locate potential bugs.
+    - Build an MVC application that handles exceptions smoothly and robustly.
   - Module 07 Structuring ASP.NET MVC 5 Web Applications
+    - Plan suitable information architecture for a given set of functional requirements.
+    - Add routes to the ASP.NET routing engine and ensure that URLs are user-friendly throughout an MVC web application.
+    - Add navigation controls to an application to enable users to locate data rapidly.
 - Pre-reading:
-  - Module 06 [Testing and Debugging ASP.NET MVC 5 Web Applications]()
-  - Module 07 [Structuring ASP.NET MVC 5 Web Applications]()
+  - Module 06 [Testing and Debugging ASP.NET MVC 5 Web Applications](https://github.com/makersinstitute/.net-academy/blob/master/material/Module%2006.pdf)
+  - Module 07 [Structuring ASP.NET MVC 5 Web Applications](https://github.com/makersinstitute/.net-academy/blob/master/material/Module%2007.pdf)
 - Presentation:
-  - Module 06 [Testing and Debugging ASP.NET MVC 5 Web Applications]()
-  - Module 07 [Structuring ASP.NET MVC 5 Web Applications]()
+  - Module 06 [Testing and Debugging ASP.NET MVC 5 Web Applications](https://docs.google.com/presentation/d/1HRCcVQV2Xzqa8pgejD_TFlRcrwPDvlgMQt2Xl-PqKUg/edit?usp=sharing)
+  - Module 07 [Structuring ASP.NET MVC 5 Web Applications](https://docs.google.com/presentation/d/1TiCf1wSLVwXI5sNADKrVuoTfFjISi118yx2W7BHNg-M/edit?usp=sharing)
 - Hands on Lab:
   - Module 06 [Testing and Debugging ASP.NET MVC 5 Web Applications]()
   - Module 07 [Structuring ASP.NET MVC 5 Web Applications]()
 - Review and Takeaways:
-  - Module 06 [Testing and Debugging ASP.NET MVC 5 Web Applications]()
-  - Module 07 [Structuring ASP.NET MVC 5 Web Applications]()
+  - Module 06 [Testing and Debugging ASP.NET MVC 5 Web Applications](https://github.com/makersinstitute/.net-academy/blob/master/material/Module%2006%20review.pdf)
+  - Module 07 [Structuring ASP.NET MVC 5 Web Applications](https://github.com/makersinstitute/.net-academy/blob/master/material/Module%2007%20review.pdf)
