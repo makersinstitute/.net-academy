@@ -494,11 +494,11 @@
 
 #### <a name="day71"></a>Day 1 - Exploring & Designing ASP.NET MVC 5
 - Learning Objectives:
-  - Module 01:
+  - Module 01 Exploring & Designing ASP.NET MVC 5
     - Describe the role of ASP.NET in the web technologies stack, and how to use ASP.NET to build web applications.
     -	Describe the three programming models available in ASP.NET: Web Pages, Web Forms, and MVC—and select an appropriate model for a given project.
     -	Distinguish between an MVC Model, an MVC Controller, and an MVC View.
-  - Module 02:
+  - Module 02 Designing ASP.NET MVC 5 Web Applications
     - Plan the overall architecture of an MVC 5 web application and consider aspects such as state management.
     -	Plan the models, controllers, and views that are required to implement a given set of functional requirements.
 - Pre-reading:
@@ -508,31 +508,54 @@
   - Module 01 [Exploring & Designing ASP.NET MVC 5](https://docs.google.com/presentation/d/1ZwEsZGXKx5_EXVlCL3B2_L4WyX0xyVr0u-bJTVNUCJs/edit?usp=sharing)
   - Module 02 [Designing ASP.NET MVC 5 Web Applications](https://docs.google.com/presentation/d/1wdkRjU7vPAbG_Xjk-vQow6U6T7DkCq8HeREvT14Ukqs/edit?usp=sharing)
 - Hands on Lab:
+  - Module 01 [Exploring & Designing ASP.NET MVC 5]()
+  - Module 02 [Designing ASP.NET MVC 5 Web Applications]()
 - Review and Takeaways:
   - Module 01 [Exploring & Designing ASP.NET MVC 5](https://github.com/makersinstitute/.net-academy/blob/master/material/Module%2001%20review.pdf)
   - Module 02 [Designing ASP.NET MVC 5 Web Applications](https://github.com/makersinstitute/.net-academy/blob/master/material/Module%2002%20review.pdf)
 
 #### <a name="day71"></a>Day 2 - Developing ASP.NET MVC 5 Model - Controller - View
 - Learning Objectives:
+  - Module 03 Developing ASP.NET MVC 5 Models
+    -	Add a model to an MVC application and write code in it to implement the business logic.
+    - Create a new SQL Azure database to store data for the web application.
+  - Module 04 Developing ASP.NET MVC 5 Controllers
+    - Add a controller to a web application that responds to user actions specified in the project design.
+    -	Write code in action filters that runs before or after a controller action.
+  - Module 05 Developing ASP.NET MVC 5 Views
+    - Create an MVC view and add Razor markup to it to display data to users.
+    - Use HTML helpers in a view to render controls, links, and other HTML elements.
+    - Re-use Razor markup in multiple locations throughout an application.
 - Pre-reading:
+  - Module 03 [Developing ASP.NET MVC 5 Models](https://github.com/makersinstitute/.net-academy/blob/master/material/Module%2003.pdf)
+  - Module 04 [Developing ASP.NET MVC 5 Controllers](https://github.com/makersinstitute/.net-academy/blob/master/material/Module%2004.pdf)
+  - Module 05 [Developing ASP.NET MVC 5 Views](https://github.com/makersinstitute/.net-academy/blob/master/material/Module%2005.pdf)
 - Presentation:
   - Module 03 [Developing ASP.NET MVC 5 Models](https://docs.google.com/presentation/d/13bZJ2ntlI45wlrGmcdgWXHxAXRpC_pzRXYPt4l-n6qw/edit?usp=sharing)
   - Module 04 [Developing ASP.NET MVC 5 Controllers](https://docs.google.com/presentation/d/1zs24fa5vkWA9-5uIn3xJdyYUKL7YRTPKX3mIbgTGFNU/edit?usp=sharing)
   - Module 05 [Developing ASP.NET MVC 5 Views](https://docs.google.com/presentation/d/1cuOZwXWfW742BXOaoMoKk3b0Oc7jjIEe_25FIkTd4eQ/edit?usp=sharing)
 - Hands on Lab:
-- Additional Hands on Lab:
-- Additional Reading:
-- Assesment:
-- Project:
+  - Module 03 [Developing ASP.NET MVC 5 Models]()
+  - Module 04 [Developing ASP.NET MVC 5 Controllers]()
+  - Module 05 [Developing ASP.NET MVC 5 Views]()
+- Review and Takeaways:
+  - Module 03 [Developing ASP.NET MVC 5 Models](https://github.com/makersinstitute/.net-academy/blob/master/material/Module%2003%20review.pdf)
+  - Module 04 [Developing ASP.NET MVC 5 Controllers](https://github.com/makersinstitute/.net-academy/blob/master/material/Module%2004%20review.pdf)
+  - Module 05 [Developing ASP.NET MVC 5 Views](https://github.com/makersinstitute/.net-academy/blob/master/material/Module%2005%20review.pdf)
 
 #### <a name="day71"></a>Day 3 - Testing & Debugging, Structuring ASP.NET MVC 5 Web App
 - Learning Objectives:
+  - Module 06 Testing and Debugging ASP.NET MVC 5 Web Applications
+  - Module 07 Structuring ASP.NET MVC 5 Web Applications
 - Pre-reading:
+  - Module 06 [Testing and Debugging ASP.NET MVC 5 Web Applications]()
+  - Module 07 [Structuring ASP.NET MVC 5 Web Applications]()
 - Presentation:
   - Module 06 [Testing and Debugging ASP.NET MVC 5 Web Applications]()
   - Module 07 [Structuring ASP.NET MVC 5 Web Applications]()
 - Hands on Lab:
-- Additional Hands on Lab:
-- Additional Reading:
-- Assesment:
-- Project:
+  - Module 06 [Testing and Debugging ASP.NET MVC 5 Web Applications]()
+  - Module 07 [Structuring ASP.NET MVC 5 Web Applications]()
+- Review and Takeaways:
+  - Module 06 [Testing and Debugging ASP.NET MVC 5 Web Applications]()
+  - Module 07 [Structuring ASP.NET MVC 5 Web Applications]()
