@@ -521,6 +521,8 @@
 - Learning Objectives:
 - Pre-reading:
 - Presentation:
+  - Module 6: [Testing and Debugging ASP.NET MVC 5 Web Applications]()
+  - Module 7: [Structuring ASP.NET MVC 5 Web Applications]()
 - Hands on Lab:
 - Additional Hands on Lab:
 - Additional Reading:
