@@ -1,6 +1,6 @@
 # Module 01 <br> Exploring ASP.NET MVC 5
 
-###### Contents:
+**Contents:**
 - [Module Overview](#1)
 - Lesson 1: Overview of Microsoft Web Technologies
 - Lesson 2: Overview of ASP.NET 4.5
