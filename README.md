@@ -509,8 +509,8 @@
 - Pre-reading:
 - Presentation:
   - Module 3: [Developing ASP.NET MVC 5 Models](https://docs.google.com/presentation/d/13bZJ2ntlI45wlrGmcdgWXHxAXRpC_pzRXYPt4l-n6qw/edit?usp=sharing)
-  - Module 4: [Developing ASP.NET MVC 5 Controllers]()
-  - Module 5: [Developing ASP.NET MVC 5 Views]()
+  - Module 4: [Developing ASP.NET MVC 5 Controllers](https://docs.google.com/presentation/d/1zs24fa5vkWA9-5uIn3xJdyYUKL7YRTPKX3mIbgTGFNU/edit?usp=sharing)
+  - Module 5: [Developing ASP.NET MVC 5 Views](https://docs.google.com/presentation/d/1cuOZwXWfW742BXOaoMoKk3b0Oc7jjIEe_25FIkTd4eQ/edit?usp=sharing)
 - Hands on Lab:
 - Additional Hands on Lab:
 - Additional Reading:
