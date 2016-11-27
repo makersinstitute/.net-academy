@@ -1,0 +1,26 @@
+# Module 05 Review andTakeaways <br> Developing ASP.NET MVC 5 Views
+
+In this module, you saw how to build the user interface for your web application by creating views with the Razor view engine. Views can display properties from a model class and enable users to create, read, update, and delete objects of that model class. Some views display many objects by looping through a collection of model objects. The HTML Helper methods that are built into ASP.NET MVC 5 facilitate the rendering of displays, controls, and forms, and return validation messages to users. Partial views can be re- used several times in your web application to render similar sections of HTML on multiple pages.
+
+**Best Practice:** Use Razor comments, declared with the **@* *@** delimiters, throughout your Razor views to help explain the view code to other developers in your team.
+
+**Best Practice:** Only use **@:**and**<text>**tags when Razor misinterprets content as code. Razor has sophisticated logic for distinguishing content from code, so this is rarely necessary.
+
+**Best Practice:** Use strongly-typed views wherever possible because Visual Studio helps you to write correct code by displaying IntelliSense feedback.
+
+## **Common Issues and Troubleshooting Tips**
+
+|Common Issue |Troubleshooting Tip |
+|-|-|
+|When a controller tries to access a partial view, an exception is thrown.||
+
+## **Review Question(s)**
+
+**Question:** You want to display the name of the **Comment.Subject** property in an MVC view that renders an Edit form for comments. You want the label Edit Subject to appear to the left of a text box so that a user can edit the **Subject** value. Which HTML helper should you use to render the field name?
+
+Verify the correctness of the statement by placing a mark in the column to the right.
+
+|Statement |Answer |
+|-|-|
+|If your Razor generates errors by wrongly interpreting content as server-side code, this indicates that you have explicitly declared the content by using the **@\*** ***@** delimiters. ||
+
