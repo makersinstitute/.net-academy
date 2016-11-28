@@ -508,8 +508,7 @@
   - Module 01 [Exploring & Designing ASP.NET MVC 5](https://docs.google.com/presentation/d/1ZwEsZGXKx5_EXVlCL3B2_L4WyX0xyVr0u-bJTVNUCJs/edit?usp=sharing)
   - Module 02 [Designing ASP.NET MVC 5 Web Applications](https://docs.google.com/presentation/d/1wdkRjU7vPAbG_Xjk-vQow6U6T7DkCq8HeREvT14Ukqs/edit?usp=sharing)
 - Hands on Lab:
-  - Module 01 [Exploring & Designing ASP.NET MVC 5]()
-  - Module 02 [Designing ASP.NET MVC 5 Web Applications]()
+  - Module 01 [Exploring & Designing ASP.NET MVC 5](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/L01.md)
 - Review and Takeaways:
   - Module 01 [Exploring & Designing ASP.NET MVC 5](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/01-r.md)
   - Module 02 [Designing ASP.NET MVC 5 Web Applications](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/02-r.md)
