@@ -494,37 +494,36 @@
 
 #### <a name="day71"></a>Day 1 - Exploring & Designing ASP.NET MVC 5
 - Learning Objectives:
-  - Module 01 Exploring & Designing ASP.NET MVC 5
-    - Describe the role of ASP.NET in the web technologies stack, and how to use ASP.NET to build web applications.
-    -	Describe the three programming models available in ASP.NET: Web Pages, Web Forms, and MVC—and select an appropriate model for a given project.
-    -	Distinguish between an MVC Model, an MVC Controller, and an MVC View.
+  - Module 01 Exploring ASP.NET MVC 5
+    - Students will be able to describe the role of ASP.NET in the web technologies stack, and how to use ASP.NET to build web applications.
+    - Students will be able to	describe the three programming models available in ASP.NET: Web Pages, Web Forms, and MVC—and select an appropriate model for a given project.
+    - Students will be able to	distinguish between an MVC Model, an MVC Controller, and an MVC View.
   - Module 02 Designing ASP.NET MVC 5 Web Applications
-    - Plan the overall architecture of an MVC 5 web application and consider aspects such as state management.
-    -	Plan the models, controllers, and views that are required to implement a given set of functional requirements.
+    - Students will be able to plan the overall architecture of an MVC 5 web application and consider aspects such as state management.
+    - Students will be able to	plan the models, controllers, and views that are required to implement a given set of functional requirements.
 - Pre-reading:
-  - Module 01 [Exploring & Designing ASP.NET MVC 5](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/01-0.md)
+  - Module 01 [Exploring ASP.NET MVC 5](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/01-0.md)
   - Module 02 [Designing ASP.NET MVC 5 Web Applications](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/02-0.md)
 - Presentation:
-  - Module 01 [Exploring & Designing ASP.NET MVC 5](https://docs.google.com/presentation/d/1ZwEsZGXKx5_EXVlCL3B2_L4WyX0xyVr0u-bJTVNUCJs/edit?usp=sharing)
+  - Module 01 [Exploring ASP.NET MVC 5](https://docs.google.com/presentation/d/1ZwEsZGXKx5_EXVlCL3B2_L4WyX0xyVr0u-bJTVNUCJs/edit?usp=sharing)
   - Module 02 [Designing ASP.NET MVC 5 Web Applications](https://docs.google.com/presentation/d/1wdkRjU7vPAbG_Xjk-vQow6U6T7DkCq8HeREvT14Ukqs/edit?usp=sharing)
 - Hands on Lab:
-  - Module 01 [Exploring & Designing ASP.NET MVC 5](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/L01.md)
+  - Module 01 [Exploring ASP.NET MVC 5](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/L01.md)
 - Review and Takeaways:
-  - Module 01 [Exploring & Designing ASP.NET MVC 5](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/01-r.md)
+  - Module 01 [Exploring ASP.NET MVC 5](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/01-r.md)
   - Module 02 [Designing ASP.NET MVC 5 Web Applications](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/02-r.md)
 
 #### <a name="day72"></a>Day 2 - Developing ASP.NET MVC 5 Model - Controller - View
 - Learning Objectives:
   - Module 03 Developing ASP.NET MVC 5 Models
-    -	Add a model to an MVC application and write code in it to implement the business logic.
-    - Create a new SQL Azure database to store data for the web application.
+    - Students will be able to	add a model to an MVC application and write code in it to implement the business logic.
+    - Students will be able to create a new SQL Azure database to store data for the web application.
   - Module 04 Developing ASP.NET MVC 5 Controllers
-    - Add a controller to a web application that responds to user actions specified in the project design.
-    -	Write code in action filters that runs before or after a controller action.
+    - Students will be able to add a controller to a web application that responds to user actions specified in the project design.
+    - Students will be able to	write code in action filters that runs before or after a controller action.
   - Module 05 Developing ASP.NET MVC 5 Views
-    - Create an MVC view and add Razor markup to it to display data to users.
-    - Use HTML helpers in a view to render controls, links, and other HTML elements.
-    - Re-use Razor markup in multiple locations throughout an application.
+    - Students will be able to use HTML helpers in a view to render controls, links, and other HTML elements.
+    - Students will be able to re-use Razor markup in multiple locations throughout an application.
 - Pre-reading:
   - Module 03 [Developing ASP.NET MVC 5 Models](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/03-0.md)
   - Module 04 [Developing ASP.NET MVC 5 Controllers](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/04-0.md)
@@ -545,12 +544,12 @@
 #### <a name="day73"></a>Day 3 - Testing & Debugging, Structuring ASP.NET MVC 5 Web App
 - Learning Objectives:
   - Module 06 Testing and Debugging ASP.NET MVC 5 Web Applications
-    - Run unit tests against the Model–View–Controller (MVC) components, such as model classes, and locate potential bugs.
-    - Build an MVC application that handles exceptions smoothly and robustly.
+    - Students will be able to run unit tests against the Model–View–Controller (MVC) components, such as model classes, and locate potential bugs.
+    - Students will be able to build an MVC application that handles exceptions smoothly and robustly.
   - Module 07 Structuring ASP.NET MVC 5 Web Applications
-    - Plan suitable information architecture for a given set of functional requirements.
-    - Add routes to the ASP.NET routing engine and ensure that URLs are user-friendly throughout an MVC web application.
-    - Add navigation controls to an application to enable users to locate data rapidly.
+    - Students will be able to plan suitable information architecture for a given set of functional requirements.
+    - Students will be able to add routes to the ASP.NET routing engine and ensure that URLs are user-friendly throughout an MVC web application.
+    - Students will be able to add navigation controls to an application to enable users to locate data rapidly.
 - Pre-reading:
   - Module 06 [Testing and Debugging ASP.NET MVC 5 Web Applications](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/06-0.md)
   - Module 07 [Structuring ASP.NET MVC 5 Web Applications](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/07-0.md)
@@ -563,3 +562,107 @@
 - Review and Takeaways:
   - Module 06 [Testing and Debugging ASP.NET MVC 5 Web Applications](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/06-r.md)
   - Module 07 [Structuring ASP.NET MVC 5 Web Applications](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/07-r.md)
+
+## <a name="week8"></a>Week 8
+
+#### <a name="day81"></a>Day 1 - Applying Styles, Build Responsive Pages in ASP.NET Web App
+- Learning Objectives:
+  - Module 08 Applying Styles to ASP.NET MVC 5 Web Applications
+    - Students will be able to apply a consistent layout to ASP.NET MVC 5 applications by using CSS and layout.
+    - Students will be able to develop device-specific views to support various browsers.
+    - Students will be able to build adaptive user interface for mobile devices.
+  - Module 09 Building Responsive Pages in ASP.NET MVC 5 Web Applications
+    - Students will be able to implement partial page updates that help reduce the need to reload entire pages.
+    - Students will be able to implement caching to reduce the loading time of the different elements of a webpage.
+- Pre-reading:
+  - Module 08 [Applying Styles to ASP.NET MVC 5 Web Applications]()
+  - Module 09 [Building Responsive Pages in ASP.NET MVC 5 Web Applications]()
+- Presentation:
+  - Module 08 [Applying Styles to ASP.NET MVC 5 Web Applications]()
+  - Module 09 [Building Responsive Pages in ASP.NET MVC 5 Web Applications]()
+- Hands on Lab:
+  - Module 08 [Applying Styles to ASP.NET MVC 5 Web Applications]()
+  - Module 09 [Building Responsive Pages in ASP.NET MVC 5 Web Applications]()
+- Review and Takeaways:
+  - Module 08 [Applying Styles to ASP.NET MVC 5 Web Applications]()
+  - Module 09 [Building Responsive Pages in ASP.NET MVC 5 Web Applications]()
+
+#### <a name="day82"></a>Day 2 - Using Javascript & JQuery for Responsive Web Apps
+- Learning Objectives:
+  - Module 10 Using JavaScript and jQuery for Responsive MVC 5 Web Applications
+    - Students will be able to add JavaScript code to your web application.
+    - Students will be able to use the jQuery and jQuery UI libraries, in your web application.
+- Pre-reading:
+  - Module 10 [Using JavaScript and jQuery for Responsive MVC 5 Web Applications]()
+- Presentation:
+  - Module 10 [Using JavaScript and jQuery for Responsive MVC 5 Web Applications]()
+- Hands on Lab:
+  - Module 10 [Using JavaScript and jQuery for Responsive MVC 5 Web Applications]()
+- Review and Takeaways:
+  - Module 10 [Using JavaScript and jQuery for Responsive MVC 5 Web Applications]()
+
+#### <a name="day83"></a>Day 3 - Controlling Access and Building Resilient ASP.NET MVC 5 Web Apps
+- Learning Objectives:
+  - Module 11 Controlling Access to ASP.NET MVC 5 Web Applications
+    - Students will be able to implement authentication and authorization systems in your web application.
+    - Students will be able to manage users and roles in your web application.
+    - Students will be able to authorize users and roles in your web application.
+  - Module 12 Building a Resilient ASP.NET MVC 5 Web Application
+    - Students will be able to develop secure sites.
+    - Students will be able to Implement state management.
+- Pre-reading:
+  - Module 11 [Controlling Access to ASP.NET MVC 5 Web Applications]()
+  - Module 12 [Building a Resilient ASP.NET MVC 5 Web Application]()
+- Presentation:
+  - Module 11 [Controlling Access to ASP.NET MVC 5 Web Applications]()
+  - Module 12 [Building a Resilient ASP.NET MVC 5 Web Application]()
+- Hands on Lab:
+  - Module 11 [Controlling Access to ASP.NET MVC 5 Web Applications]()
+  - Module 12 [Building a Resilient ASP.NET MVC 5 Web Application]()
+- Review and Takeaways:
+  - Module 11 [Controlling Access to ASP.NET MVC 5 Web Applications]()
+  - Module 12 [Building a Resilient ASP.NET MVC 5 Web Application]()
+
+## <a name="week9"></a>Week 9
+
+#### <a name="day91"></a>Day 1 - Implementing Web APIs, Handling Request in ASP.NET MVC 5 Web Apps
+- Learning Objectives:
+  - Module 13 Implementing Web APIs in ASP.NET MVC 5 Web Applications
+    - Students will be able to develop a Web API.
+    - Students will be able to call a Web API from mobile and web applications.
+  - Module 14 Handling Requests in ASP.NET MVC 5 Web Applications
+    - Students will be able to use HTTP modules and HTTP handlers.
+    - Students will be able to se web sockets.
+- Pre-reading:
+  - Module 13 [Implementing Web APIs in ASP.NET MVC 5 Web Applications]()
+  - Module 14 [Handling Requests in ASP.NET MVC 5 Web Applications]()
+- Presentation:
+  - Module 13 [Implementing Web APIs in ASP.NET MVC 5 Web Applications]()
+  - Module 14 [Handling Requests in ASP.NET MVC 5 Web Applications]()
+- Hands on Lab:
+  - Module 13 [Implementing Web APIs in ASP.NET MVC 5 Web Applications]()
+  - Module 14 [Handling Requests in ASP.NET MVC 5 Web Applications]()
+- Review and Takeaways:
+  - Module 13 [Implementing Web APIs in ASP.NET MVC 5 Web Applications]()
+  - Module 14 [Handling Requests in ASP.NET MVC 5 Web Applications]()
+
+#### <a name="day92"></a>Day 2 - Deploying ASP.NET MVC 5 Web Apps
+- Learning Objectives:
+  - Module 15 Deploying ASP.NET MVC 5 Web Applications
+    - Students will be able to configure and deploy an ASP.NET web application.
+    - Students will be able to deploy an ASP.NET MVC 4 web application.
+- Pre-reading:
+  - Module 15 [Deploying ASP.NET MVC 5 Web Applications]()
+- Presentation:
+  - Module 15 [Deploying ASP.NET MVC 5 Web Applications]()
+- Hands on Lab:
+  - Module 15 [Deploying ASP.NET MVC 5 Web Applications]()
+- Review and Takeaways:
+  - Module 15 [Deploying ASP.NET MVC 5 Web Applications]()
+
+#### <a name="day93"></a>Day 3 - Introduction to Cloud Computing with microsoft Azure
+- Learning Objectives:
+- Pre-reading:
+- Presentation:
+- Hands on Lab:
+- Review and Takeaways:
