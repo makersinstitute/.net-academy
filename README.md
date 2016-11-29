@@ -533,9 +533,9 @@
   - Module 04 [Developing ASP.NET MVC 5 Controllers](https://docs.google.com/presentation/d/1zs24fa5vkWA9-5uIn3xJdyYUKL7YRTPKX3mIbgTGFNU/edit?usp=sharing)
   - Module 05 [Developing ASP.NET MVC 5 Views](https://docs.google.com/presentation/d/1cuOZwXWfW742BXOaoMoKk3b0Oc7jjIEe_25FIkTd4eQ/edit?usp=sharing)
 - Hands on Lab:
-  - Module 03 [Developing ASP.NET MVC 5 Models]()
-  - Module 04 [Developing ASP.NET MVC 5 Controllers]()
-  - Module 05 [Developing ASP.NET MVC 5 Views]()
+  - Module 03 [Developing ASP.NET MVC 5 Models](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/L03.md)
+  - Module 04 [Developing ASP.NET MVC 5 Controllers](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/L04.md)
+  - Module 05 [Developing ASP.NET MVC 5 Views](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/L05.md)
 - Review and Takeaways:
   - Module 03 [Developing ASP.NET MVC 5 Models](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/03-r.md)
   - Module 04 [Developing ASP.NET MVC 5 Controllers](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/04-r.md)
@@ -557,8 +557,8 @@
   - Module 06 [Testing and Debugging ASP.NET MVC 5 Web Applications](https://docs.google.com/presentation/d/1HRCcVQV2Xzqa8pgejD_TFlRcrwPDvlgMQt2Xl-PqKUg/edit?usp=sharing)
   - Module 07 [Structuring ASP.NET MVC 5 Web Applications](https://docs.google.com/presentation/d/1TiCf1wSLVwXI5sNADKrVuoTfFjISi118yx2W7BHNg-M/edit?usp=sharing)
 - Hands on Lab:
-  - Module 06 [Testing and Debugging ASP.NET MVC 5 Web Applications]()
-  - Module 07 [Structuring ASP.NET MVC 5 Web Applications]()
+  - Module 06 [Testing and Debugging ASP.NET MVC 5 Web Applications](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/L06.md)
+  - Module 07 [Structuring ASP.NET MVC 5 Web Applications](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/L07.md)
 - Review and Takeaways:
   - Module 06 [Testing and Debugging ASP.NET MVC 5 Web Applications](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/06-r.md)
   - Module 07 [Structuring ASP.NET MVC 5 Web Applications](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/07-r.md)
@@ -575,17 +575,17 @@
     - Students will be able to implement partial page updates that help reduce the need to reload entire pages.
     - Students will be able to implement caching to reduce the loading time of the different elements of a webpage.
 - Pre-reading:
-  - Module 08 [Applying Styles to ASP.NET MVC 5 Web Applications]()
-  - Module 09 [Building Responsive Pages in ASP.NET MVC 5 Web Applications]()
+  - Module 08 [Applying Styles to ASP.NET MVC 5 Web Applications](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/08-0.md)
+  - Module 09 [Building Responsive Pages in ASP.NET MVC 5 Web Applications](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/09-0.md)
 - Presentation:
   - Module 08 [Applying Styles to ASP.NET MVC 5 Web Applications]()
   - Module 09 [Building Responsive Pages in ASP.NET MVC 5 Web Applications]()
 - Hands on Lab:
-  - Module 08 [Applying Styles to ASP.NET MVC 5 Web Applications]()
-  - Module 09 [Building Responsive Pages in ASP.NET MVC 5 Web Applications]()
+  - Module 08 [Applying Styles to ASP.NET MVC 5 Web Applications](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/L08.md)
+  - Module 09 [Building Responsive Pages in ASP.NET MVC 5 Web Applications](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/L09.md)
 - Review and Takeaways:
-  - Module 08 [Applying Styles to ASP.NET MVC 5 Web Applications]()
-  - Module 09 [Building Responsive Pages in ASP.NET MVC 5 Web Applications]()
+  - Module 08 [Applying Styles to ASP.NET MVC 5 Web Applications](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/08-r.md)
+  - Module 09 [Building Responsive Pages in ASP.NET MVC 5 Web Applications](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/09-r.md)
 
 #### <a name="day82"></a>Day 2 - Using Javascript & JQuery for Responsive Web Apps
 - Learning Objectives:
@@ -593,13 +593,13 @@
     - Students will be able to add JavaScript code to your web application.
     - Students will be able to use the jQuery and jQuery UI libraries, in your web application.
 - Pre-reading:
-  - Module 10 [Using JavaScript and jQuery for Responsive MVC 5 Web Applications]()
+  - Module 10 [Using JavaScript and jQuery for Responsive MVC 5 Web Applications](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/10-0.md)
 - Presentation:
   - Module 10 [Using JavaScript and jQuery for Responsive MVC 5 Web Applications]()
 - Hands on Lab:
-  - Module 10 [Using JavaScript and jQuery for Responsive MVC 5 Web Applications]()
+  - Module 10 [Using JavaScript and jQuery for Responsive MVC 5 Web Applications](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/L10.md)
 - Review and Takeaways:
-  - Module 10 [Using JavaScript and jQuery for Responsive MVC 5 Web Applications]()
+  - Module 10 [Using JavaScript and jQuery for Responsive MVC 5 Web Applications](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/10-r.md)
 
 #### <a name="day83"></a>Day 3 - Controlling Access and Building Resilient ASP.NET MVC 5 Web Apps
 - Learning Objectives:
@@ -611,17 +611,17 @@
     - Students will be able to develop secure sites.
     - Students will be able to Implement state management.
 - Pre-reading:
-  - Module 11 [Controlling Access to ASP.NET MVC 5 Web Applications]()
-  - Module 12 [Building a Resilient ASP.NET MVC 5 Web Application]()
+  - Module 11 [Controlling Access to ASP.NET MVC 5 Web Applications](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/11-0.md)
+  - Module 12 [Building a Resilient ASP.NET MVC 5 Web Application](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/12-0.md)
 - Presentation:
   - Module 11 [Controlling Access to ASP.NET MVC 5 Web Applications]()
   - Module 12 [Building a Resilient ASP.NET MVC 5 Web Application]()
 - Hands on Lab:
-  - Module 11 [Controlling Access to ASP.NET MVC 5 Web Applications]()
-  - Module 12 [Building a Resilient ASP.NET MVC 5 Web Application]()
+  - Module 11 [Controlling Access to ASP.NET MVC 5 Web Applications](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/L11.md)
+  - Module 12 [Building a Resilient ASP.NET MVC 5 Web Application](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/L12.md)
 - Review and Takeaways:
-  - Module 11 [Controlling Access to ASP.NET MVC 5 Web Applications]()
-  - Module 12 [Building a Resilient ASP.NET MVC 5 Web Application]()
+  - Module 11 [Controlling Access to ASP.NET MVC 5 Web Applications](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/11-r.md)
+  - Module 12 [Building a Resilient ASP.NET MVC 5 Web Application](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/12-r.md)
 
 ## <a name="week9"></a>Week 9
 
@@ -634,17 +634,17 @@
     - Students will be able to use HTTP modules and HTTP handlers.
     - Students will be able to se web sockets.
 - Pre-reading:
-  - Module 13 [Implementing Web APIs in ASP.NET MVC 5 Web Applications]()
-  - Module 14 [Handling Requests in ASP.NET MVC 5 Web Applications]()
+  - Module 13 [Implementing Web APIs in ASP.NET MVC 5 Web Applications](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/13-0.md)
+  - Module 14 [Handling Requests in ASP.NET MVC 5 Web Applications](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/14-0.md)
 - Presentation:
   - Module 13 [Implementing Web APIs in ASP.NET MVC 5 Web Applications]()
   - Module 14 [Handling Requests in ASP.NET MVC 5 Web Applications]()
 - Hands on Lab:
-  - Module 13 [Implementing Web APIs in ASP.NET MVC 5 Web Applications]()
-  - Module 14 [Handling Requests in ASP.NET MVC 5 Web Applications]()
+  - Module 13 [Implementing Web APIs in ASP.NET MVC 5 Web Applications](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/L13.md)
+  - Module 14 [Handling Requests in ASP.NET MVC 5 Web Applications](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/L14.md)
 - Review and Takeaways:
-  - Module 13 [Implementing Web APIs in ASP.NET MVC 5 Web Applications]()
-  - Module 14 [Handling Requests in ASP.NET MVC 5 Web Applications]()
+  - Module 13 [Implementing Web APIs in ASP.NET MVC 5 Web Applications](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/13-r.md)
+  - Module 14 [Handling Requests in ASP.NET MVC 5 Web Applications](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/14-r.md)
 
 #### <a name="day92"></a>Day 2 - Deploying ASP.NET MVC 5 Web Apps
 - Learning Objectives:
@@ -652,13 +652,13 @@
     - Students will be able to configure and deploy an ASP.NET web application.
     - Students will be able to deploy an ASP.NET MVC 4 web application.
 - Pre-reading:
-  - Module 15 [Deploying ASP.NET MVC 5 Web Applications]()
+  - Module 15 [Deploying ASP.NET MVC 5 Web Applications](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/15-0.md)
 - Presentation:
   - Module 15 [Deploying ASP.NET MVC 5 Web Applications]()
 - Hands on Lab:
-  - Module 15 [Deploying ASP.NET MVC 5 Web Applications]()
+  - Module 15 [Deploying ASP.NET MVC 5 Web Applications](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/L15.md)
 - Review and Takeaways:
-  - Module 15 [Deploying ASP.NET MVC 5 Web Applications]()
+  - Module 15 [Deploying ASP.NET MVC 5 Web Applications](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/15-r.md)
 
 #### <a name="day93"></a>Day 3 - Introduction to Cloud Computing with microsoft Azure
 - Learning Objectives:
