@@ -578,8 +578,8 @@
   - Module 08 [Applying Styles to ASP.NET MVC 5 Web Applications](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/08-0.md)
   - Module 09 [Building Responsive Pages in ASP.NET MVC 5 Web Applications](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/09-0.md)
 - Presentation:
-  - Module 08 [Applying Styles to ASP.NET MVC 5 Web Applications]()
-  - Module 09 [Building Responsive Pages in ASP.NET MVC 5 Web Applications]()
+  - Module 08 [Applying Styles to ASP.NET MVC 5 Web Applications](https://docs.google.com/presentation/d/1O-gF2t_Xn7e6eBr9cEulUOceRGwWDtft0nei0-1IPTw/edit?usp=sharing)
+  - Module 09 [Building Responsive Pages in ASP.NET MVC 5 Web Applications](https://docs.google.com/presentation/d/1NF1cckK6Xu6X1cz4qEzdPyr3HgqPp7zsXS9PVL_vPOc/edit?usp=sharing)
 - Hands on Lab:
   - Module 08 [Applying Styles to ASP.NET MVC 5 Web Applications](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/L08.md)
   - Module 09 [Building Responsive Pages in ASP.NET MVC 5 Web Applications](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/L09.md)
@@ -595,7 +595,7 @@
 - Pre-reading:
   - Module 10 [Using JavaScript and jQuery for Responsive MVC 5 Web Applications](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/10-0.md)
 - Presentation:
-  - Module 10 [Using JavaScript and jQuery for Responsive MVC 5 Web Applications]()
+  - Module 10 [Using JavaScript and jQuery for Responsive MVC 5 Web Applications](https://docs.google.com/presentation/d/10kKVbqTmV18hqAGx_nvcToHjfKK2YU5eFPX7zke1QP0/edit?usp=sharing)
 - Hands on Lab:
   - Module 10 [Using JavaScript and jQuery for Responsive MVC 5 Web Applications](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/L10.md)
 - Review and Takeaways:
@@ -614,8 +614,8 @@
   - Module 11 [Controlling Access to ASP.NET MVC 5 Web Applications](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/11-0.md)
   - Module 12 [Building a Resilient ASP.NET MVC 5 Web Application](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/12-0.md)
 - Presentation:
-  - Module 11 [Controlling Access to ASP.NET MVC 5 Web Applications]()
-  - Module 12 [Building a Resilient ASP.NET MVC 5 Web Application]()
+  - Module 11 [Controlling Access to ASP.NET MVC 5 Web Applications](https://docs.google.com/presentation/d/1-uAoW5kMSCbHGGefNsI1wBX9xxZ_WXyfL6qWFBst0H8/edit?usp=sharing)
+  - Module 12 [Building a Resilient ASP.NET MVC 5 Web Application](https://docs.google.com/presentation/d/1JthV6Z557TEwWXkuzfT6NDGsaejlHnIkqTooosDUUXQ/edit?usp=sharing)
 - Hands on Lab:
   - Module 11 [Controlling Access to ASP.NET MVC 5 Web Applications](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/L11.md)
   - Module 12 [Building a Resilient ASP.NET MVC 5 Web Application](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/L12.md)
