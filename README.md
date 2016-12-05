@@ -575,6 +575,8 @@
     - Students will be able to implement partial page updates that help reduce the need to reload entire pages.
     - Students will be able to implement caching to reduce the loading time of the different elements of a webpage.
 - Pre-reading:
+  - [Unobtrusive Client Validation in ASP.NET MVC 3](http://bradwilson.typepad.com/blog/2010/10/mvc3-unobtrusive-validation.html)
+  - [What does the UnobtrusiveJavaScriptEnabled key do in .NET?](http://stackoverflow.com/questions/31704703/what-does-the-unobtrusivejavascriptenabled-key-do-in-net)
   - Module 08 [Applying Styles to ASP.NET MVC 5 Web Applications](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/08-0.md)
   - Module 09 [Building Responsive Pages in ASP.NET MVC 5 Web Applications](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/09-0.md)
 - Presentation:
