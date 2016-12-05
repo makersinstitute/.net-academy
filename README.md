@@ -528,6 +528,8 @@
   - Module 03 [Developing ASP.NET MVC 5 Models](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/03-0.md)
   - Module 04 [Developing ASP.NET MVC 5 Controllers](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/04-0.md)
   - Module 05 [Developing ASP.NET MVC 5 Views](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/05-0.md)
+    - [Introduction to ASP.NET Web Programming Using the Razor Syntax (C#)](https://www.asp.net/web-pages/overview/getting-started/introducing-razor-syntax-c)
+    - [ASP.NET Razor - Markup](http://www.w3schools.com/asp/razor_intro.asp)
 - Presentation:
   - Module 03 [Developing ASP.NET MVC 5 Models](https://docs.google.com/presentation/d/13bZJ2ntlI45wlrGmcdgWXHxAXRpC_pzRXYPt4l-n6qw/edit?usp=sharing)
   - Module 04 [Developing ASP.NET MVC 5 Controllers](https://docs.google.com/presentation/d/1zs24fa5vkWA9-5uIn3xJdyYUKL7YRTPKX3mIbgTGFNU/edit?usp=sharing)
@@ -575,9 +577,9 @@
     - Students will be able to implement partial page updates that help reduce the need to reload entire pages.
     - Students will be able to implement caching to reduce the loading time of the different elements of a webpage.
 - Pre-reading:
-  - [Unobtrusive Client Validation in ASP.NET MVC 3](http://bradwilson.typepad.com/blog/2010/10/mvc3-unobtrusive-validation.html)
-  - [What does the UnobtrusiveJavaScriptEnabled key do in .NET?](http://stackoverflow.com/questions/31704703/what-does-the-unobtrusivejavascriptenabled-key-do-in-net)
   - Module 08 [Applying Styles to ASP.NET MVC 5 Web Applications](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/08-0.md)
+    - [Unobtrusive Client Validation in ASP.NET MVC 3](http://bradwilson.typepad.com/blog/2010/10/mvc3-unobtrusive-validation.html)
+    - [What does the UnobtrusiveJavaScriptEnabled key do in .NET?](http://stackoverflow.com/questions/31704703/what-does-the-unobtrusivejavascriptenabled-key-do-in-net)
   - Module 09 [Building Responsive Pages in ASP.NET MVC 5 Web Applications](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/09-0.md)
 - Presentation:
   - Module 08 [Applying Styles to ASP.NET MVC 5 Web Applications](https://docs.google.com/presentation/d/1O-gF2t_Xn7e6eBr9cEulUOceRGwWDtft0nei0-1IPTw/edit?usp=sharing)
