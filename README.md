@@ -641,8 +641,8 @@
   - Module 13 [Implementing Web APIs in ASP.NET MVC 5 Web Applications](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/13-0.md)
   - Module 14 [Handling Requests in ASP.NET MVC 5 Web Applications](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/14-0.md)
 - Presentation:
-  - Module 13 [Implementing Web APIs in ASP.NET MVC 5 Web Applications]()
-  - Module 14 [Handling Requests in ASP.NET MVC 5 Web Applications]()
+  - Module 13 [Implementing Web APIs in ASP.NET MVC 5 Web Applications](https://docs.google.com/presentation/d/18ljtqijenT6wDiGwT69NkG7t0wKB_gKn_2yLA_HEsag/edit?usp=sharing)
+  - Module 14 [Handling Requests in ASP.NET MVC 5 Web Applications](https://docs.google.com/presentation/d/1zo81wLfx-xr_SNTjZRf5bHFgsvVpIX5iD2YY2sQ1ifQ/edit?usp=sharing)
 - Hands on Lab:
   - Module 13 [Implementing Web APIs in ASP.NET MVC 5 Web Applications](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/L13.md)
   - Module 14 [Handling Requests in ASP.NET MVC 5 Web Applications](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/L14.md)
@@ -658,7 +658,7 @@
 - Pre-reading:
   - Module 15 [Deploying ASP.NET MVC 5 Web Applications](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/15-0.md)
 - Presentation:
-  - Module 15 [Deploying ASP.NET MVC 5 Web Applications]()
+  - Module 15 [Deploying ASP.NET MVC 5 Web Applications](https://docs.google.com/presentation/d/1OOuxaeirnf27Nz8EohXa1dUecNEyyzJZqLZCSul7o1I/edit?usp=sharing)
 - Hands on Lab:
   - Module 15 [Deploying ASP.NET MVC 5 Web Applications](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/L15.md)
 - Review and Takeaways:
