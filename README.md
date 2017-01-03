@@ -666,6 +666,11 @@
 
 #### <a name="day93"></a>Day 3 - Introduction to Cloud Computing with microsoft Azure
 - Learning Objectives:
+  - Student understand cloud computing
+  - student know the advantages of cloud computing
+  - Student know about azure
+  - Student able to create web apps and deploy on azure
+  
 - Pre-reading:
 - Presentation:
 - Hands on Lab:
