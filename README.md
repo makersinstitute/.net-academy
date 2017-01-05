@@ -45,7 +45,7 @@
 * [Week 9](#week9)
   * [Day 1 - Implementing Web APIs, Handling Request in ASP.NET MVC 5 Web Apps ](#day91)
   * [Day 2 - Deploying ASP.NET MVC 5 Web Apps](#day92)
-  * [Day 3 - Introduction to Cloud Computing with microsoft Azure](#day93)
+  * [Day 3 - Introduction to Cloud Computing with Microsoft Azure](#day93)
   
 * [Week 10](#week10)
   * [Day 1 - Introduction to RDBMS and SQL](#day101)
@@ -664,13 +664,12 @@
 - Review and Takeaways:
   - Module 15 [Deploying ASP.NET MVC 5 Web Applications](https://github.com/makersinstitute/.net-academy/blob/master/asp.net/15-r.md)
 
-#### <a name="day93"></a>Day 3 - Introduction to Cloud Computing with microsoft Azure
+#### <a name="day93"></a>Day 3 - Introduction to Cloud Computing with Microsoft Azure
 - Learning Objectives:
   - Student understand cloud computing
-  - student know the advantages of cloud computing
-  - Student know about azure
-  - Student able to create web apps and deploy on azure
-  
+  - Student know the advantages of cloud computing
+  - Student know about Azure
+  - Student able to create web apps and deploy on Azure
 - Pre-reading:
 - Presentation:
 - Hands on Lab:
