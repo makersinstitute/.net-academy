@@ -673,9 +673,8 @@
 - Pre-reading:
  - [Introduction to Cloud Computing](http://www.explainthatstuff.com/cloud-computing-introduction.html)
  - [Introduction to Microsoft Azure](https://docs.microsoft.com/en-us/azure/fundamentals-introduction-to-azure)
- - [Create & Deploy Azure Web Apps](https://docs.microsoft.com/en-us/azure/app-service-web/web-sites-dotnet-get-started)
- - [Backup Web Apps in Azure](https://docs.microsoft.com/en-us/azure/app-service-web/web-sites-backup)
- - [Restore Web Apps in Azure](https://docs.microsoft.com/en-us/azure/app-service-web/web-sites-restore)
+ - [Web Apps Overview](https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-overview)
+ - [What is Azure App Service?](https://docs.microsoft.com/en-us/azure/app-service/app-service-value-prop-what-is)
 - Presentation:
  - [Introduction to Cloud Computing with Microsoft Azure](https://docs.google.com/presentation/d/1gpFdl7n72QPQOB6VfZ_m6vq-yZ6esoNWg9H4T41xONo/edit?usp=sharing)
 - Hands on Lab:
