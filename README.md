@@ -679,7 +679,7 @@
 - Presentation:
  - [Introduction to Cloud Computing with Microsoft Azure](https://docs.google.com/presentation/d/1gpFdl7n72QPQOB6VfZ_m6vq-yZ6esoNWg9H4T41xONo/edit?usp=sharing)
 - Hands on Lab:
-  - Lab 1: [Create & Deploy Azure Web Apps](https://github.com/makersinstitute/.net-academy/blob/master/azure/L01.md)
-  - Lab 2: [Backup Web Apps in Azure](https://github.com/makersinstitute/.net-academy/blob/master/azure/L02.md)
-  - Lab 3: [Restore Web Apps in Azure](https://github.com/makersinstitute/.net-academy/blob/master/azure/L03.md)
+  - Lab 1: [Create & Deploy Azure Web Apps](#)
+  - Lab 2: [Backup Web Apps in Azure](#)
+  - Lab 3: [Restore Web Apps in Azure](#)
 - Review and Takeaways:
