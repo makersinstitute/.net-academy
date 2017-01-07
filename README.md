@@ -681,4 +681,3 @@
   - Lab 1: [Create & Deploy Azure Web Apps](https://github.com/makersinstitute/.net-academy/blob/master/azure/L01.md)
   - Lab 2: [Backup Web Apps in Azure](https://github.com/makersinstitute/.net-academy/blob/master/azure/L02.md)
   - Lab 3: [Restore Web Apps in Azure](https://github.com/makersinstitute/.net-academy/blob/master/azure/L03.md)
-- Review and Takeaways:
