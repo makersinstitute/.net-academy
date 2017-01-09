@@ -681,3 +681,14 @@
   - Lab 1: [Create & Deploy Azure Web Apps](https://github.com/makersinstitute/.net-academy/blob/master/azure/L01.md)
   - Lab 2: [Backup Web Apps in Azure](https://github.com/makersinstitute/.net-academy/blob/master/azure/L02.md)
   - Lab 3: [Restore Web Apps in Azure](https://github.com/makersinstitute/.net-academy/blob/master/azure/L03.md)
+  
+## <a name="week10"></a>Week 10
+
+  #### <a name="day101"></a>Day 1 - Introduction to RDBMS and SQL
+  - Learning Objectives:
+  - Pre-reading:
+  - Presentation:
+   - [Introduction to RDBMS and SQL](#)
+  - Hands on Lab:
+   - [Install & Configure PosgreSQL 4](#)
+   - [Introduction to various data types ](#)
