@@ -687,6 +687,8 @@
 #### <a name="day101"></a>Day 1 - Introduction to RDBMS and SQL
   - Learning Objectives:
   - Pre-reading:
+   - [Introduction to RDBMS](https://www.tutorialspoint.com/sql/sql-rdbms-concepts.htm)
+   - [SQL Overview](https://www.tutorialspoint.com/sql/sql-overview.htm)
   - Presentation:
    - [Introduction to RDBMS and SQL](#)
   - Hands on Lab:
