@@ -684,11 +684,11 @@
   
 ## <a name="week10"></a>Week 10
 
-  #### <a name="day101"></a>Day 1 - Introduction to RDBMS and SQL
+#### <a name="day101"></a>Day 1 - Introduction to RDBMS and SQL
   - Learning Objectives:
   - Pre-reading:
   - Presentation:
    - [Introduction to RDBMS and SQL](#)
   - Hands on Lab:
-   - [Install & Configure PosgreSQL 4](#)
-   - [Introduction to various data types ](#)
+   - [Install and Configure PosgreSQL 4](#)
+   - [Introduction to Various Data Types](#)
