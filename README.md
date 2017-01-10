@@ -686,6 +686,10 @@
 
 #### <a name="day101"></a>Day 1 - Introduction to RDBMS and SQL
   - Learning Objectives:
+   - Student understand how to install and configure PostgreSQL
+   - Student undertand how to create table and define data types
+   - Student understand how importance of data types in database design
+   - Student know various data types in PostgreSQL
   - Pre-reading:
    - [Introduction to RDBMS](https://www.tutorialspoint.com/sql/sql-rdbms-concepts.htm)
    - [SQL Overview](https://www.tutorialspoint.com/sql/sql-overview.htm)
