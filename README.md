@@ -692,12 +692,19 @@
   - Presentation:
    - [Introduction to Various Data Types](https://docs.google.com/presentation/d/1iUERTHn4FoTidGABWGbAvenRoLjhdlYI3JKMN_ImIyI/edit?usp=sharing)
   - Hands on Lab:
-   - [Install and Configure PosgreSQL 4](#)
-   - [Introduction to Various Data Types](#)
+   - [Install and Configure PosgreSQL 4](http://www.postgresqltutorial.com/install-postgresql/)
+   - [Introduction to Various Data Types](https://github.com/makersinstitute/.net-academy/blob/master/labs/w10d1.md)
 
 #### <a name="day102"></a>Day 2 - SQL Query
   - Learning Objectives:
   - Pre-reading:
+   - [Data Schemas](https://www.tutorialspoint.com/dbms/dbms_data_schemas.htm)
+   - [SQL Constraints](https://www.tutorialspoint.com/sql/sql-constraints.htm)
+   - [Primary Key](https://www.tutorialspoint.com/sql/sql-primary-key.htm)
+   - [Foreign Key](https://www.tutorialspoint.com/sql/sql-foreign-key.htm)
+   - [SQL Insert](http://www.w3schools.com/sql/sql_insert.asp)
+   - [SQL Update](http://www.w3schools.com/sql/sql_update.asp)
+   - [SQL Delete](http://www.w3schools.com/sql/sql_delete.asp)
   - Presentation:
    - [Table Operations: Schemas, Constraint, and Keys](#)
    - [Data Operations: Create, Retrieve, Update and Delete](#)
