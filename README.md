@@ -690,7 +690,7 @@
    - [Introduction to RDBMS](https://www.tutorialspoint.com/sql/sql-rdbms-concepts.htm)
    - [SQL Overview](https://www.tutorialspoint.com/sql/sql-overview.htm)
   - Presentation:
-   - [Introduction to RDBMS and SQL](#)
+   - [Introduction to Various Data Types](https://docs.google.com/presentation/d/1iUERTHn4FoTidGABWGbAvenRoLjhdlYI3JKMN_ImIyI/edit?usp=sharing)
   - Hands on Lab:
    - [Install and Configure PosgreSQL 4](#)
    - [Introduction to Various Data Types](#)
