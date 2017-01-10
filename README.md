@@ -694,3 +694,13 @@
   - Hands on Lab:
    - [Install and Configure PosgreSQL 4](#)
    - [Introduction to Various Data Types](#)
+
+#### <a name="day102"></a>Day 2 - SQL Query
+  - Learning Objectives:
+  - Pre-reading:
+  - Presentation:
+   - [Table Operations: Schemas, Constraint, and Keys](#)
+   - [Data Operations: Create, Retrieve, Update and Delete](#)
+  - Hands on Lab:
+   - [Table Operations: Schemas, Constraint, and Keys](#)
+   - [Data Operations: Create, Retrieve, Update and Delete](#)
