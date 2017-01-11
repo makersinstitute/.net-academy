@@ -701,6 +701,9 @@
 
 #### <a name="day102"></a>Day 2 - SQL Query
   - Learning Objectives:
+   - Student understand the concept of Schemas, Constraints and Keys in database
+   - Student understand how to create Schemas, Constraints, Primary and Foreign Keys
+   - Student understand how to modify data in table using Insert, Update and Delete
   - Pre-reading:
    - [Data Schemas](https://www.tutorialspoint.com/dbms/dbms_data_schemas.htm)
    - [SQL Constraints](https://www.tutorialspoint.com/sql/sql-constraints.htm)
