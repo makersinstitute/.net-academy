@@ -716,5 +716,5 @@
    - [Table Operations: Schemas, Constraint, and Keys](https://docs.google.com/presentation/d/1_jxReiXGQOVquavgMTPYzwnDa34B8-ljCDNUHu547Do/edit?usp=sharing)
    - [Data Operations: Insert, Update and Delete](https://docs.google.com/presentation/d/1ERWuJ2iT7bkDbQ1sibTxvq80fg5rwFAMqn0U7mIDm3Q/edit?usp=sharing)
   - Hands on Lab:
-   - [Table Operations: Schemas, Constraint, and Keys](#)
-   - [Data Operations: Create, Retrieve, Update and Delete](#)
+   - [Table Operations: Schemas, Constraint and Keys](https://github.com/makersinstitute/.net-academy/blob/master/labs/w10d2-1.md)
+   - [Data Operations: Insert, Update and Delete](https://github.com/makersinstitute/.net-academy/blob/master/labs/w10d2-2.md)
