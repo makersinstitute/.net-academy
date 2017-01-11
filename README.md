@@ -710,7 +710,7 @@
    - [SQL Update](http://www.w3schools.com/sql/sql_update.asp)
    - [SQL Delete](http://www.w3schools.com/sql/sql_delete.asp)
   - Presentation:
-   - [Table Operations: Schemas, Constraint, and Keys](#)
+   - [Table Operations: Schemas, Constraint, and Keys](https://docs.google.com/presentation/d/1_jxReiXGQOVquavgMTPYzwnDa34B8-ljCDNUHu547Do/edit?usp=sharing)
    - [Data Operations: Create, Retrieve, Update and Delete](#)
   - Hands on Lab:
    - [Table Operations: Schemas, Constraint, and Keys](#)
