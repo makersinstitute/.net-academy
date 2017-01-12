@@ -50,7 +50,7 @@
 * [Week 10](#week10)
   * [Day 1 - Introduction to RDBMS and SQL](#day101)
   * [Day 2 - SQL Query](#day102)
-  * [Day 3 - Microsoft SQL Server 2014](#day103)
+  * [Day 3 - Microsoft SQL Server 2016](#day103)
   
 * [Week 11](#week11)
   * [Day 1 - Test Driven Development](#day111)
