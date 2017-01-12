@@ -721,20 +721,20 @@
 
 #### <a name="day103"></a>Day 3 - SQL Server 2016
 - Learning Objectives:
- - Introduction to SQL Server 2016
-  - Student understand how to proper installation and configuration
-  - Student know about SQL Server 2016 edition and license limit
- - Installing SQL Server 2016
-  - Student understand choices and decisions to make during installation
- - Post-installation Tasks for SQL Server 2016
-  - Student understand maintain and update SQL Server 2016
+  - Introduction to SQL Server 2016
+    - Student understand how to proper installation and configuration
+    - Student know about SQL Server 2016 edition and license limit
+  - Installing SQL Server 2016
+    - Student understand choices and decisions to make during installation
+  - Post-installation Tasks for SQL Server 2016
+    - Student understand maintain and update SQL Server 2016
 - Pre-reading:
- - [Introduction to SQL Server](http://www.quackit.com/sql_server/sql_server_2016/tutorial/sql_server_2016_introduction.cfm)
- - [Hardware and Software Requirements for Installing SQL Server 2016](https://msdn.microsoft.com/en-us/library/ms143506.aspx)
+  - [Introduction to SQL Server](http://www.quackit.com/sql_server/sql_server_2016/tutorial/sql_server_2016_introduction.cfm)
+  - [Hardware and Software Requirements for Installing SQL Server 2016](https://msdn.microsoft.com/en-us/library/ms143506.aspx)
 - Presentation:
- - [Introduction to SQL Server 2016](#)
- - [Installing SQL Server 2016](#)
- - [Post-installation Tasks for SQL Server 2016](#)
+  - [Introduction to SQL Server 2016](#)
+  - [Installing SQL Server 2016](#)
+  - [Post-installation Tasks for SQL Server 2016](#)
 - Hands on Lab:
- - [Installing SQL Server 2016](#)
- - [Post-installation Tasks for SQL Server 2016](#)
+  - [Installing SQL Server 2016](#)
+  - [Post-installation Tasks for SQL Server 2016](#)
