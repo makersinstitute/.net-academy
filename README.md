@@ -727,7 +727,7 @@
   - Installing SQL Server 2016
     - Student understand choices and decisions to make during installation
   - Post-installation Tasks for SQL Server 2016
-    - Student understand maintain and update SQL Server 2016
+    - Student know how to maintain and update SQL Server 2016
 - Pre-reading:
   - [Introduction to SQL Server](http://www.quackit.com/sql_server/sql_server_2016/tutorial/sql_server_2016_introduction.cfm)
   - [Hardware and Software Requirements for Installing SQL Server 2016](https://msdn.microsoft.com/en-us/library/ms143506.aspx)
