@@ -738,3 +738,22 @@
 - Hands on Lab:
   - [Installing SQL Server 2016](#)
   - [Post-installation Tasks for SQL Server 2016](#)
+  
+## <a name="week11"></a>Week 11
+
+#### <a name="day111"></a>Day 1 - Automated ASP.NET MVC Testing
+- Learning Objectives:
+  - Introduction to Automated Testing
+  - Testing the Model
+  - Testing Controller
+  - Testing View Rendering
+- Pre-reading:
+- Presentation:
+  - [Introduction to Automated Testing](#)
+  - [Testing the Model](#)
+  - [Testing Controller](#)
+  - [Testing View Rendering](#)
+- Hands on Lab:
+  - [Testing the Model](#)
+  - [Testing Controller](#)
+  - [Testing View Rendering](#)
