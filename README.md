@@ -732,9 +732,9 @@
   - [Introduction to SQL Server](http://www.quackit.com/sql_server/sql_server_2016/tutorial/sql_server_2016_introduction.cfm)
   - [Hardware and Software Requirements for Installing SQL Server 2016](https://msdn.microsoft.com/en-us/library/ms143506.aspx)
 - Presentation:
-  - [Introduction to SQL Server 2016](#)
-  - [Installing SQL Server 2016](#)
-  - [Post-installation Tasks for SQL Server 2016](#)
+  - [Introduction to SQL Server 2016](https://docs.google.com/presentation/d/1EriWhvk7obvkog1o0VVxDvuQWWX0JDDQTJnBTCJJNVs/edit?usp=sharing)
+  - [Installing SQL Server 2016](https://docs.google.com/presentation/d/10-TraBqK8uKVNB6kdxr1D-VgGba-_CJjyMhi8_-elCY/edit?usp=sharing)
+  - [Post-installation Tasks for SQL Server 2016](https://docs.google.com/presentation/d/158uEJhRaGe7Ihnu9RWrxWLnb0QBb6dK1yH9tJIXgi4A/edit?usp=sharing)
 - Hands on Lab:
   - [Installing SQL Server 2016](#)
   - [Post-installation Tasks for SQL Server 2016](#)
