@@ -736,8 +736,8 @@
   - [Installing SQL Server 2016](https://docs.google.com/presentation/d/10-TraBqK8uKVNB6kdxr1D-VgGba-_CJjyMhi8_-elCY/edit?usp=sharing)
   - [Post-installation Tasks for SQL Server 2016](https://docs.google.com/presentation/d/158uEJhRaGe7Ihnu9RWrxWLnb0QBb6dK1yH9tJIXgi4A/edit?usp=sharing)
 - Hands on Lab:
-  - [Installing SQL Server 2016](#)
-  - [Post-installation Tasks for SQL Server 2016](#)
+  - [Installing SQL Server 2016](https://github.com/makersinstitute/.net-academy/blob/master/labs/w10d3-a.md)
+  - [Post-installation Tasks for SQL Server 2016](https://github.com/makersinstitute/.net-academy/blob/master/labs/w10d3-b.md)
   
 ## <a name="week11"></a>Week 11
 
