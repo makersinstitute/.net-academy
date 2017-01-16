@@ -743,17 +743,23 @@
 
 #### <a name="day111"></a>Day 1 - Automated ASP.NET MVC Testing
 - Learning Objectives:
-  - Introduction to Automated Testing
-  - Testing the Model
-  - Testing Controller
-  - Testing View Rendering
+   - Student understand the purpose of automated testing
+   - Student understand know about unit test
+   - Student understand know how to testing the model
+   - Student understand know how to testing controller
+   - Student understand know how to testing view
 - Pre-reading:
+  - [What is unit testing and how do you do it](http://stackoverflow.com/questions/652292/what-is-unit-testing-and-how-do-you-do-it)
+  - [The Beginner’s Guide to Unit Testing: What Is Unit Testing?](https://code.tutsplus.com/articles/the-beginners-guide-to-unit-testing-what-is-unit-testing--wp-25728)
+  - [Automated ASP.NET MVC Testing: Models](https://zombiecodekill.com/2016/07/10/automated-asp-net-mvc-testing-models/)
+  - [Automated ASP.NET MVC Testing: Controllers](https://zombiecodekill.com/2016/07/10/automated-asp-net-mvc-testing-controllers/)
+  - [Automated ASP.NET MVC: Functional UI Testing](https://zombiecodekill.com/2016/07/11/automated-asp-net-mvc-functional-ui-testing/)
 - Presentation:
-  - [Introduction to Automated Testing](#)
-  - [Testing the Model](#)
-  - [Testing Controller](#)
-  - [Testing View Rendering](#)
+  - [Automated ASP.NET MVC Testing](https://docs.google.com/presentation/d/1num6uyrCavG9L9g69_pibE7ki0u46oIIgQ1X65n74aI/edit?usp=sharing)
 - Hands on Lab:
   - [Testing the Model](#)
   - [Testing Controller](#)
   - [Testing View Rendering](#)
+- Additional Hands on Lab:
+ - [Walkthrough: Using TDD with ASP.NET MVC](https://msdn.microsoft.com/en-us/library/ff847525(v=vs.100).aspx)
+ - [Coded UI test automation of MVC applications with Visual Studio](https://code.msdn.microsoft.com/Coded-UI-test-automation-ab99ca9a)
