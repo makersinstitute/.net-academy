@@ -745,9 +745,9 @@
 - Learning Objectives:
    - Student understand the purpose of automated testing
    - Student understand know about unit test
-   - Student understand know how to testing the model
-   - Student understand know how to testing controller
-   - Student understand know how to testing view
+   - Student understand how to testing the model
+   - Student understand how to testing controllers
+   - Student understand how to functional UI testing
 - Pre-reading:
   - [What is unit testing and how do you do it](http://stackoverflow.com/questions/652292/what-is-unit-testing-and-how-do-you-do-it)
   - [The Beginner’s Guide to Unit Testing: What Is Unit Testing?](https://code.tutsplus.com/articles/the-beginners-guide-to-unit-testing-what-is-unit-testing--wp-25728)
