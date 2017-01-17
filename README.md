@@ -757,9 +757,9 @@
 - Presentation:
   - [Automated ASP.NET MVC Testing](https://docs.google.com/presentation/d/1num6uyrCavG9L9g69_pibE7ki0u46oIIgQ1X65n74aI/edit?usp=sharing)
 - Hands on Lab:
-  - [Testing the Model](#)
-  - [Testing Controller](#)
-  - [Testing View Rendering](#)
+  - [Testing the Model](https://github.com/makersinstitute/.net-academy/blob/master/labs/w11d1.md#model)
+  - [Testing Controller](https://github.com/makersinstitute/.net-academy/blob/master/labs/w11d1.md#controller)
+  - [Testing View Rendering](https://github.com/makersinstitute/.net-academy/blob/master/labs/w11d1.md#view)
 - Additional Hands on Lab:
  - [Walkthrough: Using TDD with ASP.NET MVC](https://msdn.microsoft.com/en-us/library/ff847525(v=vs.100).aspx)
  - [Coded UI test automation of MVC applications with Visual Studio](https://code.msdn.microsoft.com/Coded-UI-test-automation-ab99ca9a)
