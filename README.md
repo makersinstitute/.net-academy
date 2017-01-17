@@ -753,7 +753,7 @@
   - [The Beginner’s Guide to Unit Testing: What Is Unit Testing?](https://code.tutsplus.com/articles/the-beginners-guide-to-unit-testing-what-is-unit-testing--wp-25728)
   - [Automated ASP.NET MVC Testing: Models](https://zombiecodekill.com/2016/07/10/automated-asp-net-mvc-testing-models/)
   - [Automated ASP.NET MVC Testing: Controllers](https://zombiecodekill.com/2016/07/10/automated-asp-net-mvc-testing-controllers/)
-  - [Automated ASP.NET MVC: Functional UI Testing](https://zombiecodekill.com/2016/07/11/automated-asp-net-mvc-functional-ui-testing/)
+  - [Automated ASP.NET MVC Testing: View Rendering](https://zombiecodekill.com/2016/07/10/automated-asp-net-mvc-testing-view-rendering/)
 - Presentation:
   - [Automated ASP.NET MVC Testing](https://docs.google.com/presentation/d/1num6uyrCavG9L9g69_pibE7ki0u46oIIgQ1X65n74aI/edit?usp=sharing)
 - Hands on Lab:
@@ -761,5 +761,20 @@
   - [Testing Controller](https://github.com/makersinstitute/.net-academy/blob/master/labs/w11d1.md#controller)
   - [Testing View Rendering](https://github.com/makersinstitute/.net-academy/blob/master/labs/w11d1.md#view)
 - Additional Hands on Lab:
- - [Walkthrough: Using TDD with ASP.NET MVC](https://msdn.microsoft.com/en-us/library/ff847525(v=vs.100).aspx)
- - [Coded UI test automation of MVC applications with Visual Studio](https://code.msdn.microsoft.com/Coded-UI-test-automation-ab99ca9a)
+  - [Walkthrough: Using TDD with ASP.NET MVC](https://msdn.microsoft.com/en-us/library/ff847525(v=vs.100).aspx)
+  - [Coded UI test automation of MVC applications with Visual Studio](https://code.msdn.microsoft.com/Coded-UI-test-automation-ab99ca9a)
+
+#### <a name="day112"></a>Day 2 - Running Test on TeamCity Continuous Integration Server
+- Learning Objectives:
+   - Student understand how to use functional UI testing
+   - Student understand the purpose of continuous integration
+   - Student know how to use TeamCity Continuous Integration Server
+- Pre-reading:
+  - [Automated ASP.NET MVC: Functional UI Testing](https://zombiecodekill.com/2016/07/11/automated-asp-net-mvc-functional-ui-testing/)
+  - [What is Continuous Integration?](https://www.visualstudio.com/learn/what-is-continuous-integration/)
+  - [TeamCity Continuous Integration](https://www.jetbrains.com/teamcity/)
+- Presentation:
+  - [Running Test on TeamCity Continuous Integration Server](https://docs.google.com/presentation/d/1num6uyrCavG9L9g69_pibE7ki0u46oIIgQ1X65n74aI/edit?usp=sharing)
+- Hands on Lab:
+  - [Automated Functional UI Testing](https://github.com/makersinstitute/.net-academy/blob/master/labs/w11d2.md#)
+  - [Running Tests on TeamCity Continuous Integration Server](https://github.com/makersinstitute/.net-academy/blob/master/labs/w11d2.md#)
