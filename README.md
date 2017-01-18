@@ -774,7 +774,7 @@
   - [What is Continuous Integration?](https://www.visualstudio.com/learn/what-is-continuous-integration/)
   - [TeamCity Continuous Integration](https://www.jetbrains.com/teamcity/)
 - Presentation:
-  - [Running Test on TeamCity Continuous Integration Server](https://docs.google.com/presentation/d/1num6uyrCavG9L9g69_pibE7ki0u46oIIgQ1X65n74aI/edit?usp=sharing)
+  - [Running Test on TeamCity Continuous Integration Server](https://docs.google.com/presentation/d/1pLsVvzErfyoMz1OIRzwgnqxZKArl-MqFbegubgXQrPQ/edit?usp=sharing)
 - Hands on Lab:
   - [Automated Functional UI Testing](https://github.com/makersinstitute/.net-academy/blob/master/labs/w11d2.md#)
   - [Running Tests on TeamCity Continuous Integration Server](https://github.com/makersinstitute/.net-academy/blob/master/labs/w11d2.md#)
