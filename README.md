@@ -777,4 +777,4 @@
   - [Running Test on TeamCity Continuous Integration Server](https://docs.google.com/presentation/d/1pLsVvzErfyoMz1OIRzwgnqxZKArl-MqFbegubgXQrPQ/edit?usp=sharing)
 - Hands on Lab:
   - [Automated Functional UI Testing](https://github.com/makersinstitute/.net-academy/blob/master/labs/w11d2.md)
-  - [Running Tests on TeamCity Continuous Integration Server](#)
+  - [Running Tests on TeamCity Continuous Integration Server](https://github.com/makersinstitute/.net-academy/blob/master/labs/w11d2-b.md)
