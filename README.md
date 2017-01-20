@@ -784,10 +784,13 @@
    - Student understand
    - Student understand
 - Pre-reading:
-  - [Lesson 1](#)
-  - [Lesson 2](#)
-  - [Lesson 3](#)
+   - [Lesson 1](#)
+   - [Lesson 2](#)
+   - [Lesson 3](#)
 - Presentation:
-  - [Introduction to Scrum](#)
+   - [Introduction to Scrum](#)
 - Hands on Lab:
-  - [Introduction to Scrum with Taiga](https://github.com/makersinstitute/.net-academy/blob/master/labs/w11d3.md)
+   - [Introduction to Scrum with Taiga](https://github.com/makersinstitute/.net-academy/blob/master/labs/w11d3.md)
+- Additional Hands on Lab:
+- Additional Reading:
+
