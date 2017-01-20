@@ -778,3 +778,16 @@
 - Hands on Lab:
   - [Automated Functional UI Testing](https://github.com/makersinstitute/.net-academy/blob/master/labs/w11d2.md)
   - [Running Tests on TeamCity Continuous Integration Server](https://github.com/makersinstitute/.net-academy/blob/master/labs/w11d2-b.md)
+  
+#### <a name="day113"></a>Day 3 - Introduction to Scrum
+- Learning Objectives:
+   - Student understand
+   - Student understand
+- Pre-reading:
+  - [Lesson 1](#)
+  - [Lesson 2](#)
+  - [Lesson 3](#)
+- Presentation:
+  - [Introduction to Scrum](#)
+- Hands on Lab:
+  - [Introduction to Scrum with Taiga](https://github.com/makersinstitute/.net-academy/blob/master/labs/w11d3.md)
