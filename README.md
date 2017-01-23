@@ -781,16 +781,16 @@
   
 #### <a name="day113"></a>Day 3 - Introduction to Scrum
 - Learning Objectives:
-   - Student understand
-   - Student understand
+   - Student understand the basic concept of Scrum
+   - Student understand various roles in Scrum
+   - Student understand Scrum cycles
+   - Student know how to implement Scrum in software development
 - Pre-reading:
-   - [Lesson 1](#)
-   - [Lesson 2](#)
-   - [Lesson 3](#)
+   - [Scrum - A brief introduction](https://www.atlassian.com/agile/scrum)
+   - [Scrum in 5 Minutes](http://stephenwalther.com/archive/2012/08/17/scrum-in-5-minutes)
+   - [The Scrum Guide](http://www.scrumguides.org/docs/scrumguide/v1/scrum-guide-us.pdf)
 - Presentation:
-   - [Introduction to Scrum](#)
-- Hands on Lab:
-   - [Introduction to Scrum with Taiga](https://github.com/makersinstitute/.net-academy/blob/master/labs/w11d3.md)
-- Additional Hands on Lab:
+   - [Introduction to Scrum](https://docs.google.com/presentation/d/1XiOYJ1K3sNoVBLcWLrNIoDWpFLYn21G_06NV5KNIGGM/edit?usp=sharing)
 - Additional Reading:
+  - [Modern Management with Scrum](https://medium.com/@jpartogi)
 
