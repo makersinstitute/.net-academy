@@ -793,4 +793,10 @@
    - [Introduction to Scrum](https://docs.google.com/presentation/d/1XiOYJ1K3sNoVBLcWLrNIoDWpFLYn21G_06NV5KNIGGM/edit?usp=sharing)
 - Additional Reading:
   - [Modern Management with Scrum](https://medium.com/@jpartogi)
+  
+## <a name="week12"></a>Week 12
+
+#### Project Assignment
+  - [Demo Site](#)
+  - [Project details](#)
 
