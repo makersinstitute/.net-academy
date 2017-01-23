@@ -783,7 +783,7 @@
 - Learning Objectives:
    - Student understand the basic concept of Scrum
    - Student understand various roles in Scrum
-   - Student understand Scrum cycles
+   - Student understand Sprint cycles
    - Student know how to implement Scrum in software development
 - Pre-reading:
    - [Scrum - A brief introduction](https://www.atlassian.com/agile/scrum)
