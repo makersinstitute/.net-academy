@@ -798,5 +798,5 @@
 
 #### Project Assignment
   - [Demo Site](#)
-  - [Project details](#)
+  - [Project details](https://github.com/makersinstitute/.net-academy/blob/master/labs/w12.md)
 
