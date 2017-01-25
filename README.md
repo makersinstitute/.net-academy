@@ -797,6 +797,6 @@
 ## <a name="week12"></a>Week 12
 
 #### Project Assignment
-  - [Demo Site](#)
+  - [Demo Site](http://192.168.1.2:8888) (Local)
   - [Project details](https://github.com/makersinstitute/.net-academy/blob/master/labs/w12.md)
 
